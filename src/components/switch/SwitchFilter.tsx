@@ -14,6 +14,7 @@ import type { SwitchType, MountPins, SwitchFilters } from '@/types/switch';
 interface SwitchFilterProps {
   filters: SwitchFilters;
   onFilterChange: (filters: SwitchFilters) => void;
+  manufacturers?: string[];
 }
 
 const switchTypes: { value: SwitchType; labelKey: string }[] = [
@@ -28,7 +29,7 @@ const mountPinOptions: { value: MountPins; labelKey: string }[] = [
   { value: 0, labelKey: 'switch.pinNone' },
 ];
 
-const SwitchFilter = ({ filters, onFilterChange }: SwitchFilterProps) => {
+const SwitchFilter = ({ filters, onFilterChange, manufacturers = [] }: SwitchFilterProps) => {
   const { t } = useTranslation();
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -38,6 +39,7 @@ const SwitchFilter = ({ filters, onFilterChange }: SwitchFilterProps) => {
       const params = new URLSearchParams();
       if (newFilters.query) params.set('q', newFilters.query);
       if (newFilters.type) params.set('type', newFilters.type);
+      if (newFilters.manufacturer) params.set('manufacturer', newFilters.manufacturer);
       if (newFilters.mountPins !== undefined) params.set('mountPins', String(newFilters.mountPins));
       if (newFilters.factoryLubed !== undefined)
         params.set('factoryLubed', String(newFilters.factoryLubed));
@@ -102,6 +104,33 @@ const SwitchFilter = ({ filters, onFilterChange }: SwitchFilterProps) => {
           ))}
         </div>
       </div>
+
+      <Separator />
+
+      {manufacturers.length > 0 && (
+        <div>
+          <Label className="text-sm font-medium mb-3 block">{t('filter.manufacturer')}</Label>
+          <div className="space-y-2 max-h-48 overflow-y-auto">
+            <button
+              type="button"
+              className={`block text-sm w-full text-left px-2 py-1 rounded ${!filters.manufacturer ? 'bg-primary text-primary-foreground' : 'hover:bg-muted'}`}
+              onClick={() => update({ manufacturer: undefined })}
+            >
+              {t('switch.all')}
+            </button>
+            {manufacturers.map((m) => (
+              <button
+                key={m}
+                type="button"
+                className={`block text-sm w-full text-left px-2 py-1 rounded ${filters.manufacturer === m ? 'bg-primary text-primary-foreground' : 'hover:bg-muted'}`}
+                onClick={() => update({ manufacturer: m })}
+              >
+                {m}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
 
       <Separator />
 

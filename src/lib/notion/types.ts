@@ -97,6 +97,7 @@ export const mapPageToSwitch = (page: PageObjectResponse): KeyboardSwitch => {
     slug: nameToSlug(name),
     name,
     manufacturer: getRichText(props['제조사']),
+    collaborator: getRichText(props['콜라보업체']),
     image: getFiles(props['이미지']),
     type,
     upperHousingMaterial: getRichText(props['상부하우징재질']),
@@ -114,6 +115,7 @@ export const mapPageToSwitch = (page: PageObjectResponse): KeyboardSwitch => {
     },
     status: (getStatus(props['상태']) as KeyboardSwitch['status']) ?? '게시됨',
     soundUrl: getUrl(props['타건음URL']),
+    source: getUrl(props['출처']),
     createdAt: page.created_time,
   };
 };

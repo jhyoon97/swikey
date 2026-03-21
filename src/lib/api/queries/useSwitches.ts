@@ -14,10 +14,22 @@ export const useSwitches = () => {
   });
 };
 
+export const useManufacturers = () => {
+  return useQuery<string[]>({
+    queryKey: ['switches', 'manufacturers'],
+    queryFn: async () => {
+      const { data } = await api.get('/switches/manufacturers');
+      return data;
+    },
+    staleTime: 5 * 60 * 1000,
+  });
+};
+
 export const useSearchSwitches = (filters: SwitchFilters) => {
   const params = new URLSearchParams();
   if (filters.query) params.set('q', filters.query);
   if (filters.type) params.set('type', filters.type);
+  if (filters.manufacturer) params.set('manufacturer', filters.manufacturer);
   if (filters.mountPins !== undefined) params.set('mountPins', String(filters.mountPins));
   if (filters.factoryLubed !== undefined) params.set('factoryLubed', String(filters.factoryLubed));
   if (filters.actuationMin !== undefined) params.set('actuationMin', String(filters.actuationMin));

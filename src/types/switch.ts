@@ -7,6 +7,7 @@ export interface KeyboardSwitch {
   slug: string;
   name: string;
   manufacturer?: string;
+  collaborator?: string;
   image?: string;
   type: SwitchType;
   upperHousingMaterial?: string;
@@ -24,6 +25,7 @@ export interface KeyboardSwitch {
   };
   status: SwitchStatus;
   soundUrl?: string;
+  source?: string;
   createdAt: string;
 }
 
@@ -42,6 +44,7 @@ export interface SwitchComment {
 export interface SwitchFilters {
   query?: string;
   type?: SwitchType;
+  manufacturer?: string;
   mountPins?: MountPins;
   factoryLubed?: boolean;
   actuationMin?: number;
@@ -53,6 +56,7 @@ export interface SwitchFilters {
 export interface SubmitSwitchData {
   name: string;
   manufacturer?: string;
+  collaborator?: string;
   type?: SwitchType;
   upperHousingMaterial?: string;
   lowerHousingMaterial?: string;
@@ -67,4 +71,5 @@ export interface SubmitSwitchData {
   bottomForce?: number;
   imageUrl?: string;
   soundUrl?: string;
+  source?: string;
 }

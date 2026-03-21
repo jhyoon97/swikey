@@ -55,6 +55,7 @@
     "title": "필터",
     "type": "타입",
     "mountPins": "마운트 핀",
+    "manufacturer": "제조사",
     "factoryLubed": "공장 윤활",
     "actuationForceRange": "입력압 범위",
     "travelRange": "트래블 범위",

@@ -78,6 +78,13 @@ export const searchSwitches = async (filters: SwitchFilters): Promise<KeyboardSw
     });
   }
 
+  if (filters.manufacturer) {
+    conditions.push({
+      property: '제조사',
+      rich_text: { equals: filters.manufacturer },
+    });
+  }
+
   if (filters.type) {
     conditions.push({
       property: '스위치타입',
@@ -141,6 +148,17 @@ export const searchSwitches = async (filters: SwitchFilters): Promise<KeyboardSw
     .map(mapPageToSwitch);
 };
 
+export const getManufacturers = async (): Promise<string[]> => {
+  const switches = await getSwitches(100);
+  const manufacturers = new Set<string>();
+  for (const sw of switches) {
+    if (sw.manufacturer) {
+      manufacturers.add(sw.manufacturer);
+    }
+  }
+  return Array.from(manufacturers).sort();
+};
+
 export const submitSwitch = async (data: SubmitSwitchData): Promise<string> => {
   const notion = getNotionClient();
 
@@ -151,6 +169,9 @@ export const submitSwitch = async (data: SubmitSwitchData): Promise<string> => {
 
   if (data.manufacturer) {
     properties['제조사'] = { rich_text: [{ text: { content: data.manufacturer } }] };
+  }
+  if (data.collaborator) {
+    properties['콜라보업체'] = { rich_text: [{ text: { content: data.collaborator } }] };
   }
   if (data.type) {
     properties['스위치타입'] = { select: { name: data.type } };
@@ -196,6 +217,9 @@ export const submitSwitch = async (data: SubmitSwitchData): Promise<string> => {
   }
   if (data.soundUrl) {
     properties['타건음URL'] = { url: data.soundUrl };
+  }
+  if (data.source) {
+    properties['출처'] = { url: data.source };
   }
 
   const page = await notion.pages.create({

@@ -6,7 +6,7 @@ import { Filter } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import SwitchFilter from '@/components/switch/SwitchFilter';
 import SwitchCardGrid from '@/components/switch/SwitchCardGrid';
-import { useSearchSwitches } from '@/lib/api/queries/useSwitches';
+import { useSearchSwitches, useManufacturers } from '@/lib/api/queries/useSwitches';
 import { useTranslation } from '@/i18n/useTranslation';
 import type { SwitchFilters, SwitchType, MountPins } from '@/types/switch';
 
@@ -18,6 +18,7 @@ const SwitchesPageContent = () => {
   const [filters, setFilters] = useState<SwitchFilters>(() => ({
     query: searchParams.get('q') || undefined,
     type: (searchParams.get('type') as SwitchType) || undefined,
+    manufacturer: searchParams.get('manufacturer') || undefined,
     mountPins: searchParams.get('mountPins')
       ? (Number(searchParams.get('mountPins')) as MountPins)
       : undefined,
@@ -40,6 +41,7 @@ const SwitchesPageContent = () => {
   }));
 
   const { data: switches, isLoading } = useSearchSwitches(filters);
+  const { data: manufacturers } = useManufacturers();
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
@@ -62,7 +64,7 @@ const SwitchesPageContent = () => {
         >
           <div className="sticky top-20">
             <h2 className="font-semibold mb-4">{t('filter.title')}</h2>
-            <SwitchFilter filters={filters} onFilterChange={setFilters} />
+            <SwitchFilter filters={filters} onFilterChange={setFilters} manufacturers={manufacturers} />
           </div>
         </aside>
 

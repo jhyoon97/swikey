@@ -55,6 +55,7 @@
     "title": "Filters",
     "type": "Type",
     "mountPins": "Mount Pins",
+    "manufacturer": "Manufacturer",
     "factoryLubed": "Factory Lubed",
     "actuationForceRange": "Actuation Force Range",
     "travelRange": "Travel Range",

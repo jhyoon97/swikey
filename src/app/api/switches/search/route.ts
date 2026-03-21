@@ -10,6 +10,7 @@ export const GET = async (request: NextRequest) => {
     const filters = {
       query: searchParams.get('q') || undefined,
       type: (searchParams.get('type') as SwitchType) || undefined,
+      manufacturer: searchParams.get('manufacturer') || undefined,
       mountPins: searchParams.get('mountPins')
         ? (Number(searchParams.get('mountPins')) as MountPins)
         : undefined,
