@@ -66,6 +66,17 @@ const SwitchSubmitForm = () => {
             />
           </div>
 
+          <div>
+            <Label htmlFor="nameKo" className="mb-2 block">
+              {t('submit.switchNameKo')}
+            </Label>
+            <Input
+              id="nameKo"
+              value={form.nameKo ?? ''}
+              onChange={(e) => updateField('nameKo', e.target.value || undefined)}
+            />
+          </div>
+
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div>
               <Label htmlFor="manufacturer" className="mb-2 block">

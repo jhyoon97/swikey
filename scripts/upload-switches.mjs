@@ -72,25 +72,26 @@ function parseMarkdownTables(content) {
     if (inTable && trimmed.startsWith('|') && trimmed.endsWith('|')) {
       const cells = trimmed.split('|').map(c => c.trim()).filter((_, i, arr) => i > 0 && i < arr.length);
 
-      if (cells.length >= 15) {
-        // 새 포맷: 이름 | 제조사 | 콜라보업체 | 스위치타입 | ... | 출처
+      if (cells.length >= 16) {
+        // 새 포맷: 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | ... | 출처
         switches.push({
           name: cells[0],
-          manufacturer: cells[1],
-          collaborator: cells[2],
-          type: cells[3],
-          upperHousingMaterial: cells[4],
-          lowerHousingMaterial: cells[5],
-          stemMaterial: cells[6],
-          factoryLubed: cells[7],
-          springLength: cells[8],
-          mountPins: cells[9],
-          travel: cells[10],
-          actuationPoint: cells[11],
-          actuationForce: cells[12],
-          initialForce: cells[13],
-          bottomForce: cells[14],
-          source: cells[15],
+          nameKo: cells[1],
+          manufacturer: cells[2],
+          collaborator: cells[3],
+          type: cells[4],
+          upperHousingMaterial: cells[5],
+          lowerHousingMaterial: cells[6],
+          stemMaterial: cells[7],
+          factoryLubed: cells[8],
+          springLength: cells[9],
+          mountPins: cells[10],
+          travel: cells[11],
+          actuationPoint: cells[12],
+          actuationForce: cells[13],
+          initialForce: cells[14],
+          bottomForce: cells[15],
+          source: cells[16],
         });
       }
     }
@@ -104,11 +105,27 @@ function parseMarkdownTables(content) {
   return switches;
 }
 
+function nameToSlug(name) {
+  return name
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-')
+    .replace(/[^a-z0-9가-힣ㄱ-ㅎㅏ-ㅣ()\-]/g, '')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
 function buildProperties(sw) {
   const props = {
     '이름': { title: [{ text: { content: sw.name } }] },
     '상태': { status: { name: '게시됨' } },
+    'slug': { rich_text: [{ text: { content: nameToSlug(sw.name) } }] },
   };
+
+  const nameKo = parseString(sw.nameKo);
+  if (nameKo) {
+    props['한글이름'] = { rich_text: [{ text: { content: nameKo } }] };
+  }
 
   const manufacturer = parseString(sw.manufacturer);
   if (manufacturer) {

@@ -49,6 +49,7 @@ user_invocable: true
 | 바닥압(g) | 바닥압 | number |
 | 출처 | 출처 | url |
 | (자동) | 상태 | status → `게시됨` |
+| (자동) | slug | rich_text → `nameToSlug(이름)` |
 
 ### 주의사항
 - Notion API rate limit (3 req/sec)을 고려하여 350ms 간격으로 순차 업로드

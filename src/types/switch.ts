@@ -6,6 +6,7 @@ export interface KeyboardSwitch {
   id: string;
   slug: string;
   name: string;
+  nameKo?: string;
   manufacturer?: string;
   collaborator?: string;
   image?: string;
@@ -55,6 +56,7 @@ export interface SwitchFilters {
 
 export interface SubmitSwitchData {
   name: string;
+  nameKo?: string;
   manufacturer?: string;
   collaborator?: string;
   type?: SwitchType;

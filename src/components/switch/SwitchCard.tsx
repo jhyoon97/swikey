@@ -48,7 +48,10 @@ const SwitchCard = ({ sw }: { sw: KeyboardSwitch }) => {
           {sw.manufacturer && (
             <p className="text-xs text-muted-foreground mb-1">{sw.manufacturer}</p>
           )}
-          <h3 className="font-semibold text-sm line-clamp-2 mb-2">{sw.name}</h3>
+          <h3 className="font-semibold text-sm line-clamp-2 mb-1">{sw.name}</h3>
+          {sw.nameKo && (
+            <p className="text-xs text-muted-foreground mb-1">{sw.nameKo}</p>
+          )}
           <div className="flex gap-3 text-xs text-muted-foreground">
             {sw.pressure.actuation !== undefined && (
               <span>

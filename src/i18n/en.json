@@ -65,6 +65,7 @@
     "title": "Submit a Switch",
     "description": "Share switch info you know. It will be published after admin review.",
     "switchName": "Switch Name",
+    "switchNameKo": "Switch Name (Korean)",
     "switchNameRequired": "Switch name is required.",
     "submitButton": "Submit",
     "submitting": "Submitting...",

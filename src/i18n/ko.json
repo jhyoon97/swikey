@@ -65,6 +65,7 @@
     "title": "스위치 제보",
     "description": "알고 계신 스위치 정보를 제보해주세요. 관리자 검토 후 게시됩니다.",
     "switchName": "스위치 이름",
+    "switchNameKo": "스위치 한글 이름",
     "switchNameRequired": "스위치 이름은 필수입니다.",
     "submitButton": "제보하기",
     "submitting": "제보 중...",

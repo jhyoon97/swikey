@@ -94,8 +94,9 @@ export const mapPageToSwitch = (page: PageObjectResponse): KeyboardSwitch => {
 
   return {
     id: page.id,
-    slug: nameToSlug(name),
+    slug: getRichText(props.slug) || nameToSlug(name),
     name,
+    nameKo: getRichText(props['한글이름']),
     manufacturer: getRichText(props['제조사']),
     collaborator: getRichText(props['콜라보업체']),
     image: getFiles(props['이미지']),

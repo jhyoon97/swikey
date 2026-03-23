@@ -98,9 +98,14 @@ const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
         </div>
 
         <div className="flex-1">
-          <div className="flex items-center gap-3 mb-4">
-            <h1 className="text-3xl font-bold">{sw.name}</h1>
-            <Badge className={typeColorMap[sw.type]}>{typeLabel}</Badge>
+          <div className="mb-4">
+            <div className="flex items-center gap-3">
+              <h1 className="text-3xl font-bold">{sw.name}</h1>
+              <Badge className={typeColorMap[sw.type]}>{typeLabel}</Badge>
+            </div>
+            {sw.nameKo && (
+              <p className="text-lg text-muted-foreground mt-1">{sw.nameKo}</p>
+            )}
           </div>
 
           {sw.manufacturer && (

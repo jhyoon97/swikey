@@ -34,33 +34,31 @@ export const getSwitchById = async (id: string): Promise<KeyboardSwitch | null> 
 
 export const getSwitchBySlug = async (slug: string): Promise<KeyboardSwitch | null> => {
   const notion = getNotionClient();
+  const decodedSlug = decodeURIComponent(slug);
 
-  // slug에서 대략적인 검색어 추출 (하이픈→공백)하여 Notion 필터로 후보 축소
-  const searchHint = decodeURIComponent(slug).replace(/-/g, ' ').slice(0, 20);
-
+  // slug 프로퍼티로 직접 검색
   const response = await notion.databases.query({
     database_id: SWITCHES_DB_ID,
     filter: {
       and: [
         { property: '상태', status: { equals: '게시됨' } },
-        { property: '이름', title: { contains: searchHint.split(' ')[0] } },
+        { property: 'slug', rich_text: { equals: decodedSlug } },
       ],
     },
-    page_size: 100,
+    page_size: 1,
   });
 
   const pages = response.results.filter(
     (page): page is PageObjectResponse => 'properties' in page,
   );
 
-  for (const page of pages) {
-    const sw = mapPageToSwitch(page);
-    if (sw.slug === decodeURIComponent(slug)) return sw;
+  if (pages.length > 0) {
+    return mapPageToSwitch(pages[0]);
   }
 
-  // 힌트 검색으로 못 찾은 경우 전체 조회 fallback
+  // fallback: slug 프로퍼티가 없는 기존 데이터 호환
   const allSwitches = await getSwitches(100);
-  return allSwitches.find((sw) => sw.slug === decodeURIComponent(slug)) ?? null;
+  return allSwitches.find((sw) => sw.slug === decodedSlug) ?? null;
 };
 
 export const searchSwitches = async (filters: SwitchFilters): Promise<KeyboardSwitch[]> => {
@@ -73,8 +71,10 @@ export const searchSwitches = async (filters: SwitchFilters): Promise<KeyboardSw
 
   if (filters.query) {
     conditions.push({
-      property: '이름',
-      title: { contains: filters.query },
+      or: [
+        { property: '이름', title: { contains: filters.query } },
+        { property: '한글이름', rich_text: { contains: filters.query } },
+      ],
     });
   }
 
@@ -165,8 +165,12 @@ export const submitSwitch = async (data: SubmitSwitchData): Promise<string> => {
   const properties: Record<string, unknown> = {
     '이름': { title: [{ text: { content: data.name } }] },
     '상태': { status: { name: '제보(대기중)' } },
+    'slug': { rich_text: [{ text: { content: nameToSlug(data.name) } }] },
   };
 
+  if (data.nameKo) {
+    properties['한글이름'] = { rich_text: [{ text: { content: data.nameKo } }] };
+  }
   if (data.manufacturer) {
     properties['제조사'] = { rich_text: [{ text: { content: data.manufacturer } }] };
   }
