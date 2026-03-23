@@ -14,7 +14,8 @@ const typeColorMap = {
 } as const;
 
 const SwitchCard = ({ sw }: { sw: KeyboardSwitch }) => {
-  const { t } = useTranslation();
+  const { t, locale } = useTranslation();
+  const displayName = locale === 'ko' && sw.nameKo ? sw.nameKo : sw.name;
 
   const typeLabel =
     sw.type === '리니어'
@@ -48,10 +49,7 @@ const SwitchCard = ({ sw }: { sw: KeyboardSwitch }) => {
           {sw.manufacturer && (
             <p className="text-xs text-muted-foreground mb-1">{sw.manufacturer}</p>
           )}
-          <h3 className="font-semibold text-sm line-clamp-2 mb-1">{sw.name}</h3>
-          {sw.nameKo && (
-            <p className="text-xs text-muted-foreground mb-1">{sw.nameKo}</p>
-          )}
+          <h3 className="font-semibold text-sm line-clamp-2 mb-1">{displayName}</h3>
           <div className="flex gap-3 text-xs text-muted-foreground">
             {sw.pressure.actuation !== undefined && (
               <span>

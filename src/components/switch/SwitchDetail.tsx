@@ -15,7 +15,8 @@ const typeColorMap = {
 } as const;
 
 const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
-  const { t } = useTranslation();
+  const { t, locale } = useTranslation();
+  const displayName = locale === 'ko' && sw.nameKo ? sw.nameKo : sw.name;
 
   const typeLabel =
     sw.type === '리니어'
@@ -104,12 +105,9 @@ const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
         <div className="flex-1">
           <div className="mb-4">
             <div className="flex items-center gap-3">
-              <h1 className="text-3xl font-bold">{sw.name}</h1>
+              <h1 className="text-3xl font-bold">{displayName}</h1>
               <Badge className={typeColorMap[sw.type]}>{typeLabel}</Badge>
             </div>
-            {sw.nameKo && (
-              <p className="text-lg text-muted-foreground mt-1">{sw.nameKo}</p>
-            )}
           </div>
 
           {sw.manufacturer && (
