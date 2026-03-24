@@ -98,7 +98,7 @@ const SwitchesPageContent = () => {
         <aside
           className={`w-64 shrink-0 ${showFilter ? 'block' : 'hidden'} md:block`}
         >
-          <div className="sticky top-20">
+          <div className="sticky top-20 max-h-[calc(100vh-5rem)] overflow-y-auto">
             <h2 className="font-semibold mb-4">{t('filter.title')}</h2>
             <SwitchFilter
               filters={filters}
