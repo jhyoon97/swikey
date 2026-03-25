@@ -1,4 +1,4 @@
-export type SwitchType = '리니어' | '택타일' | 'hall effect';
+export type SwitchType = '리니어' | '택타일' | '클릭' | 'hall effect';
 export type MountPins = 5 | 3 | 0;
 export type SwitchStatus = '게시됨' | '제보(대기중)' | '검토중';
 

@@ -26,6 +26,7 @@
     "type": "스위치 타입",
     "linear": "리니어",
     "tactile": "택타일",
+    "clicky": "클릭",
     "hallEffect": "Hall Effect",
     "manufacturer": "제조사",
     "image": "이미지",

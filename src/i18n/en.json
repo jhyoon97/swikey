@@ -26,6 +26,7 @@
     "type": "Switch Type",
     "linear": "Linear",
     "tactile": "Tactile",
+    "clicky": "Clicky",
     "hallEffect": "Hall Effect",
     "manufacturer": "Manufacturer",
     "image": "Image",

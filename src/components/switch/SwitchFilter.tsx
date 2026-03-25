@@ -19,6 +19,7 @@ interface SwitchFilterProps {
 const switchTypes: { value: SwitchType; labelKey: string }[] = [
   { value: '리니어', labelKey: 'switch.linear' },
   { value: '택타일', labelKey: 'switch.tactile' },
+  { value: '클릭', labelKey: 'switch.clicky' },
   { value: 'hall effect', labelKey: 'switch.hallEffect' },
 ];
 
