@@ -14,7 +14,7 @@ const SwitchCard = ({ sw }: { sw: KeyboardSwitch }) => {
   const typeLabel = t(switchTypeLabelKey[sw.type]);
 
   return (
-    <Link href={`/switches/${sw.slug}`}>
+    <Link href={`/switches/${sw.slug}`} prefetch={false}>
       <Card className="group overflow-hidden transition-shadow hover:shadow-lg cursor-pointer h-full">
         <div className="relative aspect-square bg-muted overflow-hidden">
           {sw.image ? (

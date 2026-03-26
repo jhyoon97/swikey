@@ -65,5 +65,5 @@
 
 | 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
 |------|----------|--------|-----------|-----------|--------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
-| Huano OMEGA Magnetic HE | - | Huano | - | hall effect | No | PC | PA66 | POM | No | 20 | - | 3.5 | - | 45 | - | 45 | https://mechkeys.com/collections/huano-switch |
-| Huano Magnetic Red | - | Huano | - | hall effect | No | - | - | - | - | - | - | 4.0 | - | 45 | - | - | https://switchoddities.com/products/huano-magnetic-red |
+| Huano OMEGA Magnetic HE | - | Huano | - | hall effect | No | PC | PA66 | POM | No | 20 | - | 3.5 | - | - | - | 45 | https://mechkeys.com/collections/huano-switch |
+| Huano Magnetic Red | - | Huano | - | hall effect | No | - | - | - | - | - | - | 4.0 | - | - | - | - | https://switchoddities.com/products/huano-magnetic-red |

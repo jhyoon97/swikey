@@ -123,7 +123,7 @@
 | HMX x 80Retros Volume 0 | - | HMX | 80Retros | 리니어 | Yes | PA12 | P4 | POM+TPE | Yes | 22 | 5 | 3.7 | 2.2 | 40 | - | 46 | https://divinikey.com/products/hmx-volume-0-silent-switches |
 | HMX Taro Silent 37g | - | HMX | - | 리니어 | Yes | PC | Nylon | POM+TPE | Yes | 22 | 5 | 3.8 | 2.0 | 37 | - | 45 | https://mechanicalkeyboards.com/products/hmx-taro-silent-linear-pcb-mount-switch |
 | HMX Taro Silent 45g | - | HMX | - | 리니어 | Yes | PC | Nylon | POM+TPE | Yes | 22 | 5 | 3.8 | 2.0 | 45 | - | 53 | https://mechanicalkeyboards.com/products/hmx-taro-silent-linear-pcb-mount-switch |
-| HMX Crystal HE | - | HMX | - | hall effect | No | PC | PA66+30%FG | POM | Yes | - | 5 | 3.3 | - | 35 | - | 42 | https://unikeyboards.com/products/hmx-crystal-he-magnetic-gaming-switch-factory-lubed-10pcs |
+| HMX Crystal HE | - | HMX | - | hall effect | No | PC | PA66+30%FG | POM | Yes | - | 5 | 3.3 | - | - | - | 42 | https://unikeyboards.com/products/hmx-crystal-he-magnetic-gaming-switch-factory-lubed-10pcs |
 
 ## 택타일 스위치
 

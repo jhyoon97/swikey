@@ -117,7 +117,7 @@
 
 | 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
 |------|----------|--------|-----------|-----------|--------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
-| Durock Rock HE | 듀록 록 HE | JWK | Durock | hall effect | No | Modified PC | Modified PC | POM (Long Pole) | Yes | 15.5 | - | 3.4 | - | 35 | 35 | 48 | https://milktooth.com/products/rock-he |
-| Durock Rock HE (Spacebar) | 듀록 록 HE (스페이스바) | JWK | Durock | hall effect | No | Modified PC | Modified PC | POM (Long Pole) | Yes | 15.5 | - | 3.4 | - | 50 | 50 | 63.5 | https://lumekeebs.com/products/durock-rock-he-hall-effect-switches |
-| Everglide Sticky Rice V2 HE | 에버글라이드 찹쌀 V2 HE | JWK | Everglide | hall effect | No | PC | Nylon | POM | Yes | - | - | 3.5 | - | 40 | 30 | 50 | https://milktooth.com/products/sticky-rice |
-| Everglide Rice Pudding HE | 에버글라이드 라이스 푸딩 HE | JWK | Everglide | hall effect | No | PC | Nylon | POM | Yes | - | - | 3.5 | - | 38 | - | 48 | https://milktooth.com/products/rice-pudding |
+| Durock Rock HE | 듀록 록 HE | JWK | Durock | hall effect | No | Modified PC | Modified PC | POM (Long Pole) | Yes | 15.5 | - | 3.4 | - | - | 35 | 48 | https://milktooth.com/products/rock-he |
+| Durock Rock HE (Spacebar) | 듀록 록 HE (스페이스바) | JWK | Durock | hall effect | No | Modified PC | Modified PC | POM (Long Pole) | Yes | 15.5 | - | 3.4 | - | - | 50 | 63.5 | https://lumekeebs.com/products/durock-rock-he-hall-effect-switches |
+| Everglide Sticky Rice V2 HE | 에버글라이드 찹쌀 V2 HE | JWK | Everglide | hall effect | No | PC | Nylon | POM | Yes | - | - | 3.5 | - | - | 30 | 50 | https://milktooth.com/products/sticky-rice |
+| Everglide Rice Pudding HE | 에버글라이드 라이스 푸딩 HE | JWK | Everglide | hall effect | No | PC | Nylon | POM | Yes | - | - | 3.5 | - | - | - | 48 | https://milktooth.com/products/rice-pudding |
