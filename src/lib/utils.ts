@@ -21,6 +21,25 @@ export const switchTypeLabelKey: Record<SwitchType, string> = {
   'hall effect': 'switch.hallEffect',
 };
 
+export const MANUFACTURERS = [
+  'BSUN',
+  'Cherry',
+  'Gateron',
+  'HMX',
+  'Huano',
+  'Jerrzi',
+  'JWK',
+  'Kailh',
+  'Keygeek',
+  'KTT',
+  'Outemu',
+  'SWK',
+  'Tecsee',
+  'TTC',
+  'WEKT',
+  'Wingtree',
+] as const;
+
 export function nameToSlug(name: string): string {
   return name
     .toLowerCase()

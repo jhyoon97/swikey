@@ -15,16 +15,6 @@ export const useSwitches = () => {
   });
 };
 
-export const useManufacturers = () => {
-  return useQuery<string[]>({
-    queryKey: ['switches', 'manufacturers'],
-    queryFn: async () => {
-      const { data } = await api.get('/switches/manufacturers');
-      return data;
-    },
-    staleTime: 5 * 60 * 1000,
-  });
-};
 
 export const useSearchSwitches = (filters: SwitchFilters) => {
   const params = new URLSearchParams();

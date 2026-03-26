@@ -5,8 +5,9 @@
  */
 
 import { Client } from '@notionhq/client';
-import { readFileSync } from 'fs';
-import { resolve } from 'path';
+import { readFileSync, writeFileSync } from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
 import 'dotenv/config';
 
 const notion = new Client({ auth: process.env.NOTION_AUTH_KEY });
@@ -264,6 +265,46 @@ async function main() {
     results.filter(r => !r.success).forEach(r => console.log(`  - ${r.name}: ${r.error}`));
     process.exit(1);
   }
+
+  // 새 제조사가 있으면 MANUFACTURERS 배열에 자동 추가
+  await syncManufacturers(switches);
+}
+
+async function syncManufacturers(switches) {
+  const __dirname = dirname(fileURLToPath(import.meta.url));
+  const utilsPath = resolve(__dirname, '../src/lib/utils.ts');
+  const utilsContent = readFileSync(utilsPath, 'utf-8');
+
+  // 현재 MANUFACTURERS 배열 파싱
+  const match = utilsContent.match(/export const MANUFACTURERS = \[\n([\s\S]*?)\] as const;/);
+  if (!match) return;
+
+  const existing = new Set(
+    match[1].match(/'([^']+)'/g)?.map(s => s.replace(/'/g, '')) ?? []
+  );
+
+  // 업로드한 스위치들에서 제조사 추출
+  const newManufacturers = new Set();
+  for (const sw of switches) {
+    const m = sw.manufacturer?.trim();
+    if (m && m !== '-' && !existing.has(m)) {
+      newManufacturers.add(m);
+    }
+  }
+
+  if (newManufacturers.size === 0) return;
+
+  // 기존 + 신규 합쳐서 정렬 후 교체
+  const all = [...existing, ...newManufacturers].sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
+  const newArray = all.map(m => `  '${m}',`).join('\n');
+  const newContent = utilsContent.replace(
+    /export const MANUFACTURERS = \[\n[\s\S]*?\] as const;/,
+    `export const MANUFACTURERS = [\n${newArray}\n] as const;`,
+  );
+
+  writeFileSync(utilsPath, newContent, 'utf-8');
+  console.log(`\n🏭 새 제조사 추가: ${[...newManufacturers].join(', ')}`);
+  console.log(`   MANUFACTURERS 배열 업데이트 완료 (총 ${all.length}개)`);
 }
 
 main().catch(console.error);

@@ -171,28 +171,5 @@ export const searchSwitches = async (
   };
 };
 
-export const getManufacturers = async (): Promise<string[]> => {
-  const notion = getNotionClient();
-  const manufacturers = new Set<string>();
-  let cursor: string | undefined;
 
-  do {
-    const response = await notion.databases.query({
-      database_id: SWITCHES_DB_ID,
-      filter: { property: '상태', status: { equals: '게시됨' } },
-      page_size: 100,
-      ...(cursor ? { start_cursor: cursor } : {}),
-    });
-
-    for (const page of response.results) {
-      if (!('properties' in page)) continue;
-      const sw = mapPageToSwitch(page as PageObjectResponse);
-      if (sw.manufacturer) manufacturers.add(sw.manufacturer);
-    }
-
-    cursor = response.has_more ? (response.next_cursor ?? undefined) : undefined;
-  } while (cursor);
-
-  return Array.from(manufacturers).sort();
-};
 

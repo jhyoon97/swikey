@@ -2,12 +2,13 @@
 
 import { useState, useCallback, useMemo, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
-import { Filter } from 'lucide-react';
+import { ChevronDown, ChevronUp } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import SwitchFilter from '@/components/switch/SwitchFilter';
 import SwitchCardGrid from '@/components/switch/SwitchCardGrid';
-import { useSearchSwitches, useManufacturers } from '@/lib/api/queries/useSwitches';
+import { useSearchSwitches } from '@/lib/api/queries/useSwitches';
 import { useTranslation } from '@/i18n/useTranslation';
+import { MANUFACTURERS } from '@/lib/utils';
 import type { SwitchFilters, SwitchType, MountPins } from '@/types/switch';
 
 const parseFiltersFromParams = (searchParams: URLSearchParams): SwitchFilters => ({
@@ -58,7 +59,7 @@ const SwitchesPageContent = () => {
   const { t } = useTranslation();
   const router = useRouter();
   const searchParams = useSearchParams();
-  const [showFilter, setShowFilter] = useState(false);
+  const [showFilter, setShowFilter] = useState(true);
 
   const [filters, setFilters] = useState<SwitchFilters>(() => parseFiltersFromParams(searchParams));
 
@@ -69,7 +70,7 @@ const SwitchesPageContent = () => {
     isFetchingNextPage,
     fetchNextPage,
   } = useSearchSwitches(filters);
-  const { data: manufacturers } = useManufacturers();
+  const manufacturers = MANUFACTURERS as unknown as string[];
 
   const switches = useMemo(
     () => data?.pages.flatMap((page) => page.switches) ?? [],
@@ -92,46 +93,40 @@ const SwitchesPageContent = () => {
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
-      <div className="flex items-center justify-between mb-6">
+      <div className="flex items-center justify-between mb-4">
         <h1 className="text-2xl font-bold">{t('nav.switches')}</h1>
         <Button
-          variant="outline"
+          variant="ghost"
           size="sm"
-          className="md:hidden"
           onClick={() => setShowFilter(!showFilter)}
         >
-          <Filter className="h-4 w-4 mr-2" />
           {t('filter.title')}
+          {showFilter ? <ChevronUp className="h-4 w-4 ml-1" /> : <ChevronDown className="h-4 w-4 ml-1" />}
         </Button>
       </div>
 
-      <div className="flex gap-8">
-        <aside
-          className={`w-64 shrink-0 ${showFilter ? 'block' : 'hidden'} md:block`}
-        >
-          <div className="sticky top-20 max-h-[calc(100vh-5rem)] overflow-y-auto">
-            <h2 className="font-semibold mb-4">{t('filter.title')}</h2>
-            <SwitchFilter
-              filters={filters}
-              onSubmit={handleSubmit}
-              onReset={handleReset}
-              manufacturers={manufacturers}
-            />
-          </div>
-        </aside>
-
-        <div className="flex-1 min-w-0">
-          {isLoading ? (
-            <div className="text-center py-16 text-muted-foreground">{t('common.loading')}</div>
-          ) : (
-            <SwitchCardGrid
-              switches={switches}
-              hasNextPage={hasNextPage}
-              isFetchingNextPage={isFetchingNextPage}
-              onLoadMore={() => fetchNextPage()}
-            />
-          )}
+      {showFilter && (
+        <div className="mb-6">
+          <SwitchFilter
+            filters={filters}
+            onSubmit={handleSubmit}
+            onReset={handleReset}
+            manufacturers={manufacturers}
+          />
         </div>
+      )}
+
+      <div>
+        {isLoading ? (
+          <div className="text-center py-16 text-muted-foreground">{t('common.loading')}</div>
+        ) : (
+          <SwitchCardGrid
+            switches={switches}
+            hasNextPage={hasNextPage}
+            isFetchingNextPage={isFetchingNextPage}
+            onLoadMore={() => fetchNextPage()}
+          />
+        )}
       </div>
     </div>
   );
