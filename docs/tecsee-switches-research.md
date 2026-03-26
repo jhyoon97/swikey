@@ -48,3 +48,11 @@
 | Tecsee Blue Sky Tactile | - | Tecsee | - | 택타일 | No | UHMWPE | HPE | POM | Yes | 22 | 5 | 4.0 | 2.0 | 63.5 | - | 64 | https://keeb-finder.com/switches/tecsee-blue-sky-tactile |
 | Tecsee Medium Tactile | - | Tecsee | - | 택타일 | No | HPE | PC | POM | Yes | - | 5 | 2.2 | 1.3 | 50 | - | 63.5 | https://divinikey.com/products/tecsee-medium-switches |
 | Tecsee Salmon | - | Tecsee | Kinetic Labs | 택타일 | No | PC | PC | POM | Yes | - | 5 | 3.5 | 2.0 | 55 | - | 63.5 | https://kineticlabs.com/switches/tecsee/tecsee-salmon-switches |
+
+---
+
+## Hall Effect 스위치
+
+| 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
+|------|----------|--------|-----------|-----------|--------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
+| Tecsee Magnetic Gel Pad | 텍시 마그네틱 젤패드 | Tecsee | - | hall effect | Yes | PC | - | POM | Yes | - | - | 3.5 | - | 45 | - | - | https://tecseekeys.store/products/tecsee-gel-pad-noise-reduction-free-setting-pre-travel-electro-capacitive-ec-2-in-1-mechanical-keyboard-magnetic-mute-switches |

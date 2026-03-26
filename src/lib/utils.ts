@@ -22,9 +22,13 @@ export const switchTypeLabelKey: Record<SwitchType, string> = {
 };
 
 export const MANUFACTURERS = [
+  'AEBoards',
   'BSUN',
   'Cherry',
+  'DrunkDeer',
   'Gateron',
+  'Glorious',
+  'GravaStar',
   'HMX',
   'Huano',
   'Jerrzi',
@@ -32,12 +36,15 @@ export const MANUFACTURERS = [
   'Kailh',
   'Keygeek',
   'KTT',
+  'MMD',
   'Outemu',
   'SWK',
   'Tecsee',
   'TTC',
   'WEKT',
   'Wingtree',
+  'Wooting',
+  'Wuque Studio',
 ] as const;
 
 export function nameToSlug(name: string): string {

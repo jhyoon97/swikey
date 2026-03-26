@@ -77,3 +77,22 @@
 |------|----------|--------|-----------|-----------|--------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
 | TTC Gold Blue (Brother) | - | TTC | - | 클릭키 | No | PC | Nylon | POM | Yes | - | 3 | 3.5 | 2.2 | 37 | - | - | https://keebworks.com/ttc-gold-blue/ |
 | TTC x Helix Lab Skylar | - | TTC | Helix Lab | 클릭키 | No | - | - | - | Yes | - | 3 | 4.0 | 2.0 | 45 | - | 60 | https://keybumps.com/switches/ttc-x-helix-lab-skylar.html |
+
+---
+
+## Hall Effect 스위치
+
+| 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
+|------|----------|--------|-----------|-----------|--------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
+| TTC Magneto (King of Magnetic) | TTC 마그네토 | TTC | - | hall effect | No | PC | Nylon | POM (Box) | Yes | 21 | - | 3.5 | - | 35 | 35 | 48 | https://lumekeebs.com/products/ttc-king-magnetic-switch-hall-effect-linear-switches |
+| TTC RGB Magneto King | TTC RGB 마그네토 킹 | TTC | - | hall effect | No | PC | PC | POM (Box) | Yes | 21 | - | 3.4 | - | 35 | 35 | 48 | https://kprepublic.com/products/ttc-magneto-rgb-switch-king-of-magnetic-switch-linear-for-magnetic-mechanical-keyboard-35g-100m-3-4mm |
+| TTC POM Magneto King | TTC POM 마그네토 킹 | TTC | - | hall effect | No | POM | POM | POM (Box) | Yes | 21 | 3 | 3.4 | - | 35 | 35 | - | https://mechanicalkeyboards.com/products/ttc-pom-king-plate-mount-magnetic-he-switch |
+| TTC Helios HE | TTC 헬리오스 HE | TTC | - | hall effect | No | - | - | POM | Yes | 21 | - | 3.4 | - | 35 | 35 | - | https://ttcswitches.com/products/ttc-helios-he-magnetic-switch-new-arrival |
+| TTC Dragon Lord HE | TTC 드래곤 로드 HE | TTC | - | hall effect | No | POM | POM | POM | Yes | 20 | 3 | 3.4 | - | 35 | 35 | - | https://mechanicalkeyboards.com/products/ttc-dragon-lord-plate-mount-magnetic-he-switch |
+| TTC Flip King HE | TTC 플립 킹 HE | TTC | - | hall effect | No | - | - | POM (Box) | Yes | 21 | 3 | 3.5 | - | 35 | 35 | - | https://mechanicalkeyboards.com/products/ttc-flip-king-plate-mount-magnetic-he-switch |
+| TTC Elf King HE | TTC 엘프 킹 HE | TTC | - | hall effect | No | - | - | POM | Yes | 17 | 3 | 3.4 | - | 32 | 32 | - | https://mechanicalkeyboards.com/products/ttc-elf-king-plate-mount-magnetic-he-switch |
+| TTC Gold Magnetic HE | TTC 골드 마그네틱 HE | TTC | - | hall effect | No | PC | Nylon | POM | Yes | - | - | 3.5 | - | 32 | 32 | - | https://mechkeys.com/products/ttc-gold-magnetic-switches |
+| TTC Magneto Purple | TTC 마그네토 퍼플 | TTC | MelGeek | hall effect | No | PC | PC | POM | Yes | 21 | - | 3.4 | - | 35 | 35 | - | https://mechkeys.com/blogs/news/ttc-and-melgeek-announce-magneto-purple-a-new-magnetic-switch-with-high-speed-rail-style-design |
+| TTC Uranus SE | TTC 우라누스 SE | TTC | - | hall effect | No | - | - | POM | Yes | - | - | 3.5 | - | 32 | 32 | - | https://mechkeys.com/products/ttc-uranus-magnetic-switches |
+| TTC Uranus Standard | TTC 우라누스 스탠다드 | TTC | - | hall effect | No | - | - | POM | Yes | - | 3 | 3.5 | - | 32 | 32 | - | https://mechanicalkeyboards.com/products/TTC-Uranus-Standard-Plate-Mount-Magnetic-HE-Switch |
+| TTC Uranus eSports | TTC 우라누스 e스포츠 | TTC | - | hall effect | No | - | - | POM | Yes | - | - | 3.4 | - | 35 | 35 | - | https://mechkeys.com/products/ttc-uranus-magnetic-switches |

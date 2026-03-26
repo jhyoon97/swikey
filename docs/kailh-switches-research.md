@@ -118,3 +118,21 @@
 | Kailh Pro Light Green | - | Kailh | - | 클릭키 | No | PC | Nylon | POM | No | - | 3 | 3.6 | 1.7 | 50 | - | - | https://www.kailhswitch.com/info/kailh-switches-introduction-list-27266403.html |
 | Kailh Pro Heavy Sage | - | Kailh | NovelKeys | 클릭키 | No | PC | Nylon | POM | No | - | 3 | 3.6 | 1.7 | 70 | - | - | https://www.kailh.net/products/kailh-speed-pro-heavy-switch-set |
 | NovelKeys x Kailh Sherbet | - | Kailh | NovelKeys | 클릭키 | No | PC | - | UHMWPE | No | - | 3 | 4.0 | - | 45 | - | 70 | https://kprepublic.com/products/novelkeys-x-kailh-sherbet-switch-3pin-2pin-rgb-smd-clickbar-orange-45g-force-mx-stem-switch |
+
+## Hall Effect 스위치
+
+> **참고:** 홀 이펙트(HE) 스위치는 자기 센서를 사용하여 키 입력을 감지하는 비접촉식 스위치입니다. 입력지점은 소프트웨어에서 조절 가능(Adjustable Actuation)하므로 기본값 또는 "-"로 표기합니다. 마운트핀은 HE 전용 PCB에 장착되는 2핀 방식이 대부분입니다.
+
+| 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
+|------|----------|--------|-----------|-----------|--------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
+| Kailh Magnetic God | 카일 마그네틱 갓 | Kailh | - | hall effect | No | PC | PC | POM/PC | Yes | - | 2 | 3.3 | - | 35 | - | 50 | https://kbd.news/switch/Kailh-Magnetic-God-switch-319.html |
+| Kailh HyperMyth Magnetic | 카일 하이퍼미스 마그네틱 | Kailh | - | hall effect | No | PC | PC | POM | Yes | - | 2 | 3.5 | - | 35 | - | 50 | https://kailhswitch.net/products/kailh-hypermyth-magnetic-keyboard-switch-quick-trigger-gaming-and-esports-specific-rgb-linear-switches |
+| Kailh Source Series Flame | 카일 소스시리즈 플레임 | Kailh | - | hall effect | No | POM | POM | POM | Yes | - | 2 | 3.8 | - | 30 | - | - | https://switchoddities.com/products/kailh-flame-hall-effect |
+| Kailh Source Series Mistral | 카일 소스시리즈 미스트랄 | Kailh | - | hall effect | No | POM | POM | POM | Yes | - | 2 | 3.8 | - | 30 | - | - | https://switchoddities.com/products/kailh-mistral-hall-effect |
+| Kailh Source Series Lava | 카일 소스시리즈 라바 | Kailh | - | hall effect | No | POM | POM | POM | Yes | - | 2 | 3.8 | - | 30 | - | - | https://kailhswitch.net/products/kailh-source-series-magnetic-switches |
+| Kailh Source Series Mist | 카일 소스시리즈 미스트 | Kailh | - | hall effect | No | POM | POM | POM | Yes | - | 2 | 3.8 | - | 30 | - | - | https://kailhswitch.net/products/kailh-source-series-magnetic-switches |
+| Kailh Galaxy Series Moon Magnetic | 카일 갤럭시시리즈 문 마그네틱 | Kailh | - | hall effect | No | PC | PA66 | POM | Yes | - | 2 | 3.5 | - | 35 | - | - | https://www.kailhswitch.com/mechanical-keyboard-switches/key-switches/kailh-moon-magnetic-switch.html |
+| Kailh Galaxy Series Star Magnetic Mini | 카일 갤럭시시리즈 스타 마그네틱 미니 | Kailh | - | hall effect | No | PC | PA66 | POM | Yes | - | 2 | 2.8 | - | 30 | - | - | https://www.kailhswitch.com/mechanical-keyboard-switches/low-profile-key-switches/kailh-galaxy-series-star-magnetic-mini-switch.html |
+| Kailh Aurora Magnetic (Translucent) | 카일 오로라 마그네틱 (투명) | Kailh | - | hall effect | No | PC | PA66 | POM | Yes | - | 2 | 3.5 | - | 30 | - | - | https://www.guru3d.com/story/kailh-aurora-magnetic-switches-debut-with-translucent-and-matte-rgb-variants |
+| Kailh Aurora Magnetic (Matte) | 카일 오로라 마그네틱 (매트) | Kailh | - | hall effect | No | PC | PA66 | POM | Yes | - | 2 | 3.5 | - | 30 | - | - | https://www.guru3d.com/story/kailh-aurora-magnetic-switches-debut-with-translucent-and-matte-rgb-variants |
+| Kailh Starburst Magnetic | 카일 스타버스트 마그네틱 | Kailh | - | hall effect | No | PC | PC | POM | Yes | - | 2 | 3.4 | - | 30 | - | - | https://www.mchose.store/products/mchose-jet-75-hall-effect-magnetic-switch-gaming-keyboard |

@@ -55,3 +55,13 @@
 | Cherry MX Green | - | Cherry | - | 클릭키 | No | Nylon | Nylon+GF | POM | No | - | 5 | 4.0 | 2.2 | 80 | - | 90 | https://www.cherry.de/en-us/product/mx-green |
 | Cherry MX White | - | Cherry | - | 클릭키 | No | Nylon | Nylon+GF | POM | No | - | 5 | 4.0 | 2.0 | 80 | - | 90 | https://keybumps.com/switches/cherry-mx-white.html |
 | Cherry MX2A Blue | - | Cherry | - | 클릭키 | No | Nylon | Nylon+GF | POM | No | - | 5 | 4.0 | 2.2 | 50 | 25 | - | https://www.cherry.de/en-us/product/mx2a-blue |
+
+---
+
+## Hall Effect 스위치
+
+> **비고:** Cherry는 전통적 Hall Effect 대신 TMR (Tunnel Magnetoresistance) 기술을 채택. 0.01mm 정밀도. 엄밀히 Hall Effect가 아닌 TMR 방식이나, 자기 센싱 스위치로 분류.
+
+| 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
+|------|----------|--------|-----------|-----------|--------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
+| Cherry MK Crystal (TMR) | 체리 MK 크리스탈 | Cherry | Cherry XTRFY | hall effect | No | - | - | - | - | - | - | - | - | - | - | - | https://cherryxtrfy.com/press/cherry-xtrfy-introduces-magnetic-switch-keyboards-with-tmr-technology |

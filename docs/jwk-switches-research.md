@@ -110,3 +110,14 @@
 | Everglide Jade Green | - | JWK | Everglide | 택타일 | No | PC | PC | POM | - | - | 5 | 4.0 | 2.0 | 58 | 45 | - | https://kprepublic.com/products/everglide-switch-sakura-pink-jade-green-coral-red-amber-oran-mx-stem-with-transparent-clear-housing-for-mechanical-keyboard-5pin |
 | Everglide Bamboo Green | - | JWK | Everglide | 택타일 | No | Nylon | Nylon | POM | - | - | 5 | 4.0 | 2.0 | 43 | - | 62 | https://kprepublic.com/products/everglide-bamboo-green-tactile-switch-4pin-5pin-rgb-62g-force-mx-clone-switch-for-mechanical-keyboard-50m-like-holy-panda |
 | Everglide Pansy V2 | - | JWK | Everglide | 택타일 | No | PC | PC | POM | Yes | 22 | 5 | 3.8 | 2.0 | 40 | - | 48 | https://kprepublic.com/products/everglide-pansy-v2-switch-rgb-smd-pre-advanced-tactile-48g-switches-for-mechanical-keyboard-mx-stem-5pin-long-spring-pre-lubed |
+
+---
+
+## Hall Effect 스위치
+
+| 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
+|------|----------|--------|-----------|-----------|--------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
+| Durock Rock HE | 듀록 록 HE | JWK | Durock | hall effect | No | Modified PC | Modified PC | POM (Long Pole) | Yes | 15.5 | - | 3.4 | - | 35 | 35 | 48 | https://milktooth.com/products/rock-he |
+| Durock Rock HE (Spacebar) | 듀록 록 HE (스페이스바) | JWK | Durock | hall effect | No | Modified PC | Modified PC | POM (Long Pole) | Yes | 15.5 | - | 3.4 | - | 50 | 50 | 63.5 | https://lumekeebs.com/products/durock-rock-he-hall-effect-switches |
+| Everglide Sticky Rice V2 HE | 에버글라이드 찹쌀 V2 HE | JWK | Everglide | hall effect | No | PC | Nylon | POM | Yes | - | - | 3.5 | - | 40 | 30 | 50 | https://milktooth.com/products/sticky-rice |
+| Everglide Rice Pudding HE | 에버글라이드 라이스 푸딩 HE | JWK | Everglide | hall effect | No | PC | Nylon | POM | Yes | - | - | 3.5 | - | 38 | - | 48 | https://milktooth.com/products/rice-pudding |
