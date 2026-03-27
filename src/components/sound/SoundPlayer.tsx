@@ -5,7 +5,6 @@ import { useEffect, useRef, useState } from 'react';
 import { Play, Square } from 'lucide-react';
 
 import { Button } from '@/components/ui/button';
-import { useTranslation } from '@/i18n/useTranslation';
 
 const formatTime = (seconds: number): string => {
   const m = Math.floor(seconds / 60);
@@ -14,7 +13,6 @@ const formatTime = (seconds: number): string => {
 };
 
 const SoundPlayer = ({ src }: { src: string }) => {
-  const { t } = useTranslation();
   const audioRef = useRef<HTMLAudioElement>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
@@ -22,7 +20,7 @@ const SoundPlayer = ({ src }: { src: string }) => {
 
   useEffect(() => {
     const audio = audioRef.current;
-    if (!audio) return;
+    if (!audio) return undefined;
 
     const onTimeUpdate = () => setCurrentTime(audio.currentTime);
     const onLoadedMetadata = () => setDuration(audio.duration);
@@ -60,6 +58,7 @@ const SoundPlayer = ({ src }: { src: string }) => {
 
   return (
     <div className="flex items-center gap-3 p-3 bg-muted rounded-lg">
+      {/* eslint-disable-next-line jsx-a11y/media-has-caption */}
       <audio ref={audioRef} src={src} preload="none" />
       <Button variant="ghost" size="icon" onClick={toggle} className="shrink-0">
         {isPlaying ? (

@@ -26,10 +26,10 @@ const SwitchCardGrid = ({
   const cardProperties = useSwitchCardSettings();
 
   useEffect(() => {
-    if (!hasNextPage || !onLoadMore) return;
+    if (!hasNextPage || !onLoadMore) return undefined;
 
     const sentinel = sentinelRef.current;
-    if (!sentinel) return;
+    if (!sentinel) return undefined;
 
     const observer = new IntersectionObserver(
       (entries) => {

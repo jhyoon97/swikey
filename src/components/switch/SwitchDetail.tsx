@@ -5,7 +5,6 @@ import Image from 'next/image';
 import SoundPlayer from '@/components/sound/SoundPlayer';
 import { Badge } from '@/components/ui/badge';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Separator } from '@/components/ui/separator';
 import { useTranslation } from '@/i18n/useTranslation';
 import { switchTypeColor, switchTypeLabelKey } from '@/lib/utils';
 import type { KeyboardSwitch } from '@/types/switch';
