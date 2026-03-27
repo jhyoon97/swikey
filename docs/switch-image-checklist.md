@@ -87,141 +87,141 @@
 ## Cherry (36)
 
 - [ ] cherry-mk-crystal-(tmr) | Cherry MK Crystal (TMR) | https://cherryxtrfy.com/press/cherry-xtrfy-introduces-magnetic-switch-keyboards-with-tmr-technology
-- [ ] cherry-mx2a-blue | Cherry MX2A Blue | https://www.cherry.de/en-us/product/mx2a-blue
-- [ ] cherry-mx-white | Cherry MX White | https://keybumps.com/switches/cherry-mx-white.html
-- [ ] cherry-mx-green | Cherry MX Green | https://www.cherry.de/en-us/product/mx-green
-- [ ] cherry-mx-blue | Cherry MX Blue | https://keebworks.com/cherry-mx-blue/
-- [ ] cherry-mx-falcon | Cherry MX Falcon | https://www.cherry.de/en-us/product/mx-falcon
-- [ ] cherry-mx2a-honey | Cherry MX2A Honey | https://www.cherry.de/en-us/product/mx2a-honey
-- [ ] cherry-mx2a-petal | Cherry MX2A Petal | https://divinikey.com/products/cherry-mx2a-petal-light-tactile-switches
-- [ ] cherry-mx2a-purple | Cherry MX2A Purple | https://www.cherry.de/en-gb/product/mx-purple
-- [ ] cherry-mx2a-brown | Cherry MX2A Brown | https://www.cherry.de/en-us/product/mx2a-brown
-- [ ] cherry-mx-grey-tactile | Cherry MX Grey Tactile | https://www.cherry.de/en-us/product/mx-grey-tactile
-- [ ] cherry-mx-ergo-clear | Cherry MX Ergo Clear | https://www.cherry.de/en-us/product/mx2a-ergo-clear
-- [ ] cherry-mx-clear | Cherry MX Clear | https://www.cherry.de/en-us/product/mx-clear
-- [ ] cherry-mx-brown-hyperglide | Cherry MX Brown Hyperglide | https://keebsforall.com/products/cherry-mx-hyperglide-tactile-switches
-- [ ] cherry-mx-brown | Cherry MX Brown | https://keybumps.com/switches/cherry-mx-brown.html
-- [ ] cherry-mx2a-northern-light | Cherry MX2A Northern Light | https://cherryxtrfy.com/keyboard-switches/cherry-mx-northern-light/
+- [x] cherry-mx2a-blue | Cherry MX2A Blue | https://www.cherry.de/en-us/product/mx2a-blue
+- [x] cherry-mx-white | Cherry MX White | https://keybumps.com/switches/cherry-mx-white.html
+- [x] cherry-mx-green | Cherry MX Green | https://www.cherry.de/en-us/product/mx-green
+- [x] cherry-mx-blue | Cherry MX Blue | https://keebworks.com/cherry-mx-blue/
+- [x] cherry-mx-falcon | Cherry MX Falcon | https://www.cherry.de/en-us/product/mx-falcon
+- [x] cherry-mx2a-honey | Cherry MX2A Honey | https://www.cherry.de/en-us/product/mx2a-honey
+- [x] cherry-mx2a-petal | Cherry MX2A Petal | https://divinikey.com/products/cherry-mx2a-petal-light-tactile-switches
+- [x] cherry-mx2a-purple | Cherry MX2A Purple | https://www.cherry.de/en-gb/product/mx-purple
+- [x] cherry-mx2a-brown | Cherry MX2A Brown | https://www.cherry.de/en-us/product/mx2a-brown
+- [x] cherry-mx-grey-tactile | Cherry MX Grey Tactile | https://www.cherry.de/en-us/product/mx-grey-tactile
+- [x] cherry-mx-ergo-clear | Cherry MX Ergo Clear | https://www.cherry.de/en-us/product/mx2a-ergo-clear
+- [x] cherry-mx-clear | Cherry MX Clear | https://www.cherry.de/en-us/product/mx-clear
+- [x] cherry-mx-brown-hyperglide | Cherry MX Brown Hyperglide | https://keebsforall.com/products/cherry-mx-hyperglide-tactile-switches
+- [x] cherry-mx-brown | Cherry MX Brown | https://keybumps.com/switches/cherry-mx-brown.html
+- [x] cherry-mx2a-northern-light | Cherry MX2A Northern Light | https://cherryxtrfy.com/keyboard-switches/cherry-mx-northern-light/
 - [ ] cherry-mx2a-blossom | Cherry MX2A Blossom | https://www.cherry.de/en-us/product/mx-blossom
-- [ ] cherry-mx2a-orange | Cherry MX2A Orange | https://www.cherry.de/en-us/product/mx-orange
-- [ ] cherry-mx2a-silent-black | Cherry MX2A Silent Black | https://www.cherry.de/en-us/product/mx2a-silent-black
-- [ ] cherry-mx2a-silent-red | Cherry MX2A Silent Red | https://www.cherry.de/en-us/product/mx2a-silent-red
-- [ ] cherry-mx2a-speed-silver | Cherry MX2A Speed Silver | https://www.cherry.de/en-us/product/mx2a-speed-silver
-- [ ] cherry-mx2a-black | Cherry MX2A Black | https://www.cherry.de/en-us/product/mx2a-black
-- [ ] cherry-mx2a-red | Cherry MX2A Red | https://www.cherry.de/en-us/product/mx2a-red
-- [ ] cherry-mx-low-profile-speed-silver | Cherry MX Low Profile Speed Silver | https://www.cherry.de/en-us/product/mx-low-profile-2-0-speed
-- [ ] cherry-mx-low-profile-red | Cherry MX Low Profile Red | https://keybumps.com/switches/cherry-mx-low-profile-red.html
+- [x] cherry-mx2a-orange | Cherry MX2A Orange | https://www.cherry.de/en-us/product/mx-orange
+- [x] cherry-mx2a-silent-black | Cherry MX2A Silent Black | https://www.cherry.de/en-us/product/mx2a-silent-black
+- [x] cherry-mx2a-silent-red | Cherry MX2A Silent Red | https://www.cherry.de/en-us/product/mx2a-silent-red
+- [x] cherry-mx2a-speed-silver | Cherry MX2A Speed Silver | https://www.cherry.de/en-us/product/mx2a-speed-silver
+- [x] cherry-mx2a-black | Cherry MX2A Black | https://www.cherry.de/en-us/product/mx2a-black
+- [x] cherry-mx2a-red | Cherry MX2A Red | https://www.cherry.de/en-us/product/mx2a-red
+- [x] cherry-mx-low-profile-speed-silver | Cherry MX Low Profile Speed Silver | https://www.cherry.de/en-us/product/mx-low-profile-2-0-speed
+- [x] cherry-mx-low-profile-red | Cherry MX Low Profile Red | https://keybumps.com/switches/cherry-mx-low-profile-red.html
 - [ ] cherry-mx-hirose-orange | Cherry MX Hirose Orange | https://deskthority.net/wiki/Hirose_Cherry_MX_Orange
-- [ ] cherry-mx-silent-black | Cherry MX Silent Black | https://keebworks.com/cherry-mx-silent-black/
-- [ ] cherry-mx-silent-red | Cherry MX Silent Red | https://keebworks.com/cherry-mx-silent-red/
-- [ ] cherry-mx-speed-silver | Cherry MX Speed Silver | https://www.cherry.de/en-us/product/mx2a-speed-silver
-- [ ] cherry-mx-grey-linear | Cherry MX Grey Linear | https://mechanicalkeyboards.com/products/cherry-mx-grey-80g-linear
-- [ ] cherry-mx-nature-white | Cherry MX Nature White | https://keybumps.com/switches/cherry-mx-nature-white.html
-- [ ] cherry-mx-black-clear-top-(nixie) | Cherry MX Black Clear Top (Nixie) | https://www.cherry.de/en-gb/product/mx-black-clear-top
-- [ ] cherry-mx-black-hyperglide | Cherry MX Black Hyperglide | https://www.thockking.com/products/cherry-mx-black-hyperglide-linear-switches
-- [ ] cherry-mx-black | Cherry MX Black | https://keebworks.com/cherry-mx-black/
-- [ ] cherry-mx-red-hyperglide | Cherry MX Red Hyperglide | https://kineticlabs.com/switches/cherry/cherry-mx-hyperglide
-- [ ] cherry-mx-red | Cherry MX Red | https://www.cherry.de/en-us/product/mx2a-red
+- [x] cherry-mx-silent-black | Cherry MX Silent Black | https://keebworks.com/cherry-mx-silent-black/
+- [x] cherry-mx-silent-red | Cherry MX Silent Red | https://keebworks.com/cherry-mx-silent-red/
+- [x] cherry-mx-speed-silver | Cherry MX Speed Silver | https://www.cherry.de/en-us/product/mx2a-speed-silver
+- [x] cherry-mx-grey-linear | Cherry MX Grey Linear | https://mechanicalkeyboards.com/products/cherry-mx-grey-80g-linear
+- [x] cherry-mx-nature-white | Cherry MX Nature White | https://keybumps.com/switches/cherry-mx-nature-white.html
+- [x] cherry-mx-black-clear-top-(nixie) | Cherry MX Black Clear Top (Nixie) | https://www.cherry.de/en-gb/product/mx-black-clear-top
+- [x] cherry-mx-black-hyperglide | Cherry MX Black Hyperglide | https://www.thockking.com/products/cherry-mx-black-hyperglide-linear-switches
+- [x] cherry-mx-black | Cherry MX Black | https://keebworks.com/cherry-mx-black/
+- [x] cherry-mx-red-hyperglide | Cherry MX Red Hyperglide | https://kineticlabs.com/switches/cherry/cherry-mx-hyperglide
+- [x] cherry-mx-red | Cherry MX Red | https://www.cherry.de/en-us/product/mx2a-red
 
 ## DrunkDeer (2)
 
-- [ ] drunkdeer-raesha-silent | DrunkDeer RAESHA Silent | https://drunkdeer.com/products/50-35-pcs-linear-magnetic-switch
-- [ ] drunkdeer-raesha-linear | DrunkDeer RAESHA Linear | https://drunkdeer.com/products/50-35-pcs-linear-magnetic-switch
+- [x] drunkdeer-raesha-silent | DrunkDeer RAESHA Silent | https://drunkdeer.com/products/50-35-pcs-linear-magnetic-switch
+- [x] drunkdeer-raesha-linear | DrunkDeer RAESHA Linear | https://drunkdeer.com/products/50-35-pcs-linear-magnetic-switch
 
 ## Gateron (92)
 
 - [ ] gateron-full-pom-low-profile-magnetic-jade-pro | Gateron Full POM Low Profile Magnetic Jade Pro | https://www.gateron.com/products/gateron-full-pom-low-profile-magnetic-jade-pro-switch-set
-- [ ] gateron-low-profile-magnetic-jade-pro | Gateron Low Profile Magnetic Jade Pro | https://nuphy.com/products/gateron-low-profile-magnetic-jade-pro-switches
+- [x] gateron-low-profile-magnetic-jade-pro | Gateron Low Profile Magnetic Jade Pro | https://nuphy.com/products/gateron-low-profile-magnetic-jade-pro-switches
 - [ ] gateron-low-profile-magnetic-jade | Gateron Low Profile Magnetic Jade | https://www.gateron.com/products/gateron-low-profile-magnetic-jade-switch
-- [ ] gateron-magnetic-genty-silent | Gateron Magnetic Genty Silent | https://divinikey.com/products/gateron-magnetic-genty-he-switches
-- [ ] gateron-magnetic-spark | Gateron Magnetic Spark | https://mechanicalkeyboards.com/products/gateron-magnetic-spark-33g-linear-he-switch
+- [x] gateron-magnetic-genty-silent | Gateron Magnetic Genty Silent | https://divinikey.com/products/gateron-magnetic-genty-he-switches
+- [x] gateron-magnetic-spark | Gateron Magnetic Spark | https://mechanicalkeyboards.com/products/gateron-magnetic-spark-33g-linear-he-switch
 - [ ] gateron-dual-rail-magnetic-jade-mini-e | Gateron Dual-Rail Magnetic Jade Mini E | https://www.gateron.com/products/gateron-dual-rail-magnetic-jade-mini-e-switch
 - [ ] gateron-magnetic-jade-gaming | Gateron Magnetic Jade Gaming | https://www.gateron.com/products/gateron-magnetic-jade-gaming-switch-set
-- [ ] gateron-magnetic-jade-ruby | Gateron Magnetic Jade Ruby | https://mechanicalkeyboards.com/products/gateron-magnetic-jade-ruby-linear-plate-mount-switch
-- [ ] gateron-magnetic-jade-sapphire | Gateron Magnetic Jade Sapphire | https://mechanicalkeyboards.com/products/gateron-magnetic-jade-sapphire-switch
-- [ ] gateron-magnetic-jade-air | Gateron Magnetic Jade Air | https://mechanicalkeyboards.com/products/gateron-magnetic-jade-air-linear-switch
-- [ ] gateron-magnetic-jade-delta-dark | Gateron Magnetic Jade Delta Dark | https://www.theremingoat.com/blog/gateron-magnetic-jade-delta-dark-switch-review
-- [ ] gateron-magnetic-jade-delta-light | Gateron Magnetic Jade Delta Light | https://mechanicalkeyboards.com/products/gateron-magnetic-jade-delta-linear-plate-mount-switch
-- [ ] gateron-magnetic-jade-ultra | Gateron Magnetic Jade Ultra | https://mechanicalkeyboards.com/products/gateron-magnetic-jade-ultra-he-plate-mount-switch
+- [x] gateron-magnetic-jade-ruby | Gateron Magnetic Jade Ruby | https://mechanicalkeyboards.com/products/gateron-magnetic-jade-ruby-linear-plate-mount-switch
+- [x] gateron-magnetic-jade-sapphire | Gateron Magnetic Jade Sapphire | https://mechanicalkeyboards.com/products/gateron-magnetic-jade-sapphire-switch
+- [x] gateron-magnetic-jade-air | Gateron Magnetic Jade Air | https://mechanicalkeyboards.com/products/gateron-magnetic-jade-air-linear-switch
+- [x] gateron-magnetic-jade-delta-dark | Gateron Magnetic Jade Delta Dark | https://www.theremingoat.com/blog/gateron-magnetic-jade-delta-dark-switch-review
+- [x] gateron-magnetic-jade-delta-light | Gateron Magnetic Jade Delta Light | https://mechanicalkeyboards.com/products/gateron-magnetic-jade-delta-linear-plate-mount-switch
+- [x] gateron-magnetic-jade-ultra | Gateron Magnetic Jade Ultra | https://mechanicalkeyboards.com/products/gateron-magnetic-jade-ultra-he-plate-mount-switch
 - [ ] gateron-magnetic-jade-max | Gateron Magnetic Jade Max | https://www.gateron.com/products/gateron-magnetic-jade-max-switch-set
-- [ ] gateron-magnetic-jade-pro-dual-smd | Gateron Magnetic Jade Pro Dual-SMD | https://kbdfans.com/products/gateron-magnetic-jade-pro-dual-smd-switch-set
-- [ ] gateron-magnetic-jade-pro | Gateron Magnetic Jade Pro | https://cannonkeys.com/products/gateron-magnetic-jade-switches
-- [ ] gateron-magnetic-jade | Gateron Magnetic Jade | https://divinikey.com/products/gateron-magnetic-jade-linear-switches
-- [ ] gateron-nebula-(ks-37b) | Gateron Nebula (KS-37B) | https://mechanicalkeyboards.com/products/gateron-nebula-dual-rail-40g-linear-magnetic-he-switches
-- [ ] gateron-ks-37b-(fox) | Gateron KS-37B (FOX) | https://lumekeebs.com/blogs/blog/gateron-magnetic-jade-vs-gateron-magnetic-fox
-- [ ] gateron-ks-20u-dual-rail-orange | Gateron KS-20U Dual-Rail Orange | https://halleffectcontroller.com/product/gateron-dual-rail-ks-20u-magnetic-switches/
-- [ ] gateron-ks-20-orange | Gateron KS-20 Orange | https://mechanicalkeyboards.com/products/gateron-ks-20-orange-magnetic-he-38g-linear-switch
-- [ ] gateron-ks-20-white | Gateron KS-20 White | https://mechkeys.com/products/gateron-ks-20-magnetic-hall-sensor-switches
-- [ ] gateron-ink-v2-blue | Gateron Ink V2 Blue | https://mechanicalkeyboards.com/products/gateron-ink-blue-v2-75g-clicky-pcb-mount
-- [ ] gateron-g-pro-30-blue | Gateron G Pro 3.0 Blue | https://www.gateron.co/products/gateron-g-pro-3-0-switch-set
-- [ ] gateron-harmonic | Gateron Harmonic | https://divinikey.com/products/gateron-harmonic-clicky-switches
-- [ ] gateron-melodic | Gateron Melodic | https://divinikey.com/products/gateron-melodic-clicky-switches
-- [ ] gateron-x-siliworks-type-r | Gateron x Siliworks Type R | https://divinikey.com/products/gateron-x-siliworks-type-r-tactile-switches
-- [ ] gateron-silent-brown | Gateron Silent Brown | https://mechanicalkeyboards.com/products/gateron-silent-brown-55g-tactile
-- [ ] gateron-lanes | Gateron Lanes | https://www.theremingoat.com/blog/gateron-lanes-switch-review
-- [ ] gateron-cap-v2-milky-brown | Gateron Cap V2 Milky Brown | https://mechanicalkeyboards.com/products/gateron-cap-v2-milky-brown-55g-tactile-pcb-mount
-- [ ] gateron-pom-smoothie-chocolate | Gateron POM Smoothie Chocolate | https://mechanicalkeyboards.com/products/gateron-pom-chocolate-smoothie-switch
-- [ ] gateron-longjing-tea | Gateron Longjing Tea | https://divinikey.com/products/gateron-longjing-tactile-switches
-- [ ] gateron-azure-dragon-v4 | Gateron Azure Dragon V4 | https://divinikey.com/products/gopolar-azure-dragon-tactile-switches
-- [ ] gateron-green-apple | Gateron Green Apple | https://divinikey.com/products/gateron-green-apple-tactile-switches
-- [ ] gateron-ef-grayish | Gateron EF Grayish | https://divinikey.com/products/gateron-ef-grayish-tactile-switches
-- [ ] gateron-mini-i | Gateron Mini i | https://www.gateron.com/products/gateron-mini-i-switch
-- [ ] gateron-quinn | Gateron Quinn | https://divinikey.com/products/gateron-quinn-tactile-switches
-- [ ] gateron-beer | Gateron Beer | https://divinikey.com/products/gateron-beer-tactile-switches
-- [ ] gateron-baby-kangaroo-20 | Gateron Baby Kangaroo 2.0 | https://divinikey.com/products/gateron-baby-kangaroo-tactile-switches
-- [ ] gateron-jupiter-banana | Gateron Jupiter Banana | https://www.gateron.co/products/gateron-jupiter-switch-set
-- [ ] gateron-jupiter-brown | Gateron Jupiter Brown | https://www.gateron.co/products/gateron-jupiter-switch-set
-- [ ] gateron-north-pole-20-box-brown | Gateron North Pole 2.0 Box Brown | https://www.gateron.co/products/gateron-north-pole-switch-set
-- [ ] gateron-g-pro-30-brown | Gateron G Pro 3.0 Brown | https://mechanicalkeyboards.com/products/gateron-g-pro-30-brown-55g-tactile-pcb-mount
-- [ ] swagkeys-x-gateron-deepping | Swagkeys x Gateron Deepping | https://divinikey.com/products/gateron-x-swagkeys-deepping-linear-switches
+- [x] gateron-magnetic-jade-pro-dual-smd | Gateron Magnetic Jade Pro Dual-SMD | https://kbdfans.com/products/gateron-magnetic-jade-pro-dual-smd-switch-set
+- [x] gateron-magnetic-jade-pro | Gateron Magnetic Jade Pro | https://cannonkeys.com/products/gateron-magnetic-jade-switches
+- [x] gateron-magnetic-jade | Gateron Magnetic Jade | https://divinikey.com/products/gateron-magnetic-jade-linear-switches
+- [x] gateron-nebula-(ks-37b) | Gateron Nebula (KS-37B) | https://mechanicalkeyboards.com/products/gateron-nebula-dual-rail-40g-linear-magnetic-he-switches
+- [x] gateron-ks-37b-(fox) | Gateron KS-37B (FOX) | https://lumekeebs.com/blogs/blog/gateron-magnetic-jade-vs-gateron-magnetic-fox
+- [x] gateron-ks-20u-dual-rail-orange | Gateron KS-20U Dual-Rail Orange | https://halleffectcontroller.com/product/gateron-dual-rail-ks-20u-magnetic-switches/
+- [x] gateron-ks-20-orange | Gateron KS-20 Orange | https://mechanicalkeyboards.com/products/gateron-ks-20-orange-magnetic-he-38g-linear-switch
+- [x] gateron-ks-20-white | Gateron KS-20 White | https://mechkeys.com/products/gateron-ks-20-magnetic-hall-sensor-switches
+- [x] gateron-ink-v2-blue | Gateron Ink V2 Blue | https://mechanicalkeyboards.com/products/gateron-ink-blue-v2-75g-clicky-pcb-mount
+- [x] gateron-g-pro-30-blue | Gateron G Pro 3.0 Blue | https://www.gateron.co/products/gateron-g-pro-3-0-switch-set
+- [x] gateron-harmonic | Gateron Harmonic | https://divinikey.com/products/gateron-harmonic-clicky-switches
+- [x] gateron-melodic | Gateron Melodic | https://divinikey.com/products/gateron-melodic-clicky-switches
+- [x] gateron-x-siliworks-type-r | Gateron x Siliworks Type R | https://divinikey.com/products/gateron-x-siliworks-type-r-tactile-switches
+- [x] gateron-silent-brown | Gateron Silent Brown | https://mechanicalkeyboards.com/products/gateron-silent-brown-55g-tactile
+- [x] gateron-lanes | Gateron Lanes | https://www.theremingoat.com/blog/gateron-lanes-switch-review
+- [x] gateron-cap-v2-milky-brown | Gateron Cap V2 Milky Brown | https://mechanicalkeyboards.com/products/gateron-cap-v2-milky-brown-55g-tactile-pcb-mount
+- [x] gateron-pom-smoothie-chocolate | Gateron POM Smoothie Chocolate | https://mechanicalkeyboards.com/products/gateron-pom-chocolate-smoothie-switch
+- [x] gateron-longjing-tea | Gateron Longjing Tea | https://divinikey.com/products/gateron-longjing-tactile-switches
+- [x] gateron-azure-dragon-v4 | Gateron Azure Dragon V4 | https://divinikey.com/products/gopolar-azure-dragon-tactile-switches
+- [x] gateron-green-apple | Gateron Green Apple | https://divinikey.com/products/gateron-green-apple-tactile-switches
+- [x] gateron-ef-grayish | Gateron EF Grayish | https://divinikey.com/products/gateron-ef-grayish-tactile-switches
+- [x] gateron-mini-i | Gateron Mini i | https://www.gateron.com/products/gateron-mini-i-switch
+- [x] gateron-quinn | Gateron Quinn | https://divinikey.com/products/gateron-quinn-tactile-switches
+- [x] gateron-beer | Gateron Beer | https://divinikey.com/products/gateron-beer-tactile-switches
+- [x] gateron-baby-kangaroo-20 | Gateron Baby Kangaroo 2.0 | https://divinikey.com/products/gateron-baby-kangaroo-tactile-switches
+- [x] gateron-jupiter-banana | Gateron Jupiter Banana | https://www.gateron.co/products/gateron-jupiter-switch-set
+- [x] gateron-jupiter-brown | Gateron Jupiter Brown | https://www.gateron.co/products/gateron-jupiter-switch-set
+- [x] gateron-north-pole-20-box-brown | Gateron North Pole 2.0 Box Brown | https://www.gateron.co/products/gateron-north-pole-switch-set
+- [x] gateron-g-pro-30-brown | Gateron G Pro 3.0 Brown | https://mechanicalkeyboards.com/products/gateron-g-pro-30-brown-55g-tactile-pcb-mount
+- [x] swagkeys-x-gateron-deepping | Swagkeys x Gateron Deepping | https://divinikey.com/products/gateron-x-swagkeys-deepping-linear-switches
 - [ ] gateron-irene | Gateron Irene | https://www.swagkey.kr/50/?idx=481
-- [ ] gateron-everfree-dark-one | Gateron EverFree Dark One | https://unikeyboards.com/products/gateron-everfree-dark-one-linear-switch-factory-lubed-edition-10pcs
+- [x] gateron-everfree-dark-one | Gateron EverFree Dark One | https://unikeyboards.com/products/gateron-everfree-dark-one-linear-switch-factory-lubed-edition-10pcs
 - [ ] gateron-everfree-silent-yellow | Gateron EverFree Silent Yellow | https://www.gateron.com/products/gateron-sub-brand-ef-silent-yellow-switch-set
-- [ ] gateron-everfree-curry | Gateron EverFree Curry | https://cannonkeys.com/products/everfree-curry-linear-switch
+- [x] gateron-everfree-curry | Gateron EverFree Curry | https://cannonkeys.com/products/everfree-curry-linear-switch
 - [ ] gateron-everfree-cedar | Gateron EverFree Cedar | https://www.gateron.com/products/gateron-sub-brand-ever-free-cedar-switch
-- [ ] gateron-silent-black | Gateron Silent Black | https://mechanicalkeyboards.com/products/gateron-silent-black-60g-linear
-- [ ] gateron-silent-red | Gateron Silent Red | https://mechanicalkeyboards.com/products/gateron-silent-red-45g-linear
-- [ ] gateron-cm | Gateron CM | https://cannonkeys.com/products/gateron-cm-linear-switch
-- [ ] gateron-x | Gateron X | https://cannonkeys.com/products/gateron-x-switch
-- [ ] gateron-milky-yellow | Gateron Milky Yellow | https://mechanicalkeyboards.com/products/gateron-milky-yellow-50g-linear-pcb-mount
-- [ ] gateron-cap-anniversary | Gateron CAP Anniversary | https://mechanicalkeyboards.com/products/gateron-cap-anniversary-50g-linear-pcb-mount
-- [ ] gateron-cap-v2-milky-yellow | Gateron Cap V2 Milky Yellow | https://mechanicalkeyboards.com/products/gateron-cap-v2-milky-yellow-50g-linear-pcb-mount
-- [ ] gateron-ks-3-milky-red-pro | Gateron KS-3 Milky Red Pro | https://mechanicalkeyboards.com/products/Gateron-KS-3-Milky-Red-Pro-45g-Linear-Switch
-- [ ] gateron-ks-3-milky-yellow-pro | Gateron KS-3 Milky Yellow Pro | https://divinikey.com/products/gateron-ks-3-milky-yellow-pro-linear-switches
-- [ ] gateron-g-pro-30-silver | Gateron G Pro 3.0 Silver | https://mechanicalkeyboards.com/products/gateron-g-pro-30-silver-45g-linear-pcb-mount
-- [ ] gateron-g-pro-30-white | Gateron G Pro 3.0 White | https://www.gateron.co/products/gateron-g-pro-3-0-switch-set
-- [ ] gateron-g-pro-30-black | Gateron G Pro 3.0 Black | https://www.gateron.co/products/gateron-g-pro-3-0-switch-set
-- [ ] gateron-g-pro-30-yellow | Gateron G Pro 3.0 Yellow | https://mechanicalkeyboards.com/products/gateron-g-pro-30-yellow-50g-linear-pcb-mount
-- [ ] gateron-g-pro-30-red | Gateron G Pro 3.0 Red | https://mechanicalkeyboards.com/products/gateron-g-pro-30-red-45g-linear-pcb-mount
-- [ ] gateron-lunar-probe | Gateron Lunar Probe | https://divinikey.com/products/gateron-lunar-probe-linear-switches
-- [ ] gateron-zero-degree-0 | Gateron Zero Degree 0° | https://divinikey.com/products/gateron-zero-degree-0-silent-linear-switches
+- [x] gateron-silent-black | Gateron Silent Black | https://mechanicalkeyboards.com/products/gateron-silent-black-60g-linear
+- [x] gateron-silent-red | Gateron Silent Red | https://mechanicalkeyboards.com/products/gateron-silent-red-45g-linear
+- [x] gateron-cm | Gateron CM | https://cannonkeys.com/products/gateron-cm-linear-switch
+- [x] gateron-x | Gateron X | https://cannonkeys.com/products/gateron-x-switch
+- [x] gateron-milky-yellow | Gateron Milky Yellow | https://mechanicalkeyboards.com/products/gateron-milky-yellow-50g-linear-pcb-mount
+- [x] gateron-cap-anniversary | Gateron CAP Anniversary | https://mechanicalkeyboards.com/products/gateron-cap-anniversary-50g-linear-pcb-mount
+- [x] gateron-cap-v2-milky-yellow | Gateron Cap V2 Milky Yellow | https://mechanicalkeyboards.com/products/gateron-cap-v2-milky-yellow-50g-linear-pcb-mount
+- [x] gateron-ks-3-milky-red-pro | Gateron KS-3 Milky Red Pro | https://mechanicalkeyboards.com/products/Gateron-KS-3-Milky-Red-Pro-45g-Linear-Switch
+- [x] gateron-ks-3-milky-yellow-pro | Gateron KS-3 Milky Yellow Pro | https://divinikey.com/products/gateron-ks-3-milky-yellow-pro-linear-switches
+- [x] gateron-g-pro-30-silver | Gateron G Pro 3.0 Silver | https://mechanicalkeyboards.com/products/gateron-g-pro-30-silver-45g-linear-pcb-mount
+- [x] gateron-g-pro-30-white | Gateron G Pro 3.0 White | https://www.gateron.co/products/gateron-g-pro-3-0-switch-set
+- [x] gateron-g-pro-30-black | Gateron G Pro 3.0 Black | https://www.gateron.co/products/gateron-g-pro-3-0-switch-set
+- [x] gateron-g-pro-30-yellow | Gateron G Pro 3.0 Yellow | https://mechanicalkeyboards.com/products/gateron-g-pro-30-yellow-50g-linear-pcb-mount
+- [x] gateron-g-pro-30-red | Gateron G Pro 3.0 Red | https://mechanicalkeyboards.com/products/gateron-g-pro-30-red-45g-linear-pcb-mount
+- [x] gateron-lunar-probe | Gateron Lunar Probe | https://divinikey.com/products/gateron-lunar-probe-linear-switches
+- [x] gateron-zero-degree-0 | Gateron Zero Degree 0° | https://divinikey.com/products/gateron-zero-degree-0-silent-linear-switches
 - [ ] gateron-zero | Gateron Zero | https://www.gateron.com/products/gateron-zero-switch-set
-- [ ] gateron-lemon-seabreeze | Gateron Lemon Seabreeze | https://divinikey.com/products/gateron-lemon-seabreeze-linear-switches
-- [ ] gateron-sea-salt-smoothie | Gateron Sea Salt Smoothie | https://divinikey.com/products/gateron-sea-salt-smoothie-linear-switches
-- [ ] gateron-pom-mint-smoothie | Gateron POM Mint Smoothie | https://mechanicalkeyboards.com/products/gateron-pom-mint-silent-smoothie-switch
-- [ ] gateron-pom-smoothie-banana | Gateron POM Smoothie Banana | https://mechanicalkeyboards.com/products/gateron-pom-banana-smoothie-switch
-- [ ] gateron-pom-smoothie-strawberry | Gateron POM Smoothie Strawberry | https://mechanicalkeyboards.com/products/gateron-pom-strawberry-smoothie-switch
-- [ ] gateron-smoothie-silver | Gateron Smoothie Silver | https://divinikey.com/products/gateron-smoothie-silver-linear-switches
-- [ ] gateron-smoothie | Gateron Smoothie | https://divinikey.com/products/gateron-smoothie-linear-switches
-- [ ] gateron-khonsu | Gateron Khonsu | https://divinikey.com/products/gateron-khonsu-linear-switches
+- [x] gateron-lemon-seabreeze | Gateron Lemon Seabreeze | https://divinikey.com/products/gateron-lemon-seabreeze-linear-switches
+- [x] gateron-sea-salt-smoothie | Gateron Sea Salt Smoothie | https://divinikey.com/products/gateron-sea-salt-smoothie-linear-switches
+- [x] gateron-pom-mint-smoothie | Gateron POM Mint Smoothie | https://mechanicalkeyboards.com/products/gateron-pom-mint-silent-smoothie-switch
+- [x] gateron-pom-smoothie-banana | Gateron POM Smoothie Banana | https://mechanicalkeyboards.com/products/gateron-pom-banana-smoothie-switch
+- [x] gateron-pom-smoothie-strawberry | Gateron POM Smoothie Strawberry | https://mechanicalkeyboards.com/products/gateron-pom-strawberry-smoothie-switch
+- [x] gateron-smoothie-silver | Gateron Smoothie Silver | https://divinikey.com/products/gateron-smoothie-silver-linear-switches
+- [x] gateron-smoothie | Gateron Smoothie | https://divinikey.com/products/gateron-smoothie-linear-switches
+- [x] gateron-khonsu | Gateron Khonsu | https://divinikey.com/products/gateron-khonsu-linear-switches
 - [ ] gateron-luciola | Gateron Luciola | https://www.gateron.com/products/gateron-luciola-switch-set
 - [ ] gateron-baby-raccoon-20 | Gateron Baby Raccoon 2.0 | https://www.gateron.com/products/gateron-baby-racoon-20-linear-switch-set-1
-- [ ] gateron-baby-raccoon | Gateron Baby Raccoon | https://www.gateron.co/products/gateron-baby-raccoon-linear-switch-set
-- [ ] gateron-jupiter-red | Gateron Jupiter Red | https://www.gateron.co/products/gateron-jupiter-switch-set
-- [ ] gateron-north-pole-20-box-silver | Gateron North Pole 2.0 Box Silver | https://www.gateron.co/products/gateron-north-pole-switch-set
-- [ ] gateron-north-pole-20-box-red | Gateron North Pole 2.0 Box Red | https://www.gateron.co/products/gateron-north-pole-switch-set
-- [ ] gateron-north-pole-20-yellow | Gateron North Pole 2.0 Yellow | https://www.gateron.co/products/gateron-north-pole-switch-set
-- [ ] gateron-box-cj | Gateron Box CJ | https://www.gateron.co/products/gateron-box-cj-linear-switch-set
-- [ ] gateron-cj-dark-blue | Gateron CJ Dark Blue | https://www.gateron.co/products/gateron-cj-linear-switch-set
-- [ ] gateron-cj-light-blue | Gateron CJ Light Blue | https://divinikey.com/products/gateron-cj-linear-switches
-- [ ] gateron-box-ink-v2-pink | Gateron Box Ink V2 Pink | https://mechanicalkeyboards.com/products/gateron-ink-box-v2-pink-50g-linear-pcb-mount
-- [ ] gateron-box-ink-v2-black | Gateron Box Ink V2 Black | https://www.gateron.co/products/gateron-box-ink-v2-switch-set
-- [ ] gateron-ink-v2-pro-black | Gateron Ink V2 Pro Black | https://divinikey.com/products/gateron-ink-v2-pro-black-linear-switches
-- [ ] gateron-ink-v2-silent-black | Gateron Ink V2 Silent Black | https://kbdfans.com/products/gateron-ink-v2-silent-black-linear-switches
-- [ ] gateron-ink-v2-yellow | Gateron Ink V2 Yellow | https://kineticlabs.com/switches/gateron/ink-v2
-- [ ] gateron-ink-v2-red | Gateron Ink V2 Red | https://mechanicalkeyboards.com/products/gateron-ink-red-v2-45g-linear-pcb-mount
-- [ ] gateron-ink-v2-black | Gateron Ink V2 Black | https://divinikey.com/products/gateron-ink-v2-switches
-- [ ] gateron-oil-king | Gateron Oil King | https://divinikey.com/products/gateron-oil-king-linear-switches
+- [x] gateron-baby-raccoon | Gateron Baby Raccoon | https://www.gateron.co/products/gateron-baby-raccoon-linear-switch-set
+- [x] gateron-jupiter-red | Gateron Jupiter Red | https://www.gateron.co/products/gateron-jupiter-switch-set
+- [x] gateron-north-pole-20-box-silver | Gateron North Pole 2.0 Box Silver | https://www.gateron.co/products/gateron-north-pole-switch-set
+- [x] gateron-north-pole-20-box-red | Gateron North Pole 2.0 Box Red | https://www.gateron.co/products/gateron-north-pole-switch-set
+- [x] gateron-north-pole-20-yellow | Gateron North Pole 2.0 Yellow | https://www.gateron.co/products/gateron-north-pole-switch-set
+- [x] gateron-box-cj | Gateron Box CJ | https://www.gateron.co/products/gateron-box-cj-linear-switch-set
+- [x] gateron-cj-dark-blue | Gateron CJ Dark Blue | https://www.gateron.co/products/gateron-cj-linear-switch-set
+- [x] gateron-cj-light-blue | Gateron CJ Light Blue | https://divinikey.com/products/gateron-cj-linear-switches
+- [x] gateron-box-ink-v2-pink | Gateron Box Ink V2 Pink | https://mechanicalkeyboards.com/products/gateron-ink-box-v2-pink-50g-linear-pcb-mount
+- [x] gateron-box-ink-v2-black | Gateron Box Ink V2 Black | https://www.gateron.co/products/gateron-box-ink-v2-switch-set
+- [x] gateron-ink-v2-pro-black | Gateron Ink V2 Pro Black | https://divinikey.com/products/gateron-ink-v2-pro-black-linear-switches
+- [x] gateron-ink-v2-silent-black | Gateron Ink V2 Silent Black | https://kbdfans.com/products/gateron-ink-v2-silent-black-linear-switches
+- [x] gateron-ink-v2-yellow | Gateron Ink V2 Yellow | https://kineticlabs.com/switches/gateron/ink-v2
+- [x] gateron-ink-v2-red | Gateron Ink V2 Red | https://mechanicalkeyboards.com/products/gateron-ink-red-v2-45g-linear-pcb-mount
+- [x] gateron-ink-v2-black | Gateron Ink V2 Black | https://divinikey.com/products/gateron-ink-v2-switches
+- [x] gateron-oil-king | Gateron Oil King | https://divinikey.com/products/gateron-oil-king-linear-switches
 
 ## Glorious (2)
 
@@ -1057,10 +1057,10 @@
 
 ## Wooting (4)
 
-- [ ] lekker-tikken-medium | Lekker Tikken Medium | https://wooting.io/product/wooting-lekker-tikken-medium-switch
-- [ ] lekker-linear60-(l60)-v2 | Lekker Linear60 (L60) V2 | https://wooting.io/product/lekker-switch-l60-v2
-- [ ] lekker-linear45-(l45)-v2 | Lekker Linear45 (L45) V2 | https://wooting.io/product/lekker-switch-l45-v2
-- [ ] lekker-linear60-(l60)-v1 | Lekker Linear60 (L60) V1 | https://wooting.io/product/lekker-switch-linear60
+- [x] lekker-tikken-medium | Lekker Tikken Medium | https://wooting.io/product/wooting-lekker-tikken-medium-switch
+- [x] lekker-linear60-(l60)-v2 | Lekker Linear60 (L60) V2 | https://wooting.io/product/lekker-switch-l60-v2
+- [x] lekker-linear45-(l45)-v2 | Lekker Linear45 (L45) V2 | https://wooting.io/product/lekker-switch-l45-v2
+- [x] lekker-linear60-(l60)-v1 | Lekker Linear60 (L60) V1 | https://wooting.io/product/lekker-switch-linear60
 
 ## Wuque Studio (1)
 
