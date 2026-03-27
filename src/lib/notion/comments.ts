@@ -28,7 +28,6 @@ export const createComment = async (
   content: string,
   author: string,
   type: CommentType,
-  soundUrl?: string,
 ): Promise<string> => {
   const notion = getNotionClient();
 
@@ -39,10 +38,6 @@ export const createComment = async (
     타입: { select: { name: type } },
     작성일: { date: { start: new Date().toISOString() } },
   };
-
-  if (soundUrl) {
-    properties['타건음URL'] = { url: soundUrl };
-  }
 
   const page = await notion.pages.create({
     parent: { database_id: COMMENTS_DB_ID },

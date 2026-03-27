@@ -15,8 +15,7 @@
   },
   "nav": {
     "home": "홈",
-    "switches": "스위치 검색",
-    "submit": "제보하기"
+    "switches": "스위치 검색"
   },
   "hero": {
     "title": "키보드 스위치 위키",
@@ -31,7 +30,6 @@
     "hallEffect": "Hall Effect",
     "manufacturer": "제조사",
     "collaborator": "협력사",
-    "image": "이미지",
     "upperHousing": "상부 하우징 재질",
     "lowerHousing": "하부 하우징 재질",
     "stemMaterial": "스템 재질",
@@ -65,18 +63,6 @@
     "actuationForceRange": "입력압 범위",
     "travelRange": "트래블 범위",
     "reset": "필터 초기화"
-  },
-  "submit": {
-    "title": "스위치 제보",
-    "description": "알고 계신 스위치 정보를 제보해주세요. 관리자 검토 후 게시됩니다.",
-    "switchName": "스위치 이름",
-    "switchNameRequired": "스위치 이름은 필수입니다.",
-    "source": "출처",
-    "sourcePlaceholder": "정보를 확인한 URL이나 출처를 입력해주세요",
-    "submitButton": "제보하기",
-    "submitting": "제보 중...",
-    "success": "제보가 접수되었습니다. 감사합니다!",
-    "error": "제보 중 오류가 발생했습니다. 다시 시도해주세요."
   },
   "comment": {
     "title": "댓글",

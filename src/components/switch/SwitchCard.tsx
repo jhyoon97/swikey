@@ -1,6 +1,5 @@
 'use client';
 
-import Image from 'next/image';
 import Link from 'next/link';
 
 import { Badge } from '@/components/ui/badge';
@@ -93,19 +92,9 @@ const SwitchCard = ({ sw, properties }: SwitchCardProps) => {
     <Link href={`/switches/${sw.slug}`} prefetch={false}>
       <Card className="group overflow-hidden transition-shadow hover:shadow-lg cursor-pointer h-full">
         <div className="relative aspect-square bg-muted overflow-hidden">
-          {sw.image ? (
-            <Image
-              src={sw.image}
-              alt={sw.name}
-              fill
-              className="object-cover transition-transform group-hover:scale-105"
-              sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 25vw"
-            />
-          ) : (
-            <div className="flex items-center justify-center h-full text-muted-foreground text-sm">
-              No Image
-            </div>
-          )}
+          <div className="flex items-center justify-center h-full text-muted-foreground text-sm">
+            No Image
+          </div>
         </div>
         <CardContent className="p-4">
           <h3 className="font-semibold text-sm line-clamp-2 mb-2">

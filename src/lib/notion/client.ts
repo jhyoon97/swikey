@@ -13,4 +13,3 @@ export const getNotionClient = (): Client => {
 
 export const SWITCHES_DB_ID = process.env.NOTION_SWITCHES_DB_ID!;
 export const COMMENTS_DB_ID = process.env.NOTION_COMMENTS_DB_ID!;
-export const REPORTS_DB_ID = process.env.NOTION_REPORTS_DB_ID!;

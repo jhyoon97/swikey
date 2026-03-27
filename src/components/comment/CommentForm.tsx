@@ -2,7 +2,6 @@
 
 import { useState } from 'react';
 
-import SoundUploader from '@/components/sound/SoundUploader';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
@@ -23,8 +22,6 @@ const CommentForm = ({ switchId }: { switchId: string }) => {
   const [author, setAuthor] = useState('');
   const [content, setContent] = useState('');
   const [type, setType] = useState<CommentType>('한줄평');
-  const [soundUrl, setSoundUrl] = useState<string | undefined>();
-
   const mutation = useCreateComment(switchId);
 
   const handleSubmit = (e: React.FormEvent) => {
@@ -36,12 +33,10 @@ const CommentForm = ({ switchId }: { switchId: string }) => {
         content: content.trim(),
         author: author.trim() || t('common.anonymous'),
         type,
-        soundUrl,
       },
       {
         onSuccess: () => {
           setContent('');
-          setSoundUrl(undefined);
         },
       },
     );
@@ -92,15 +87,6 @@ const CommentForm = ({ switchId }: { switchId: string }) => {
           required
         />
       </div>
-
-      {type === '빌드공유' && (
-        <div className="flex items-center gap-4">
-          <SoundUploader onUploadComplete={setSoundUrl} />
-          {soundUrl && (
-            <span className="text-xs text-muted-foreground">Uploaded</span>
-          )}
-        </div>
-      )}
 
       <Button type="submit" disabled={mutation.isPending}>
         {mutation.isPending ? t('comment.writing') : t('comment.write')}

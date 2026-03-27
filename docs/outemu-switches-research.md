@@ -97,8 +97,8 @@
 
 | 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
 |------|----------|--------|-----------|-----------|--------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
-| Outemu Magnetic Pink | 아우테무 마그네틱 핑크 | Outemu | - | hall effect | No | - | - | - | Yes | - | - | 4.0 | 2.0 | - | - | 60 | https://switchoddities.com/products/outemu-magnetic-pink |
-| Outemu Magnetic Brown | 아우테무 마그네틱 브라운 | Outemu | - | hall effect | No | - | - | - | Yes | - | - | 4.0 | 2.2 | - | - | 60 | https://kprepublic.com/products/outemu-otm-magnetic-switch-black-red-blue-brown-pink-switch-linear-tactile-no-pins-for-specific-magnetic-mechanical-keyboard |
-| Outemu Magnetic Beige | 아우테무 마그네틱 베이지 | Outemu | - | hall effect | No | - | - | - | Yes | - | - | 4.0 | 2.0 | - | 40 | 60 | https://kprepublic.com/products/outemu-otm-magnetic-switch-beige-pink-switch-linear-no-pins-for-specific-magnetic-mechanical-keyboard-45g-150gs-2800gs |
-| Outemu Amethyst Magnetic | 아우테무 아메시스트 마그네틱 | Outemu | - | hall effect | No | - | - | - | Yes | - | - | 3.5 | 2.0 | - | 25 | - | https://shop.yushakobo.jp/products/10316 |
+| Outemu Magnetic Pink | 아우테무 마그네틱 핑크 | Outemu | - | hall effect | No | - | - | - | Yes | - | - | 4.0 | - | - | - | 60 | https://switchoddities.com/products/outemu-magnetic-pink |
+| Outemu Magnetic Brown | 아우테무 마그네틱 브라운 | Outemu | - | hall effect | No | - | - | - | Yes | - | - | 4.0 | - | - | - | 60 | https://kprepublic.com/products/outemu-otm-magnetic-switch-black-red-blue-brown-pink-switch-linear-tactile-no-pins-for-specific-magnetic-mechanical-keyboard |
+| Outemu Magnetic Beige | 아우테무 마그네틱 베이지 | Outemu | - | hall effect | No | - | - | - | Yes | - | - | 4.0 | - | - | 40 | 60 | https://kprepublic.com/products/outemu-otm-magnetic-switch-beige-pink-switch-linear-no-pins-for-specific-magnetic-mechanical-keyboard-45g-150gs-2800gs |
+| Outemu Amethyst Magnetic | 아우테무 아메시스트 마그네틱 | Outemu | - | hall effect | No | - | - | - | Yes | - | - | 3.5 | - | - | 25 | - | https://shop.yushakobo.jp/products/10316 |
 | Outemu Silent Peach Magnetic HE | 아우테무 사일런트 피치 마그네틱 HE | Outemu | - | hall effect | Yes | PC | PC | POM | Yes | - | - | 3.5 | - | - | - | 50 | https://www.amazon.com/Magnetic-Switches-Mechanical-Universal-Compatibility/dp/B0GDMP66HK |

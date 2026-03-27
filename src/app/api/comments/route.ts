@@ -27,13 +27,12 @@ export const GET = async (request: NextRequest) => {
 
 export const POST = async (request: NextRequest) => {
   try {
-    const { switchId, content, author, type, soundUrl } =
+    const { switchId, content, author, type } =
       (await request.json()) as {
         switchId: string;
         content: string;
         author: string;
         type: CommentType;
-        soundUrl?: string;
       };
 
     if (!switchId || !content) {
@@ -48,7 +47,6 @@ export const POST = async (request: NextRequest) => {
       content,
       author,
       type,
-      soundUrl,
     );
     return NextResponse.json({ id: commentId, success: true });
   } catch (error) {

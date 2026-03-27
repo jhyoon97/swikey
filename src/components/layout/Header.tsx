@@ -18,7 +18,6 @@ const Header = () => {
   const navItems = [
     { href: '/', label: t('nav.home') },
     { href: '/switches', label: t('nav.switches') },
-    { href: '/submit', label: t('nav.submit') },
   ];
 
   return (

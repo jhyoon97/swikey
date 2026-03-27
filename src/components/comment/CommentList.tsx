@@ -2,7 +2,6 @@
 
 import dayjs from 'dayjs';
 
-import SoundPlayer from '@/components/sound/SoundPlayer';
 import { useTranslation } from '@/i18n/useTranslation';
 import type { SwitchComment } from '@/types/switch';
 
@@ -33,11 +32,6 @@ const CommentList = ({ comments, showSound }: CommentListProps) => {
             </span>
           </div>
           <p className="text-sm">{comment.content}</p>
-          {showSound && comment.soundUrl && (
-            <div className="mt-3">
-              <SoundPlayer src={comment.soundUrl} />
-            </div>
-          )}
         </div>
       ))}
     </div>

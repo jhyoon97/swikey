@@ -1,6 +1,6 @@
 export type SwitchType = '리니어' | '택타일' | '클릭키' | 'hall effect';
 export type MountPins = 5 | 3 | 0;
-export type SwitchStatus = '게시됨' | '제보(대기중)' | '검토중';
+export type SwitchStatus = '게시됨' | '검토중';
 
 export interface KeyboardSwitch {
   id: string;
@@ -9,7 +9,6 @@ export interface KeyboardSwitch {
   nameKo?: string;
   manufacturer?: string;
   collaborator?: string;
-  image?: string;
   type: SwitchType;
   upperHousingMaterial?: string;
   lowerHousingMaterial?: string;
@@ -26,7 +25,6 @@ export interface KeyboardSwitch {
     bottom?: number;
   };
   status: SwitchStatus;
-  soundUrl?: string;
   source?: string;
   createdAt: string;
 }
@@ -39,7 +37,6 @@ export interface SwitchComment {
   author: string;
   switchId: string;
   type: CommentType;
-  soundUrl?: string;
   createdAt: string;
 }
 
@@ -56,7 +53,3 @@ export interface SwitchFilters {
   travelMax?: number;
 }
 
-export interface SubmitSwitchData {
-  name: string;
-  source?: string;
-}

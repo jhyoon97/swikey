@@ -25,7 +25,7 @@ export const generateMetadata = async ({
     openGraph: {
       title: `${sw.name} - SwiKeys`,
       description: `${sw.name} 키보드 스위치 상세 정보`,
-      images: sw.image ? [sw.image] : undefined,
+      images: undefined,
     },
   };
 };

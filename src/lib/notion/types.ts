@@ -61,14 +61,6 @@ const getUrl = (prop: PropertyValue): string | undefined => {
   return undefined;
 };
 
-const getFiles = (prop: PropertyValue): string | undefined => {
-  if (prop.type === 'files' && prop.files.length > 0) {
-    const file = prop.files[0];
-    if (file.type === 'external') return file.external.url;
-    if (file.type === 'file') return file.file.url;
-  }
-  return undefined;
-};
 
 const getDate = (prop: PropertyValue): string | undefined => {
   if (prop.type === 'date' && prop.date) {
@@ -107,7 +99,6 @@ export const mapPageToSwitch = (page: PageObjectResponse): KeyboardSwitch => {
     nameKo: getRichText(props['한글이름']),
     manufacturer: getRichText(props['제조사']),
     collaborator: getRichText(props['콜라보업체']),
-    image: getFiles(props['이미지']),
     type,
     upperHousingMaterial: getRichText(props['상부하우징재질']),
     lowerHousingMaterial: getRichText(props['하부하우징재질']),
@@ -124,7 +115,6 @@ export const mapPageToSwitch = (page: PageObjectResponse): KeyboardSwitch => {
       bottom: getNumber(props['바닥압']),
     },
     status: (getStatus(props['상태']) as KeyboardSwitch['status']) ?? '게시됨',
-    soundUrl: getUrl(props['타건음URL']),
     source: getUrl(props['출처']),
     createdAt: page.created_time,
   };
@@ -139,7 +129,6 @@ export const mapPageToComment = (page: PageObjectResponse): SwitchComment => {
     author: getRichText(props['작성자']) ?? '익명',
     switchId: getRelation(props['스위치']) ?? '',
     type: (getSelect(props['타입']) as CommentType) ?? '한줄평',
-    soundUrl: getUrl(props['타건음URL']),
     createdAt: getDate(props['작성일']) ?? page.created_time,
   };
 };

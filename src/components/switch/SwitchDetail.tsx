@@ -1,8 +1,5 @@
 'use client';
 
-import Image from 'next/image';
-
-import SoundPlayer from '@/components/sound/SoundPlayer';
 import { Badge } from '@/components/ui/badge';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { useTranslation } from '@/i18n/useTranslation';
@@ -84,20 +81,9 @@ const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
       <div className="flex flex-col md:flex-row gap-8">
         <div className="w-full md:w-80 shrink-0">
           <div className="relative aspect-square bg-muted rounded-lg overflow-hidden">
-            {sw.image ? (
-              <Image
-                src={sw.image}
-                alt={sw.name}
-                fill
-                className="object-cover"
-                sizes="(max-width: 768px) 100vw, 320px"
-                priority
-              />
-            ) : (
-              <div className="flex items-center justify-center h-full text-muted-foreground">
-                No Image
-              </div>
-            )}
+            <div className="flex items-center justify-center h-full text-muted-foreground">
+              No Image
+            </div>
           </div>
         </div>
 
@@ -113,14 +99,6 @@ const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
             <p className="text-muted-foreground mb-6">{sw.manufacturer}</p>
           )}
 
-          {sw.soundUrl && (
-            <div className="mb-6">
-              <h3 className="text-sm font-medium mb-2">
-                {t('comment.typingSound')}
-              </h3>
-              <SoundPlayer src={sw.soundUrl} />
-            </div>
-          )}
         </div>
       </div>
 

@@ -15,8 +15,7 @@
   },
   "nav": {
     "home": "Home",
-    "switches": "Switches",
-    "submit": "Submit"
+    "switches": "Switches"
   },
   "hero": {
     "title": "Keyboard Switch Wiki",
@@ -31,7 +30,6 @@
     "hallEffect": "Hall Effect",
     "manufacturer": "Manufacturer",
     "collaborator": "Collaborator",
-    "image": "Image",
     "upperHousing": "Upper Housing Material",
     "lowerHousing": "Lower Housing Material",
     "stemMaterial": "Stem Material",
@@ -65,18 +63,6 @@
     "actuationForceRange": "Actuation Force Range",
     "travelRange": "Travel Range",
     "reset": "Reset Filters"
-  },
-  "submit": {
-    "title": "Submit a Switch",
-    "description": "Share switch info you know. It will be published after admin review.",
-    "switchName": "Switch Name",
-    "switchNameRequired": "Switch name is required.",
-    "source": "Source",
-    "sourcePlaceholder": "URL or source where you found this switch",
-    "submitButton": "Submit",
-    "submitting": "Submitting...",
-    "success": "Your submission has been received. Thank you!",
-    "error": "An error occurred. Please try again."
   },
   "comment": {
     "title": "Comments",

@@ -25,7 +25,6 @@ export const useCreateComment = (switchId: string) => {
       content: string;
       author: string;
       type: CommentType;
-      soundUrl?: string;
     }) => {
       const { data } = await api.post('/comments', { switchId, ...payload });
       return data;
