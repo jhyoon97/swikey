@@ -1,7 +1,9 @@
 'use client';
 
-import { useState, useRef, useCallback } from 'react';
-import { SlidersHorizontal, GripVertical } from 'lucide-react';
+import { useCallback, useRef, useState } from 'react';
+
+import { GripVertical, SlidersHorizontal } from 'lucide-react';
+
 import { Button } from '@/components/ui/button';
 import { Checkbox } from '@/components/ui/checkbox';
 import {
@@ -13,13 +15,13 @@ import {
   DialogTitle,
   DialogTrigger,
 } from '@/components/ui/dialog';
-import { useTranslation } from '@/i18n/useTranslation';
 import {
-  getSettings,
-  saveSettings,
   PROPERTY_LABEL_KEYS,
   type SwitchCardProperty,
+  getSettings,
+  saveSettings,
 } from '@/hooks/useSwitchCardSettings';
+import { useTranslation } from '@/i18n/useTranslation';
 
 const SCROLL_ZONE = 40;
 const SCROLL_SPEED = 8;
@@ -47,7 +49,10 @@ const SwitchCardSettingsModal = () => {
     );
   };
 
-  const handleDragStart = (e: React.DragEvent<HTMLDivElement>, index: number) => {
+  const handleDragStart = (
+    e: React.DragEvent<HTMLDivElement>,
+    index: number,
+  ) => {
     dragItem.current = index;
     setDragIndex(index);
     e.dataTransfer.effectAllowed = 'move';
@@ -57,35 +62,38 @@ const SwitchCardSettingsModal = () => {
     setDragOverIndex(index);
   };
 
-  const handleContainerDragOver = useCallback((e: React.DragEvent<HTMLDivElement>) => {
-    e.preventDefault();
-    const container = scrollRef.current;
-    if (!container) return;
+  const handleContainerDragOver = useCallback(
+    (e: React.DragEvent<HTMLDivElement>) => {
+      e.preventDefault();
+      const container = scrollRef.current;
+      if (!container) return;
 
-    const rect = container.getBoundingClientRect();
-    const y = e.clientY - rect.top;
+      const rect = container.getBoundingClientRect();
+      const y = e.clientY - rect.top;
 
-    if (scrollRaf.current) cancelAnimationFrame(scrollRaf.current);
+      if (scrollRaf.current) cancelAnimationFrame(scrollRaf.current);
 
-    if (y < SCROLL_ZONE) {
-      const step = () => {
-        container.scrollTop -= SCROLL_SPEED;
-        if (container.scrollTop > 0) {
-          scrollRaf.current = requestAnimationFrame(step);
-        }
-      };
-      scrollRaf.current = requestAnimationFrame(step);
-    } else if (y > rect.height - SCROLL_ZONE) {
-      const maxScroll = container.scrollHeight - container.clientHeight;
-      const step = () => {
-        container.scrollTop += SCROLL_SPEED;
-        if (container.scrollTop < maxScroll) {
-          scrollRaf.current = requestAnimationFrame(step);
-        }
-      };
-      scrollRaf.current = requestAnimationFrame(step);
-    }
-  }, []);
+      if (y < SCROLL_ZONE) {
+        const step = () => {
+          container.scrollTop -= SCROLL_SPEED;
+          if (container.scrollTop > 0) {
+            scrollRaf.current = requestAnimationFrame(step);
+          }
+        };
+        scrollRaf.current = requestAnimationFrame(step);
+      } else if (y > rect.height - SCROLL_ZONE) {
+        const maxScroll = container.scrollHeight - container.clientHeight;
+        const step = () => {
+          container.scrollTop += SCROLL_SPEED;
+          if (container.scrollTop < maxScroll) {
+            scrollRaf.current = requestAnimationFrame(step);
+          }
+        };
+        scrollRaf.current = requestAnimationFrame(step);
+      }
+    },
+    [],
+  );
 
   const handleDragEnd = () => {
     const from = dragItem.current;
@@ -115,7 +123,12 @@ const SwitchCardSettingsModal = () => {
   };
 
   const getIndicator = (index: number) => {
-    if (dragIndex === null || dragOverIndex === null || dragIndex === dragOverIndex) return null;
+    if (
+      dragIndex === null ||
+      dragOverIndex === null ||
+      dragIndex === dragOverIndex
+    )
+      return null;
     if (dragIndex < dragOverIndex && index === dragOverIndex) return 'bottom';
     if (dragIndex > dragOverIndex && index === dragOverIndex) return 'top';
     return null;
@@ -123,9 +136,7 @@ const SwitchCardSettingsModal = () => {
 
   return (
     <Dialog open={open} onOpenChange={handleOpen}>
-      <DialogTrigger
-        render={<Button variant="ghost" size="sm" />}
-      >
+      <DialogTrigger render={<Button variant="ghost" size="sm" />}>
         <SlidersHorizontal className="h-4 w-4" />
       </DialogTrigger>
       <DialogContent>

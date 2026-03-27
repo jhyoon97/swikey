@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next';
+
 import { getSwitches } from '@/lib/notion/switches';
 
 const sitemap = async (): Promise<MetadataRoute.Sitemap> => {

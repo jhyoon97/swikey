@@ -1,7 +1,8 @@
 import type { NextRequest } from 'next/server';
 import { NextResponse } from 'next/server';
+
 import { searchSwitches } from '@/lib/notion/switches';
-import type { SwitchType, MountPins } from '@/types/switch';
+import type { MountPins, SwitchType } from '@/types/switch';
 
 export const GET = async (request: NextRequest) => {
   try {
@@ -42,6 +43,9 @@ export const GET = async (request: NextRequest) => {
     return NextResponse.json(result);
   } catch (error) {
     console.error('Failed to search switches:', error);
-    return NextResponse.json({ error: 'Failed to search switches' }, { status: 500 });
+    return NextResponse.json(
+      { error: 'Failed to search switches' },
+      { status: 500 },
+    );
   }
 };

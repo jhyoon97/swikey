@@ -1,18 +1,22 @@
 'use client';
 
-import { useState, useCallback, useMemo, Suspense } from 'react';
-import { useRouter, useSearchParams } from 'next/navigation';
+import { Suspense, useCallback, useMemo, useState } from 'react';
+
 import { ChevronDown, ChevronUp } from 'lucide-react';
-import { Button } from '@/components/ui/button';
-import SwitchFilter from '@/components/switch/SwitchFilter';
+import { useRouter, useSearchParams } from 'next/navigation';
+
 import SwitchCardGrid from '@/components/switch/SwitchCardGrid';
 import SwitchCardSettingsModal from '@/components/switch/SwitchCardSettingsModal';
-import { useSearchSwitches } from '@/lib/api/queries/useSwitches';
+import SwitchFilter from '@/components/switch/SwitchFilter';
+import { Button } from '@/components/ui/button';
 import { useTranslation } from '@/i18n/useTranslation';
+import { useSearchSwitches } from '@/lib/api/queries/useSwitches';
 import { MANUFACTURERS } from '@/lib/utils';
-import type { SwitchFilters, SwitchType, MountPins } from '@/types/switch';
+import type { MountPins, SwitchFilters, SwitchType } from '@/types/switch';
 
-const parseFiltersFromParams = (searchParams: URLSearchParams): SwitchFilters => ({
+const parseFiltersFromParams = (
+  searchParams: URLSearchParams,
+): SwitchFilters => ({
   query: searchParams.get('q') || undefined,
   type: (searchParams.get('type') as SwitchType) || undefined,
   manufacturer: searchParams.get('manufacturer') || undefined,
@@ -46,13 +50,20 @@ const filtersToParams = (filters: SwitchFilters): string => {
   if (filters.query) params.set('q', filters.query);
   if (filters.type) params.set('type', filters.type);
   if (filters.manufacturer) params.set('manufacturer', filters.manufacturer);
-  if (filters.mountPins !== undefined) params.set('mountPins', String(filters.mountPins));
-  if (filters.silent !== undefined) params.set('silent', String(filters.silent));
-  if (filters.factoryLubed !== undefined) params.set('factoryLubed', String(filters.factoryLubed));
-  if (filters.actuationMin !== undefined) params.set('actuationMin', String(filters.actuationMin));
-  if (filters.actuationMax !== undefined) params.set('actuationMax', String(filters.actuationMax));
-  if (filters.travelMin !== undefined) params.set('travelMin', String(filters.travelMin));
-  if (filters.travelMax !== undefined) params.set('travelMax', String(filters.travelMax));
+  if (filters.mountPins !== undefined)
+    params.set('mountPins', String(filters.mountPins));
+  if (filters.silent !== undefined)
+    params.set('silent', String(filters.silent));
+  if (filters.factoryLubed !== undefined)
+    params.set('factoryLubed', String(filters.factoryLubed));
+  if (filters.actuationMin !== undefined)
+    params.set('actuationMin', String(filters.actuationMin));
+  if (filters.actuationMax !== undefined)
+    params.set('actuationMax', String(filters.actuationMax));
+  if (filters.travelMin !== undefined)
+    params.set('travelMin', String(filters.travelMin));
+  if (filters.travelMax !== undefined)
+    params.set('travelMax', String(filters.travelMax));
   return params.toString();
 };
 
@@ -62,15 +73,12 @@ const SwitchesPageContent = () => {
   const searchParams = useSearchParams();
   const [showFilter, setShowFilter] = useState(true);
 
-  const [filters, setFilters] = useState<SwitchFilters>(() => parseFiltersFromParams(searchParams));
+  const [filters, setFilters] = useState<SwitchFilters>(() =>
+    parseFiltersFromParams(searchParams),
+  );
 
-  const {
-    data,
-    isLoading,
-    hasNextPage,
-    isFetchingNextPage,
-    fetchNextPage,
-  } = useSearchSwitches(filters);
+  const { data, isLoading, hasNextPage, isFetchingNextPage, fetchNextPage } =
+    useSearchSwitches(filters);
   const manufacturers = MANUFACTURERS as unknown as string[];
 
   const switches = useMemo(
@@ -104,7 +112,11 @@ const SwitchesPageContent = () => {
             onClick={() => setShowFilter(!showFilter)}
           >
             {t('filter.title')}
-            {showFilter ? <ChevronUp className="h-4 w-4 ml-1" /> : <ChevronDown className="h-4 w-4 ml-1" />}
+            {showFilter ? (
+              <ChevronUp className="h-4 w-4 ml-1" />
+            ) : (
+              <ChevronDown className="h-4 w-4 ml-1" />
+            )}
           </Button>
         </div>
       </div>
@@ -122,7 +134,9 @@ const SwitchesPageContent = () => {
 
       <div>
         {isLoading ? (
-          <div className="text-center py-16 text-muted-foreground">{t('common.loading')}</div>
+          <div className="text-center py-16 text-muted-foreground">
+            {t('common.loading')}
+          </div>
         ) : (
           <SwitchCardGrid
             switches={switches}

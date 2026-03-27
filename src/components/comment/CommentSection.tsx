@@ -3,8 +3,9 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { useTranslation } from '@/i18n/useTranslation';
 import { useComments } from '@/lib/api/queries/useComments';
-import CommentList from './CommentList';
+
 import CommentForm from './CommentForm';
+import CommentList from './CommentList';
 
 const CommentSection = ({ switchId }: { switchId: string }) => {
   const { t } = useTranslation();

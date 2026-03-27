@@ -1,9 +1,10 @@
 'use client';
 
 import { useState } from 'react';
-import { Input } from '@/components/ui/input';
-import { Textarea } from '@/components/ui/textarea';
+
+import SoundUploader from '@/components/sound/SoundUploader';
 import { Button } from '@/components/ui/button';
+import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import {
   Select,
@@ -12,9 +13,9 @@ import {
   SelectTrigger,
   SelectValue,
 } from '@/components/ui/select';
+import { Textarea } from '@/components/ui/textarea';
 import { useTranslation } from '@/i18n/useTranslation';
 import { useCreateComment } from '@/lib/api/queries/useComments';
-import SoundUploader from '@/components/sound/SoundUploader';
 import type { CommentType } from '@/types/switch';
 
 const CommentForm = ({ switchId }: { switchId: string }) => {
@@ -47,7 +48,10 @@ const CommentForm = ({ switchId }: { switchId: string }) => {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-4 p-4 border border-border rounded-lg">
+    <form
+      onSubmit={handleSubmit}
+      className="space-y-4 p-4 border border-border rounded-lg"
+    >
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         <div>
           <Label htmlFor="author" className="mb-2 block">
@@ -68,7 +72,9 @@ const CommentForm = ({ switchId }: { switchId: string }) => {
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="한줄평">{t('comment.oneLiner')}</SelectItem>
-              <SelectItem value="빌드공유">{t('comment.buildShare')}</SelectItem>
+              <SelectItem value="빌드공유">
+                {t('comment.buildShare')}
+              </SelectItem>
             </SelectContent>
           </Select>
         </div>
@@ -90,7 +96,9 @@ const CommentForm = ({ switchId }: { switchId: string }) => {
       {type === '빌드공유' && (
         <div className="flex items-center gap-4">
           <SoundUploader onUploadComplete={setSoundUrl} />
-          {soundUrl && <span className="text-xs text-muted-foreground">Uploaded</span>}
+          {soundUrl && (
+            <span className="text-xs text-muted-foreground">Uploaded</span>
+          )}
         </div>
       )}
 

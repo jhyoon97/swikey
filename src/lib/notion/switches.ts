@@ -1,7 +1,9 @@
 import type { PageObjectResponse } from '@notionhq/client/build/src/api-endpoints';
-import { getNotionClient, SWITCHES_DB_ID } from './client';
-import { mapPageToSwitch } from './types';
+
 import type { KeyboardSwitch, SwitchFilters } from '@/types/switch';
+
+import { SWITCHES_DB_ID, getNotionClient } from './client';
+import { mapPageToSwitch } from './types';
 
 export const getSwitches = async (pageSize = 50): Promise<KeyboardSwitch[]> => {
   const notion = getNotionClient();
@@ -20,7 +22,9 @@ export const getSwitches = async (pageSize = 50): Promise<KeyboardSwitch[]> => {
     .map(mapPageToSwitch);
 };
 
-export const getSwitchById = async (id: string): Promise<KeyboardSwitch | null> => {
+export const getSwitchById = async (
+  id: string,
+): Promise<KeyboardSwitch | null> => {
   const notion = getNotionClient();
   try {
     const page = await notion.pages.retrieve({ page_id: id });
@@ -31,7 +35,9 @@ export const getSwitchById = async (id: string): Promise<KeyboardSwitch | null> 
   }
 };
 
-export const getSwitchBySlug = async (slug: string): Promise<KeyboardSwitch | null> => {
+export const getSwitchBySlug = async (
+  slug: string,
+): Promise<KeyboardSwitch | null> => {
   const notion = getNotionClient();
   const decodedSlug = decodeURIComponent(slug);
 
@@ -102,7 +108,8 @@ export const searchSwitches = async (
   }
 
   if (filters.mountPins !== undefined) {
-    const pinValue = filters.mountPins === 0 ? '없음' : String(filters.mountPins);
+    const pinValue =
+      filters.mountPins === 0 ? '없음' : String(filters.mountPins);
     conditions.push({
       property: '마운트핀',
       select: { equals: pinValue },
@@ -154,7 +161,9 @@ export const searchSwitches = async (
   const response = await notion.databases.query({
     database_id: SWITCHES_DB_ID,
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    filter: (conditions.length > 1 ? { and: conditions } : conditions[0]) as any,
+    filter: (conditions.length > 1
+      ? { and: conditions }
+      : conditions[0]) as any,
     sorts: [{ timestamp: 'created_time', direction: 'descending' }],
     page_size: pageSize,
     ...(cursor ? { start_cursor: cursor } : {}),
@@ -170,6 +179,3 @@ export const searchSwitches = async (
     hasMore: response.has_more,
   };
 };
-
-
-

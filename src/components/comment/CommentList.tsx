@@ -1,8 +1,9 @@
 'use client';
 
 import dayjs from 'dayjs';
-import { useTranslation } from '@/i18n/useTranslation';
+
 import SoundPlayer from '@/components/sound/SoundPlayer';
+import { useTranslation } from '@/i18n/useTranslation';
 import type { SwitchComment } from '@/types/switch';
 
 interface CommentListProps {
@@ -14,7 +15,11 @@ const CommentList = ({ comments, showSound }: CommentListProps) => {
   const { t } = useTranslation();
 
   if (comments.length === 0) {
-    return <p className="text-muted-foreground py-8 text-center">{t('comment.noComments')}</p>;
+    return (
+      <p className="text-muted-foreground py-8 text-center">
+        {t('comment.noComments')}
+      </p>
+    );
   }
 
   return (

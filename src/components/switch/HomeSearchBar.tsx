@@ -1,8 +1,10 @@
 'use client';
 
 import { useState } from 'react';
-import { useRouter } from 'next/navigation';
+
 import { Search } from 'lucide-react';
+import { useRouter } from 'next/navigation';
+
 import { Input } from '@/components/ui/input';
 
 const HomeSearchBar = ({ placeholder }: { placeholder: string }) => {

@@ -1,8 +1,9 @@
 import { cookies } from 'next/headers';
+
 import { COOKIE_NAME, getLocaleFromCookie } from './config';
 import type { Locale } from './config';
-import ko from './ko.json';
 import en from './en.json';
+import ko from './ko.json';
 
 const messages: Record<Locale, typeof ko> = { ko, en };
 

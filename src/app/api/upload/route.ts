@@ -1,7 +1,7 @@
+import { PutObjectCommand, S3Client } from '@aws-sdk/client-s3';
+import { getSignedUrl } from '@aws-sdk/s3-request-presigner';
 import type { NextRequest } from 'next/server';
 import { NextResponse } from 'next/server';
-import { S3Client, PutObjectCommand } from '@aws-sdk/client-s3';
-import { getSignedUrl } from '@aws-sdk/s3-request-presigner';
 
 const getS3Client = () =>
   new S3Client({
@@ -20,15 +20,30 @@ export const POST = async (request: NextRequest) => {
     };
 
     if (!fileName || !fileType) {
-      return NextResponse.json({ error: 'fileName and fileType are required' }, { status: 400 });
+      return NextResponse.json(
+        { error: 'fileName and fileType are required' },
+        { status: 400 },
+      );
     }
 
-    const allowedTypes = ['audio/mpeg', 'audio/wav', 'audio/ogg', 'image/jpeg', 'image/png', 'image/webp'];
+    const allowedTypes = [
+      'audio/mpeg',
+      'audio/wav',
+      'audio/ogg',
+      'image/jpeg',
+      'image/png',
+      'image/webp',
+    ];
     if (!allowedTypes.includes(fileType)) {
-      return NextResponse.json({ error: 'Unsupported file type' }, { status: 400 });
+      return NextResponse.json(
+        { error: 'Unsupported file type' },
+        { status: 400 },
+      );
     }
 
-    const folder = fileType.startsWith('audio/') ? 'typing-sounds' : 'switch-images';
+    const folder = fileType.startsWith('audio/')
+      ? 'typing-sounds'
+      : 'switch-images';
     const key = `${folder}/${Date.now()}-${fileName.replace(/[^a-zA-Z0-9._-]/g, '_')}`;
 
     const s3 = getS3Client();
@@ -44,6 +59,9 @@ export const POST = async (request: NextRequest) => {
     return NextResponse.json({ uploadUrl, fileUrl });
   } catch (error) {
     console.error('Failed to generate upload URL:', error);
-    return NextResponse.json({ error: 'Failed to generate upload URL' }, { status: 500 });
+    return NextResponse.json(
+      { error: 'Failed to generate upload URL' },
+      { status: 500 },
+    );
   }
 };

@@ -1,8 +1,10 @@
 import type { Metadata } from 'next';
+
 import { notFound } from 'next/navigation';
-import { getSwitchBySlug, getSwitches } from '@/lib/notion/switches';
-import SwitchDetail from '@/components/switch/SwitchDetail';
+
 import CommentSection from '@/components/comment/CommentSection';
+import SwitchDetail from '@/components/switch/SwitchDetail';
+import { getSwitchBySlug, getSwitches } from '@/lib/notion/switches';
 
 export const revalidate = 300;
 
@@ -10,7 +12,9 @@ interface PageProps {
   params: Promise<{ slug: string }>;
 }
 
-export const generateMetadata = async ({ params }: PageProps): Promise<Metadata> => {
+export const generateMetadata = async ({
+  params,
+}: PageProps): Promise<Metadata> => {
   const { slug } = await params;
   const sw = await getSwitchBySlug(slug);
   if (!sw) return { title: 'Switch Not Found' };

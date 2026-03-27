@@ -1,12 +1,14 @@
 'use client';
 
 import { useState } from 'react';
+
 import { useMutation } from '@tanstack/react-query';
 import { toast } from 'sonner';
-import { Input } from '@/components/ui/input';
+
 import { Button } from '@/components/ui/button';
-import { Label } from '@/components/ui/label';
 import { Card, CardContent } from '@/components/ui/card';
+import { Input } from '@/components/ui/input';
+import { Label } from '@/components/ui/label';
 import { useTranslation } from '@/i18n/useTranslation';
 import api from '@/lib/api/axios';
 import type { SubmitSwitchData } from '@/types/switch';
@@ -49,7 +51,9 @@ const SwitchSubmitForm = () => {
             <Input
               id="name"
               value={form.name}
-              onChange={(e) => setForm((prev) => ({ ...prev, name: e.target.value }))}
+              onChange={(e) =>
+                setForm((prev) => ({ ...prev, name: e.target.value }))
+              }
               required
             />
           </div>
@@ -62,14 +66,23 @@ const SwitchSubmitForm = () => {
               id="source"
               value={form.source ?? ''}
               onChange={(e) =>
-                setForm((prev) => ({ ...prev, source: e.target.value || undefined }))
+                setForm((prev) => ({
+                  ...prev,
+                  source: e.target.value || undefined,
+                }))
               }
               placeholder={t('submit.sourcePlaceholder')}
             />
           </div>
 
-          <Button type="submit" className="w-full" disabled={mutation.isPending}>
-            {mutation.isPending ? t('submit.submitting') : t('submit.submitButton')}
+          <Button
+            type="submit"
+            className="w-full"
+            disabled={mutation.isPending}
+          >
+            {mutation.isPending
+              ? t('submit.submitting')
+              : t('submit.submitButton')}
           </Button>
         </CardContent>
       </Card>

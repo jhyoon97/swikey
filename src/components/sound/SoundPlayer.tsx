@@ -1,7 +1,9 @@
 'use client';
 
-import { useRef, useState, useEffect } from 'react';
+import { useEffect, useRef, useState } from 'react';
+
 import { Play, Square } from 'lucide-react';
+
 import { Button } from '@/components/ui/button';
 import { useTranslation } from '@/i18n/useTranslation';
 
@@ -60,7 +62,11 @@ const SoundPlayer = ({ src }: { src: string }) => {
     <div className="flex items-center gap-3 p-3 bg-muted rounded-lg">
       <audio ref={audioRef} src={src} preload="none" />
       <Button variant="ghost" size="icon" onClick={toggle} className="shrink-0">
-        {isPlaying ? <Square className="h-4 w-4" /> : <Play className="h-4 w-4" />}
+        {isPlaying ? (
+          <Square className="h-4 w-4" />
+        ) : (
+          <Play className="h-4 w-4" />
+        )}
       </Button>
       <div className="flex-1 min-w-0">
         <div className="h-1.5 bg-border rounded-full overflow-hidden">

@@ -1,13 +1,14 @@
 'use client';
 
-import Link from 'next/link';
 import Image from 'next/image';
+import Link from 'next/link';
+
 import { Badge } from '@/components/ui/badge';
 import { Card, CardContent } from '@/components/ui/card';
+import type { SwitchCardProperty } from '@/hooks/useSwitchCardSettings';
 import { useTranslation } from '@/i18n/useTranslation';
 import { switchTypeColor, switchTypeLabelKey } from '@/lib/utils';
 import type { KeyboardSwitch } from '@/types/switch';
-import type { SwitchCardProperty } from '@/hooks/useSwitchCardSettings';
 
 function renderProperty(
   sw: KeyboardSwitch,
@@ -107,7 +108,9 @@ const SwitchCard = ({ sw, properties }: SwitchCardProps) => {
           )}
         </div>
         <CardContent className="p-4">
-          <h3 className="font-semibold text-sm line-clamp-2 mb-2">{displayName}</h3>
+          <h3 className="font-semibold text-sm line-clamp-2 mb-2">
+            {displayName}
+          </h3>
           {enabledProperties.length > 0 && (
             <div className="flex flex-wrap gap-1">
               {enabledProperties.map((prop) => {

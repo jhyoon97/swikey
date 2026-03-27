@@ -1,9 +1,13 @@
 import type { PageObjectResponse } from '@notionhq/client/build/src/api-endpoints';
-import { getNotionClient, COMMENTS_DB_ID } from './client';
-import { mapPageToComment } from './types';
-import type { SwitchComment, CommentType } from '@/types/switch';
 
-export const getCommentsBySwitch = async (switchId: string): Promise<SwitchComment[]> => {
+import type { CommentType, SwitchComment } from '@/types/switch';
+
+import { COMMENTS_DB_ID, getNotionClient } from './client';
+import { mapPageToComment } from './types';
+
+export const getCommentsBySwitch = async (
+  switchId: string,
+): Promise<SwitchComment[]> => {
   const notion = getNotionClient();
   const response = await notion.databases.query({
     database_id: COMMENTS_DB_ID,
@@ -29,11 +33,11 @@ export const createComment = async (
   const notion = getNotionClient();
 
   const properties: Record<string, unknown> = {
-    '내용': { title: [{ text: { content } }] },
-    '작성자': { rich_text: [{ text: { content: author || '익명' } }] },
-    '스위치': { relation: [{ id: switchId }] },
-    '타입': { select: { name: type } },
-    '작성일': { date: { start: new Date().toISOString() } },
+    내용: { title: [{ text: { content } }] },
+    작성자: { rich_text: [{ text: { content: author || '익명' } }] },
+    스위치: { relation: [{ id: switchId }] },
+    타입: { select: { name: type } },
+    작성일: { date: { start: new Date().toISOString() } },
   };
 
   if (soundUrl) {

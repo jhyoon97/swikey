@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useEffect, useState } from 'react';
 
 export interface SwitchCardProperty {
   key: string;
@@ -24,18 +24,18 @@ export const SWITCH_CARD_PROPERTY_OPTIONS = [
 ] as const;
 
 export const PROPERTY_LABEL_KEYS: Record<string, string> = {
-  'type': 'switch.type',
-  'manufacturer': 'switch.manufacturer',
-  'collaborator': 'switch.collaborator',
-  'upperHousingMaterial': 'switch.upperHousing',
-  'lowerHousingMaterial': 'switch.lowerHousing',
-  'stemMaterial': 'switch.stemMaterial',
-  'silent': 'switch.silent',
-  'factoryLubed': 'switch.factoryLubed',
-  'springLength': 'switch.springLength',
-  'mountPins': 'switch.mountPins',
-  'travel': 'switch.travel',
-  'actuationPoint': 'switch.actuationPoint',
+  type: 'switch.type',
+  manufacturer: 'switch.manufacturer',
+  collaborator: 'switch.collaborator',
+  upperHousingMaterial: 'switch.upperHousing',
+  lowerHousingMaterial: 'switch.lowerHousing',
+  stemMaterial: 'switch.stemMaterial',
+  silent: 'switch.silent',
+  factoryLubed: 'switch.factoryLubed',
+  springLength: 'switch.springLength',
+  mountPins: 'switch.mountPins',
+  travel: 'switch.travel',
+  actuationPoint: 'switch.actuationPoint',
   'pressure.actuation': 'switch.actuationForce',
   'pressure.initial': 'switch.initialForce',
   'pressure.bottom': 'switch.bottomForce',
@@ -44,12 +44,18 @@ export const PROPERTY_LABEL_KEYS: Record<string, string> = {
 const STORAGE_KEY = 'switchCardProperties';
 const SETTINGS_CHANGE_EVENT = 'switchCardSettingsChange';
 
-const DEFAULT_ENABLED = ['type', 'manufacturer', 'pressure.actuation', 'travel'];
+const DEFAULT_ENABLED = [
+  'type',
+  'manufacturer',
+  'pressure.actuation',
+  'travel',
+];
 
-const DEFAULT_PROPERTIES: SwitchCardProperty[] = SWITCH_CARD_PROPERTY_OPTIONS.map((key) => ({
-  key,
-  enabled: DEFAULT_ENABLED.includes(key),
-}));
+const DEFAULT_PROPERTIES: SwitchCardProperty[] =
+  SWITCH_CARD_PROPERTY_OPTIONS.map((key) => ({
+    key,
+    enabled: DEFAULT_ENABLED.includes(key),
+  }));
 
 export function getSettings(): SwitchCardProperty[] {
   if (typeof window === 'undefined') return DEFAULT_PROPERTIES;
@@ -74,7 +80,8 @@ export function saveSettings(properties: SwitchCardProperty[]): void {
 }
 
 export function useSwitchCardSettings() {
-  const [properties, setProperties] = useState<SwitchCardProperty[]>(DEFAULT_PROPERTIES);
+  const [properties, setProperties] =
+    useState<SwitchCardProperty[]>(DEFAULT_PROPERTIES);
 
   useEffect(() => {
     setProperties(getSettings());

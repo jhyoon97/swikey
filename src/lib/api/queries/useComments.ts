@@ -1,8 +1,10 @@
 'use client';
 
-import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
+import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
+
+import type { CommentType, SwitchComment } from '@/types/switch';
+
 import api from '../axios';
-import type { SwitchComment, CommentType } from '@/types/switch';
 
 export const useComments = (switchId: string) => {
   return useQuery<SwitchComment[]>({

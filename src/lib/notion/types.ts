@@ -1,6 +1,13 @@
 import type { PageObjectResponse } from '@notionhq/client/build/src/api-endpoints';
-import type { KeyboardSwitch, MountPins, SwitchComment, SwitchType, CommentType } from '@/types/switch';
+
 import { nameToSlug } from '@/lib/utils';
+import type {
+  CommentType,
+  KeyboardSwitch,
+  MountPins,
+  SwitchComment,
+  SwitchType,
+} from '@/types/switch';
 
 type Properties = PageObjectResponse['properties'];
 type PropertyValue = Properties[string];

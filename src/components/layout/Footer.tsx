@@ -1,6 +1,7 @@
 'use client';
 
 import { Keyboard } from 'lucide-react';
+
 import { useTranslation } from '@/i18n/useTranslation';
 
 const Footer = () => {
@@ -14,7 +15,9 @@ const Footer = () => {
             <Keyboard className="h-5 w-5" />
             <span className="font-semibold">{t('footer.copyright')}</span>
           </div>
-          <p className="text-sm text-muted-foreground">{t('footer.description')}</p>
+          <p className="text-sm text-muted-foreground">
+            {t('footer.description')}
+          </p>
           <p className="text-xs text-muted-foreground/60">
             &copy; {new Date().getFullYear()} SwiKeys. All rights reserved.
           </p>

@@ -1,5 +1,6 @@
-import { getNotionClient, REPORTS_DB_ID } from './client';
 import type { SubmitSwitchData } from '@/types/switch';
+
+import { REPORTS_DB_ID, getNotionClient } from './client';
 
 export const submitReport = async (data: SubmitSwitchData): Promise<string> => {
   const notion = getNotionClient();

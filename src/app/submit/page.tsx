@@ -1,5 +1,5 @@
-import { getTranslation } from '@/i18n/getTranslation';
 import SwitchSubmitForm from '@/components/switch/SwitchSubmitForm';
+import { getTranslation } from '@/i18n/getTranslation';
 
 const SubmitPage = async () => {
   const { t } = await getTranslation();

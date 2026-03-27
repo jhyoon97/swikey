@@ -1,10 +1,11 @@
-import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
-import { getSwitches } from '@/lib/notion/switches';
-import { getTranslation } from '@/i18n/getTranslation';
+import Link from 'next/link';
+
 import HomeSearchBar from '@/components/switch/HomeSearchBar';
 import SwitchCardGrid from '@/components/switch/SwitchCardGrid';
 import SwitchCardSettingsModal from '@/components/switch/SwitchCardSettingsModal';
+import { getTranslation } from '@/i18n/getTranslation';
+import { getSwitches } from '@/lib/notion/switches';
 
 export const revalidate = 300;
 
@@ -21,7 +22,9 @@ const HomePage = async () => {
     <div>
       <section className="relative py-20 md:py-32 bg-gradient-to-b from-primary/5 to-background">
         <div className="mx-auto max-w-7xl px-4 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-4">{t('hero.title')}</h1>
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-4">
+            {t('hero.title')}
+          </h1>
           <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
             {t('hero.subtitle')}
           </p>

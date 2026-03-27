@@ -1,11 +1,12 @@
 'use client';
 
 import Image from 'next/image';
+
+import SoundPlayer from '@/components/sound/SoundPlayer';
 import { Badge } from '@/components/ui/badge';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Separator } from '@/components/ui/separator';
 import { useTranslation } from '@/i18n/useTranslation';
-import SoundPlayer from '@/components/sound/SoundPlayer';
 import { switchTypeColor, switchTypeLabelKey } from '@/lib/utils';
 import type { KeyboardSwitch } from '@/types/switch';
 
@@ -38,17 +39,23 @@ const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
     },
     {
       label: t('switch.springLength'),
-      value: sw.springLength !== undefined ? `${sw.springLength}${t('switch.mm')}` : undefined,
+      value:
+        sw.springLength !== undefined
+          ? `${sw.springLength}${t('switch.mm')}`
+          : undefined,
     },
     { label: t('switch.mountPins'), value: pinLabel },
     {
       label: t('switch.travel'),
-      value: sw.travel !== undefined ? `${sw.travel}${t('switch.mm')}` : undefined,
+      value:
+        sw.travel !== undefined ? `${sw.travel}${t('switch.mm')}` : undefined,
     },
     {
       label: t('switch.actuationPoint'),
       value:
-        sw.actuationPoint !== undefined ? `${sw.actuationPoint}${t('switch.mm')}` : undefined,
+        sw.actuationPoint !== undefined
+          ? `${sw.actuationPoint}${t('switch.mm')}`
+          : undefined,
     },
     {
       label: t('switch.actuationForce'),
@@ -60,12 +67,16 @@ const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
     {
       label: t('switch.initialForce'),
       value:
-        sw.pressure.initial !== undefined ? `${sw.pressure.initial}${t('switch.g')}` : undefined,
+        sw.pressure.initial !== undefined
+          ? `${sw.pressure.initial}${t('switch.g')}`
+          : undefined,
     },
     {
       label: t('switch.bottomForce'),
       value:
-        sw.pressure.bottom !== undefined ? `${sw.pressure.bottom}${t('switch.g')}` : undefined,
+        sw.pressure.bottom !== undefined
+          ? `${sw.pressure.bottom}${t('switch.g')}`
+          : undefined,
     },
   ];
 
@@ -105,7 +116,9 @@ const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
 
           {sw.soundUrl && (
             <div className="mb-6">
-              <h3 className="text-sm font-medium mb-2">{t('comment.typingSound')}</h3>
+              <h3 className="text-sm font-medium mb-2">
+                {t('comment.typingSound')}
+              </h3>
               <SoundPlayer src={sw.soundUrl} />
             </div>
           )}
@@ -119,8 +132,13 @@ const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
         <CardContent>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {specs.map((spec) => (
-              <div key={spec.label} className="flex justify-between py-2 border-b border-border last:border-0">
-                <span className="text-sm text-muted-foreground">{spec.label}</span>
+              <div
+                key={spec.label}
+                className="flex justify-between py-2 border-b border-border last:border-0"
+              >
+                <span className="text-sm text-muted-foreground">
+                  {spec.label}
+                </span>
                 <span className="text-sm font-medium">{spec.value ?? na}</span>
               </div>
             ))}
