@@ -315,7 +315,7 @@ const SwitchFilter = ({
   return (
     <div className="space-y-4">
       <Input
-        placeholder={t('hero.searchPlaceholder')}
+        placeholder={t('filter.searchPlaceholder')}
         value={draft.query ?? ''}
         onChange={(e) => update({ query: e.target.value || undefined })}
         onKeyDown={(e) => {

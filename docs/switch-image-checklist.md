@@ -225,298 +225,298 @@
 
 ## Glorious (2)
 
-- [ ] glorious-panda-he-silent | Glorious Panda HE Silent | https://www.gloriousgaming.com/products/panda-he-switches
-- [ ] glorious-panda-he-standard | Glorious Panda HE Standard | https://www.gloriousgaming.com/products/panda-he-switches
+- [x] glorious-panda-he-silent | Glorious Panda HE Silent | https://www.gloriousgaming.com/products/panda-he-switches
+- [x] glorious-panda-he-standard | Glorious Panda HE Standard | https://www.gloriousgaming.com/products/panda-he-switches
 
 ## GravaStar (1)
 
-- [ ] gravastar-ufo-magnetic | GravaStar UFO Magnetic | https://www.gravastar.com/products/gravastar-ufo-magnetic-switch-hall-effect-gaming-switches
+- [x] gravastar-ufo-magnetic | GravaStar UFO Magnetic | https://www.gravastar.com/products/gravastar-ufo-magnetic-switch-hall-effect-gaming-switches
 
 ## HMX (136)
 
 - [ ] hmx-longjing | HMX Longjing | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-butter-silent-tactile | HMX Butter Silent Tactile | https://lumekeebs.com/products/hmx-butter-silent-tactile-switches-10pcs-pre-order
-- [ ] hmx-x-80retros-volume-0-t | HMX x 80Retros Volume 0-T | https://divinikey.com/products/hmx-volume-0-silent-switches
-- [ ] hmx-moksae-silent-tactile | HMX Moksae Silent Tactile | https://unikeyboards.com/products/hmx-moksae-silent-tactile-switch-factory-lubed-10pcs
+- [x] hmx-butter-silent-tactile | HMX Butter Silent Tactile | https://lumekeebs.com/products/hmx-butter-silent-tactile-switches-10pcs-pre-order
+- [x] hmx-x-80retros-volume-0-t | HMX x 80Retros Volume 0-T | https://divinikey.com/products/hmx-volume-0-silent-switches
+- [x] hmx-moksae-silent-tactile | HMX Moksae Silent Tactile | https://unikeyboards.com/products/hmx-moksae-silent-tactile-switch-factory-lubed-10pcs
 - [ ] hmx-x-sillyworks-waverider-v2 | HMX x Sillyworks Waverider V2 | https://unikeyboards.com/collections/hmx-switches
 - [ ] hmx-x-renalabs-yuyu | HMX x Renalabs Yuyu | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-firecracker | HMX Firecracker | https://divinikey.com/products/hmx-firecracker-tactile-switches
+- [x] hmx-firecracker | HMX Firecracker | https://divinikey.com/products/hmx-firecracker-tactile-switches
 - [ ] hmx-puppy | HMX Puppy | https://keeb-finder.com/switches/hmx-puppy-tactile-switches
-- [ ] hmx-black-cat | HMX Black Cat | https://divinikey.com/products/hmx-black-cat-tactile-switches
-- [ ] hmx-sandstorm-(dune) | HMX Sandstorm (Dune) | https://mechanicalkeyboards.com/products/hmx-dune-50g-tactile-pcb-mount-switch
-- [ ] hmx-snowfall | HMX Snowfall | https://divinikey.com/products/hmx-snowfall-tactile-switches
+- [x] hmx-black-cat | HMX Black Cat | https://divinikey.com/products/hmx-black-cat-tactile-switches
+- [x] hmx-sandstorm-(dune) | HMX Sandstorm (Dune) | https://mechanicalkeyboards.com/products/hmx-dune-50g-tactile-pcb-mount-switch
+- [x] hmx-snowfall | HMX Snowfall | https://divinikey.com/products/hmx-snowfall-tactile-switches
 - [ ] hmx-jade | HMX Jade | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-hydra | HMX Hydra | https://unikeyboards.com/products/hmx-hydra-tactile-switch-factory-lubed-edition-10pcs
-- [ ] hmx-retro-j | HMX Retro J | https://divinikey.com/products/hmx-retro-j-tactile-switches
-- [ ] hmx-k01 | HMX K01 | https://unikeyboards.com/products/hmx-k01-light-tactile-switch-factory-lubed-10pcs
-- [ ] hmx-valerian-light | HMX Valerian Light | https://unikeyboards.com/products/hmx-valerian-light-tactile-switch-factory-lubed-10pcs
+- [x] hmx-hydra | HMX Hydra | https://unikeyboards.com/products/hmx-hydra-tactile-switch-factory-lubed-edition-10pcs
+- [x] hmx-retro-j | HMX Retro J | https://divinikey.com/products/hmx-retro-j-tactile-switches
+- [x] hmx-k01 | HMX K01 | https://unikeyboards.com/products/hmx-k01-light-tactile-switch-factory-lubed-10pcs
+- [x] hmx-valerian-light | HMX Valerian Light | https://unikeyboards.com/products/hmx-valerian-light-tactile-switch-factory-lubed-10pcs
 - [ ] hmx-valerian | HMX Valerian | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-longjing-s | HMX Longjing S | https://unikeyboards.com/products/hmx-longjing-s-light-tactile-switch-factory-lubed-10pcs
-- [ ] hmx-ice-lotus | HMX Ice Lotus | https://mechanicalkeyboards.com/products/hmx-ice-lotus-55g-tactile-plate-mount-switch
-- [ ] hmx-yamatake-light | HMX Yamatake Light | https://unikeyboards.com/products/hmx-yamatake-light-tactile-switch-factory-lubed-10pcs
-- [ ] hmx-yamatake | HMX Yamatake | https://mechanicalkeyboards.com/products/hmx-yamatake-40g-tactile-pcb-mount-switch
-- [ ] hmx-frog | HMX Frog | https://kineticlabs.com/switches/hmx/hmx-frog-switches
-- [ ] hmx-crystal-he | HMX Crystal HE | https://unikeyboards.com/products/hmx-crystal-he-magnetic-gaming-switch-factory-lubed-10pcs
-- [ ] hmx-taro-silent-45g | HMX Taro Silent 45g | https://mechanicalkeyboards.com/products/hmx-taro-silent-linear-pcb-mount-switch
-- [ ] hmx-taro-silent-37g | HMX Taro Silent 37g | https://mechanicalkeyboards.com/products/hmx-taro-silent-linear-pcb-mount-switch
-- [ ] hmx-x-80retros-volume-0 | HMX x 80Retros Volume 0 | https://divinikey.com/products/hmx-volume-0-silent-switches
-- [ ] hmx-moksae-silent-linear | HMX Moksae Silent Linear | https://unikeyboards.com/products/hmx-moksae-silent-linear-switch-factory-lubed-10pcs
+- [x] hmx-longjing-s | HMX Longjing S | https://unikeyboards.com/products/hmx-longjing-s-light-tactile-switch-factory-lubed-10pcs
+- [x] hmx-ice-lotus | HMX Ice Lotus | https://mechanicalkeyboards.com/products/hmx-ice-lotus-55g-tactile-plate-mount-switch
+- [x] hmx-yamatake-light | HMX Yamatake Light | https://unikeyboards.com/products/hmx-yamatake-light-tactile-switch-factory-lubed-10pcs
+- [x] hmx-yamatake | HMX Yamatake | https://mechanicalkeyboards.com/products/hmx-yamatake-40g-tactile-pcb-mount-switch
+- [x] hmx-frog | HMX Frog | https://kineticlabs.com/switches/hmx/hmx-frog-switches
+- [x] hmx-crystal-he | HMX Crystal HE | https://unikeyboards.com/products/hmx-crystal-he-magnetic-gaming-switch-factory-lubed-10pcs
+- [x] hmx-taro-silent-45g | HMX Taro Silent 45g | https://mechanicalkeyboards.com/products/hmx-taro-silent-linear-pcb-mount-switch
+- [x] hmx-taro-silent-37g | HMX Taro Silent 37g | https://mechanicalkeyboards.com/products/hmx-taro-silent-linear-pcb-mount-switch
+- [x] hmx-x-80retros-volume-0 | HMX x 80Retros Volume 0 | https://divinikey.com/products/hmx-volume-0-silent-switches
+- [x] hmx-moksae-silent-linear | HMX Moksae Silent Linear | https://unikeyboards.com/products/hmx-moksae-silent-linear-switch-factory-lubed-10pcs
 - [ ] hmx-retro-sakura | HMX Retro Sakura | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-sakura-v2-silent | HMX Sakura V2 Silent | https://unikeyboards.com/products/hmx-silent-sakura-linear-switch-factory-lubed-edition-10pcs
-- [ ] hmx-silent-sakura | HMX Silent Sakura | https://lumekeebs.com/products/hmx-silent-sakura-linear-switches
+- [x] hmx-sakura-v2-silent | HMX Sakura V2 Silent | https://unikeyboards.com/products/hmx-silent-sakura-linear-switch-factory-lubed-edition-10pcs
+- [x] hmx-silent-sakura | HMX Silent Sakura | https://lumekeebs.com/products/hmx-silent-sakura-linear-switches
 - [ ] hmx-lulu-silent | HMX Lulu Silent | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-blackberry-silent | HMX Blackberry Silent | https://lumekeebs.com/products/hmx-blackberry-silent-linear-switches-10pcs-pre-order
+- [x] hmx-blackberry-silent | HMX Blackberry Silent | https://lumekeebs.com/products/hmx-blackberry-silent-linear-switches-10pcs-pre-order
 - [ ] hmx-pine-moon | HMX Pine Moon | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] raptor-mx-extreme | Raptor MX Extreme | https://geon.works/products/raptor-mx-extreme-gaming-switch
+- [x] raptor-mx-extreme | Raptor MX Extreme | https://geon.works/products/raptor-mx-extreme-gaming-switch
 - [ ] sw-x-hmx-milky-white | SW x HMX Milky White | https://www.swagkey.kr/50/?idx=719
 - [ ] sw-x-hmx-catmint | SW x HMX Catmint | https://deltakeyco.com/products/sw-x-hmx-catmint-switches
 - [ ] sw-x-hmx-garnet | SW x HMX Garnet | https://www.swagkey.kr/50/?idx=690
 - [ ] sw-x-hmx-pearl | SW x HMX Pearl | https://www.swagkey.kr/42/?idx=681
-- [ ] hmx-retro-t | HMX Retro T | https://divinikey.com/products/hmx-retro-t-linear-switches
-- [ ] hmx-retro-c | HMX Retro C | https://divinikey.com/products/hmx-retro-c-linear-switches
-- [ ] hmx-retro-r | HMX Retro R | https://divinikey.com/products/hmx-retro-r-linear-switches
+- [x] hmx-retro-t | HMX Retro T | https://divinikey.com/products/hmx-retro-t-linear-switches
+- [x] hmx-retro-c | HMX Retro C | https://divinikey.com/products/hmx-retro-c-linear-switches
+- [x] hmx-retro-r | HMX Retro R | https://divinikey.com/products/hmx-retro-r-linear-switches
 - [ ] hmx-x-80retros-kd400 | HMX x 80Retros KD400 | https://unikeyboards.com/en-es/products/hmx-x-80-retros-kd400-linear-switch-factory-lubed-10pcs
-- [ ] hmx-x-80retros-game-1989-classic | HMX x 80Retros Game 1989 Classic | https://lumekeebs.com/products/hmx-x-80retros-game-1989-classic-linear-switches
+- [x] hmx-x-80retros-game-1989-classic | HMX x 80Retros Game 1989 Classic | https://lumekeebs.com/products/hmx-x-80retros-game-1989-classic-linear-switches
 - [ ] hmx-x-80retros-fj400 | HMX x 80Retros FJ400 | https://www.keebzncables.com/products/hmx-x-80s-retro-fj400-linear-switches
-- [ ] hmx-x-80retros-kd200 | HMX x 80Retros KD200 | https://lumekeebs.com/products/hmx-x-80retros-kd200-linear-switches
+- [x] hmx-x-80retros-kd200 | HMX x 80Retros KD200 | https://lumekeebs.com/products/hmx-x-80retros-kd200-linear-switches
 - [ ] hmx-x-80retros-retro-joker | HMX x 80Retros Retro Joker | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-x-80retros-joker | HMX x 80Retros Joker | https://lumekeebs.com/products/hmx-x-80retros-joker-linear-switches
+- [x] hmx-x-80retros-joker | HMX x 80Retros Joker | https://lumekeebs.com/products/hmx-x-80retros-joker-linear-switches
 - [ ] hmx-twilight | HMX Twilight | https://keeb-finder.com/switches/filter/brand-HMX
 - [ ] hmx-ash | HMX Ash | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-manta | HMX Manta | https://zkeebs.com/products/hmx-manta-linear-switches
+- [x] hmx-manta | HMX Manta | https://zkeebs.com/products/hmx-manta-linear-switches
 - [ ] hmx-lulu | HMX Lulu | https://keeb-finder.com/switches/filter/brand-HMX
 - [ ] hmx-toast | HMX Toast | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-x-bckeys-martini-v2 | HMX x BCKeys Martini V2 | https://unikeyboards.com/products/hmx-x-bckeys-martini-v2-linear-switch-factory-lubed-10pcs
-- [ ] hmx-martini | HMX Martini | https://mechanicalkeyboards.com/products/hmx-martini-42g-linear-pcb-mount-switch
+- [x] hmx-x-bckeys-martini-v2 | HMX x BCKeys Martini V2 | https://unikeyboards.com/products/hmx-x-bckeys-martini-v2-linear-switch-factory-lubed-10pcs
+- [x] hmx-martini | HMX Martini | https://mechanicalkeyboards.com/products/hmx-martini-42g-linear-pcb-mount-switch
 - [ ] hmx-guava | HMX Guava | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-jammy-55g | HMX Jammy 55g | https://zkeebs.com/products/hmx-jammy-linear-switches
-- [ ] hmx-jammy-37g | HMX Jammy 37g | https://zkeebs.com/products/hmx-jammy-linear-switches
-- [ ] hmx-jelly | HMX Jelly | https://zkeebs.com/products/hmx-jelly-linear-switches
+- [x] hmx-jammy-55g | HMX Jammy 55g | https://zkeebs.com/products/hmx-jammy-linear-switches
+- [x] hmx-jammy-37g | HMX Jammy 37g | https://zkeebs.com/products/hmx-jammy-linear-switches
+- [x] hmx-jelly | HMX Jelly | https://zkeebs.com/products/hmx-jelly-linear-switches
 - [ ] hmx-tt-red | HMX TT Red | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-mist | HMX Mist | https://unikeyboards.com/products/hmx-mist-linear-switch-factory-lubed-edition-10pcs
-- [ ] hmx-emo | HMX EMO | https://divinikey.com/products/hmx-emo-linear-switches
-- [ ] hmx-desert | HMX Desert | https://unikeyboards.com/products/hmx-desert-linear-switch-factory-lubed-10pcs
+- [x] hmx-mist | HMX Mist | https://unikeyboards.com/products/hmx-mist-linear-switch-factory-lubed-edition-10pcs
+- [x] hmx-emo | HMX EMO | https://divinikey.com/products/hmx-emo-linear-switches
+- [x] hmx-desert | HMX Desert | https://unikeyboards.com/products/hmx-desert-linear-switch-factory-lubed-10pcs
 - [ ] hmx-tequila | HMX Tequila | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-ice-cendol | HMX Ice Cendol | https://www.keebzncables.com/products/keebz-n-cables-x-hmx-ice-cendol-linear-switches
+- [x] hmx-ice-cendol | HMX Ice Cendol | https://www.keebzncables.com/products/keebz-n-cables-x-hmx-ice-cendol-linear-switches
 - [ ] hmx-gulf | HMX Gulf | https://keeb-finder.com/switches/filter/brand-HMX
 - [ ] hmx-gulf-57 | HMX Gulf 57 | https://mechanicalkeyboards.com/products/hmx-gulf-57-50g-linear-pcb-mount-switch
-- [ ] hmx-pink-pig | HMX Pink Pig | https://mechanicalkeyboards.com/products/hmx-pink-pig-45g-linear-pcb-mount-switch
-- [ ] hmx-green-apple | HMX Green Apple | https://mechanicalkeyboards.com/products/hmx-green-apple-45g-linear-pcb-mount-switch
-- [ ] hmx-serene-green | HMX Serene Green | https://mechanicalkeyboards.com/products/hmx-serene-green-42g-linear-pcb-mount-switch
+- [x] hmx-pink-pig | HMX Pink Pig | https://mechanicalkeyboards.com/products/hmx-pink-pig-45g-linear-pcb-mount-switch
+- [x] hmx-green-apple | HMX Green Apple | https://mechanicalkeyboards.com/products/hmx-green-apple-45g-linear-pcb-mount-switch
+- [x] hmx-serene-green | HMX Serene Green | https://mechanicalkeyboards.com/products/hmx-serene-green-42g-linear-pcb-mount-switch
 - [ ] hmx-citrus-silver-v2 | HMX Citrus Silver V2 | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-vintage-citrus | HMX Vintage Citrus | https://unikeyboards.com/products/hmx-vintage-citrus-linear-switch-factory-lubed-edition-10pcs
-- [ ] hmx-keebscape-snow-crash | HMX Keebscape Snow Crash | https://unikeyboards.com/products/keebscape-co-x-hmx-snow-crash-rail-bottom-out-linear-switch-factory-lubed-edition-10pcs
-- [ ] hmx-lanikai | HMX Lanikai | https://unikeyboards.com/products/hmx-lanikai-linear-switch-factory-lubed-10pcs
-- [ ] hmx-taro-ball | HMX Taro Ball | https://unikeyboards.com/products/hmx-taro-ball-linear-switch-factory-lubed-10pcs
-- [ ] hmx-crisp-42g | HMX Crisp 42g | https://divinikey.com/products/hmx-crisp-linear-switches
-- [ ] hmx-crisp-37g | HMX Crisp 37g | https://divinikey.com/products/hmx-crisp-linear-switches
-- [ ] hmx-electric-wave | HMX Electric Wave | https://unikeyboards.com/products/hmx-electric-wave-linear-switch-factory-lubed-10pcs
-- [ ] hmx-anti | HMX Anti | https://www.theremingoat.com/blog/hmx-anti-switch-review
-- [ ] hmx-trex | HMX TRex | https://unikeyboards.com/products/hmx-t-rex-linear-switch-factory-lubed-10pcs
+- [x] hmx-vintage-citrus | HMX Vintage Citrus | https://unikeyboards.com/products/hmx-vintage-citrus-linear-switch-factory-lubed-edition-10pcs
+- [x] hmx-keebscape-snow-crash | HMX Keebscape Snow Crash | https://unikeyboards.com/products/keebscape-co-x-hmx-snow-crash-rail-bottom-out-linear-switch-factory-lubed-edition-10pcs
+- [x] hmx-lanikai | HMX Lanikai | https://unikeyboards.com/products/hmx-lanikai-linear-switch-factory-lubed-10pcs
+- [x] hmx-taro-ball | HMX Taro Ball | https://unikeyboards.com/products/hmx-taro-ball-linear-switch-factory-lubed-10pcs
+- [x] hmx-crisp-42g | HMX Crisp 42g | https://divinikey.com/products/hmx-crisp-linear-switches
+- [x] hmx-crisp-37g | HMX Crisp 37g | https://divinikey.com/products/hmx-crisp-linear-switches
+- [x] hmx-electric-wave | HMX Electric Wave | https://unikeyboards.com/products/hmx-electric-wave-linear-switch-factory-lubed-10pcs
+- [x] hmx-anti | HMX Anti | https://www.theremingoat.com/blog/hmx-anti-switch-review
+- [x] hmx-trex | HMX TRex | https://unikeyboards.com/products/hmx-t-rex-linear-switch-factory-lubed-10pcs
 - [ ] hmx-cthulhu | HMX Cthulhu | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-bad-sweetheart | HMX Bad Sweetheart | https://mechanicalkeyboards.com/products/hmx-bad-sweetheart-45g-linear-pcb-mount-switch
-- [ ] hmx-moonlit-bleu-45g | HMX Moonlit Bleu 45g | https://unikeyboards.com/products/hmx-moonlit-bleu-linear-switch-factory-lubed-10pcs
-- [ ] hmx-moonlit-bleu-37g | HMX Moonlit Bleu 37g | https://unikeyboards.com/products/hmx-moonlit-bleu-linear-switch-factory-lubed-10pcs
-- [ ] hmx-lunar-stone | HMX Lunar Stone | https://unikeyboards.com/products/hmx-lunar-stone-linear-switch-factory-lubed-10pcs
-- [ ] hmx-cosmic-purple | HMX Cosmic Purple | https://zkeebs.com/products/hmx-cosmic-purple-linear-switches
-- [ ] hmx-songyue | HMX Songyue | https://unikeyboards.com/products/hmx-songyue-linear-switch-factory-lubed-10pcs
-- [ ] hmx-aperol | HMX Aperol | https://unikeyboards.com/products/hmx-aperol-linear-switch-factory-lubed-10pcs
+- [x] hmx-bad-sweetheart | HMX Bad Sweetheart | https://mechanicalkeyboards.com/products/hmx-bad-sweetheart-45g-linear-pcb-mount-switch
+- [x] hmx-moonlit-bleu-45g | HMX Moonlit Bleu 45g | https://unikeyboards.com/products/hmx-moonlit-bleu-linear-switch-factory-lubed-10pcs
+- [x] hmx-moonlit-bleu-37g | HMX Moonlit Bleu 37g | https://unikeyboards.com/products/hmx-moonlit-bleu-linear-switch-factory-lubed-10pcs
+- [x] hmx-lunar-stone | HMX Lunar Stone | https://unikeyboards.com/products/hmx-lunar-stone-linear-switch-factory-lubed-10pcs
+- [x] hmx-cosmic-purple | HMX Cosmic Purple | https://zkeebs.com/products/hmx-cosmic-purple-linear-switches
+- [x] hmx-songyue | HMX Songyue | https://unikeyboards.com/products/hmx-songyue-linear-switch-factory-lubed-10pcs
+- [x] hmx-aperol | HMX Aperol | https://unikeyboards.com/products/hmx-aperol-linear-switch-factory-lubed-10pcs
 - [ ] hmx-azure | HMX Azure | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-amber-(neo-amber) | HMX Amber (Neo Amber) | https://divinikey.com/products/hmx-x-evoworks-amber-linear-switches
+- [x] hmx-amber-(neo-amber) | HMX Amber (Neo Amber) | https://divinikey.com/products/hmx-x-evoworks-amber-linear-switches
 - [ ] hmx-canglan-v2 | HMX Canglan V2 | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-canglan-v3 | HMX Canglan V3 | https://mechanicalkeyboards.com/products/hmx-canglan-v3-42g-linear-pcb-mount-switch
+- [x] hmx-canglan-v3 | HMX Canglan V3 | https://mechanicalkeyboards.com/products/hmx-canglan-v3-42g-linear-pcb-mount-switch
 - [ ] hmx-su-color-r2 | HMX SU Color R2 | https://unikeyboards.com/products/hmx-su-color-r2-purple-linear-switch-factory-lubed-edition-10pcs
-- [ ] hmx-hades-v2-48g | HMX Hades V2 48g | https://divinikey.com/products/hmx-hades-v2-linear-switches
-- [ ] hmx-hades-v2-37g | HMX Hades V2 37g | https://divinikey.com/products/hmx-hades-v2-linear-switches
-- [ ] hmx-sprite-v2 | HMX Sprite V2 | https://unikeyboards.com/products/hmx-sprite-linear-switch-factory-lubed-10pcs
-- [ ] hmx-swift-v2 | HMX Swift V2 | https://unikeyboards.com/products/hmx-swift-v2-linear-switch-factory-lubed-edition-10pcs
-- [ ] hmx-swift | HMX Swift | https://zkeebs.com/products/hmx-swift-linear-switches
-- [ ] hmx-eva | HMX EVA | https://divinikey.com/products/hmx-eva-linear-switches
-- [ ] hmx-poro-45g | HMX Poro 45g | https://divinikey.com/products/hmx-poro-linear-switches
-- [ ] hmx-poro-37g | HMX Poro 37g | https://divinikey.com/products/hmx-poro-linear-switches
-- [ ] hmx-latte | HMX Latte | https://kineticlabs.com/switches/hmx/hmx-latte-switches
-- [ ] hmx-butter | HMX Butter | https://kineticlabs.com/switches/hmx/hmx-butter-switches
-- [ ] hmx-sogurt-42g | HMX Sogurt 42g | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-sogurt-37g | HMX Sogurt 37g | https://keeb-finder.com/switches/filter/brand-HMX
-- [ ] hmx-yogurt-s-45g | HMX Yogurt S 45g | https://divinikey.com/products/hmx-yogurt-s-linear-switches
-- [ ] hmx-yogurt-s-37g | HMX Yogurt S 37g | https://divinikey.com/products/hmx-yogurt-s-linear-switches
-- [ ] hmx-yogurt-v2 | HMX Yogurt V2 | https://unikeyboards.com/products/hmx-yogurt-v2-linear-switch-factory-lubed-edition-10pcs
+- [x] hmx-hades-v2-48g | HMX Hades V2 48g | https://divinikey.com/products/hmx-hades-v2-linear-switches
+- [x] hmx-hades-v2-37g | HMX Hades V2 37g | https://divinikey.com/products/hmx-hades-v2-linear-switches
+- [x] hmx-sprite-v2 | HMX Sprite V2 | https://unikeyboards.com/products/hmx-sprite-linear-switch-factory-lubed-10pcs
+- [x] hmx-swift-v2 | HMX Swift V2 | https://unikeyboards.com/products/hmx-swift-v2-linear-switch-factory-lubed-edition-10pcs
+- [x] hmx-swift | HMX Swift | https://zkeebs.com/products/hmx-swift-linear-switches
+- [x] hmx-eva | HMX EVA | https://divinikey.com/products/hmx-eva-linear-switches
+- [x] hmx-poro-45g | HMX Poro 45g | https://divinikey.com/products/hmx-poro-linear-switches
+- [x] hmx-poro-37g | HMX Poro 37g | https://divinikey.com/products/hmx-poro-linear-switches
+- [x] hmx-latte | HMX Latte | https://kineticlabs.com/switches/hmx/hmx-latte-switches
+- [x] hmx-butter | HMX Butter | https://kineticlabs.com/switches/hmx/hmx-butter-switches
+- [x] hmx-sogurt-42g | HMX Sogurt 42g | https://keeb-finder.com/switches/filter/brand-HMX
+- [x] hmx-sogurt-37g | HMX Sogurt 37g | https://keeb-finder.com/switches/filter/brand-HMX
+- [x] hmx-yogurt-s-45g | HMX Yogurt S 45g | https://divinikey.com/products/hmx-yogurt-s-linear-switches
+- [x] hmx-yogurt-s-37g | HMX Yogurt S 37g | https://divinikey.com/products/hmx-yogurt-s-linear-switches
+- [x] hmx-yogurt-v2 | HMX Yogurt V2 | https://unikeyboards.com/products/hmx-yogurt-v2-linear-switch-factory-lubed-edition-10pcs
 - [ ] hmx-x-unikeys-purple-dawn | HMX x Unikeys Purple Dawn | https://pompokey.com/products/hmx-x-unikeys-purple-dawn-linear-switch-factory-lube
-- [ ] hmx-x-siliworks-sonja-hc | HMX x Siliworks Sonja HC | https://mechanicalkeyboards.com/products/hmx-sonja-hc-52g-linear-pcb-mount-switch
-- [ ] hmx-x-siliworks-sonja | HMX x Siliworks Sonja | https://divinikey.com/products/hmx-x-siliworks-sonja-linear-switches
+- [x] hmx-x-siliworks-sonja-hc | HMX x Siliworks Sonja HC | https://mechanicalkeyboards.com/products/hmx-sonja-hc-52g-linear-pcb-mount-switch
+- [x] hmx-x-siliworks-sonja | HMX x Siliworks Sonja | https://divinikey.com/products/hmx-x-siliworks-sonja-linear-switches
 - [ ] hmx-x-sillyworks-nap | HMX x Sillyworks Nap | https://lumekeebs.com/blogs/blog/hmx-sillyworks-nap-linear-switch-review
-- [ ] hmx-sillyworks-hyacinth-v2u | HMX Sillyworks Hyacinth V2U | https://kineticlabs.com/switches/hmx/hmx-hyacinth-v2u-switches
-- [ ] hmx-sillyworks-hyacinth-v2 | HMX Sillyworks Hyacinth V2 | https://divinikey.com/products/hmx-sillyworks-hyacinth-v2-switch
+- [x] hmx-sillyworks-hyacinth-v2u | HMX Sillyworks Hyacinth V2U | https://kineticlabs.com/switches/hmx/hmx-hyacinth-v2u-switches
+- [x] hmx-sillyworks-hyacinth-v2 | HMX Sillyworks Hyacinth V2 | https://divinikey.com/products/hmx-sillyworks-hyacinth-v2-switch
 - [ ] hmx-glaze-jade | HMX Glaze Jade | https://pompokey.com/products/hmx-glaze-jade-linear-switch
-- [ ] hmx-cola-38mm | HMX Cola 3.8mm | https://unikeyboards.com/products/hmx-cola-3-8mm-linear-switch-factory-lubed-10pcs
-- [ ] hmx-cola-45g | HMX Cola 45g | https://divinikey.com/products/hmx-cola-linear-switches
-- [ ] hmx-cola-42g | HMX Cola 42g | https://divinikey.com/products/hmx-cola-linear-switches
-- [ ] hmx-cola-37g | HMX Cola 37g | https://divinikey.com/products/hmx-cola-linear-switches
-- [ ] hmx-lotus | HMX Lotus | https://lumekeebs.com/products/hmx-lotus-linear-switches
+- [x] hmx-cola-38mm | HMX Cola 3.8mm | https://unikeyboards.com/products/hmx-cola-3-8mm-linear-switch-factory-lubed-10pcs
+- [x] hmx-cola-45g | HMX Cola 45g | https://divinikey.com/products/hmx-cola-linear-switches
+- [x] hmx-cola-42g | HMX Cola 42g | https://divinikey.com/products/hmx-cola-linear-switches
+- [x] hmx-cola-37g | HMX Cola 37g | https://divinikey.com/products/hmx-cola-linear-switches
+- [x] hmx-lotus | HMX Lotus | https://lumekeebs.com/products/hmx-lotus-linear-switches
 - [ ] hmx-dino | HMX Dino | https://pompokey.com/products/hmx-dino-linear-switches-factory-lubed-10pcs-1
-- [ ] hmx-pebble-(gravel) | HMX Pebble (Gravel) | https://divinikey.com/products/hmx-gravel-linear-switches
-- [ ] hmx-hibiscus | HMX Hibiscus | https://mechanicalkeyboards.com/products/hmx-hibiscus-42g-linear-pcb-mount-switch
-- [ ] hmx-yg-macchiato | HMX YG Macchiato | https://divinikey.com/products/hmx-yg-macchiato-linear-switches
-- [ ] hmx-deep-navy | HMX Deep Navy | https://zkeebs.com/products/hmx-deep-navy-linear-switches
-- [ ] hmx-blue-topaz | HMX Blue Topaz | https://kineticlabs.com/switches/hmx/hmx-blue-topaz-switches
-- [ ] hmx-caramel-pudding | HMX Caramel Pudding | https://lumekeebs.com/products/hmx-caramel-pudding-linear-switches
-- [ ] hmx-cheese | HMX Cheese | https://mechanicalkeyboards.com/products/hmx-cheese-43g-linear-pcb-mount-switch
-- [ ] hmx-sunset-gleam-v2 | HMX Sunset Gleam V2 | https://unikeyboards.com/products/hmx-sunset-gleam-v2-linear-switch-factory-lubed-10pcs
-- [ ] hmx-sunset-gleam-50g | HMX Sunset Gleam 50g | https://mechanicalkeyboards.com/products/hmx-sunset-gleam-linear-pcb-mount-switch
-- [ ] hmx-sunset-gleam-42g | HMX Sunset Gleam 42g | https://mechanicalkeyboards.com/products/hmx-sunset-gleam-linear-pcb-mount-switch
-- [ ] hmx-sunset-gleam-37g | HMX Sunset Gleam 37g | https://mechanicalkeyboards.com/products/hmx-sunset-gleam-linear-pcb-mount-switch
-- [ ] hmx-cloud-v2 | HMX Cloud V2 | https://lumekeebs.com/products/hmx-cloud-v2-linear-switches
-- [ ] hmx-cloud-56g | HMX Cloud 56g | https://mechanicalkeyboards.com/products/hmx-cloud-linear-pcb-mount
-- [ ] hmx-cloud-42g | HMX Cloud 42g | https://mechanicalkeyboards.com/products/hmx-cloud-linear-pcb-mount
-- [ ] hmx-xinhai-55g | HMX Xinhai 55g | https://mechanicalkeyboards.com/products/hmx-xinhai-linear-pcb-mount
-- [ ] hmx-xinhai-37g | HMX Xinhai 37g | https://divinikey.com/products/hmx-xinhai-linear-switches
+- [x] hmx-pebble-(gravel) | HMX Pebble (Gravel) | https://divinikey.com/products/hmx-gravel-linear-switches
+- [x] hmx-hibiscus | HMX Hibiscus | https://mechanicalkeyboards.com/products/hmx-hibiscus-42g-linear-pcb-mount-switch
+- [x] hmx-yg-macchiato | HMX YG Macchiato | https://divinikey.com/products/hmx-yg-macchiato-linear-switches
+- [x] hmx-deep-navy | HMX Deep Navy | https://zkeebs.com/products/hmx-deep-navy-linear-switches
+- [x] hmx-blue-topaz | HMX Blue Topaz | https://kineticlabs.com/switches/hmx/hmx-blue-topaz-switches
+- [x] hmx-caramel-pudding | HMX Caramel Pudding | https://lumekeebs.com/products/hmx-caramel-pudding-linear-switches
+- [x] hmx-cheese | HMX Cheese | https://mechanicalkeyboards.com/products/hmx-cheese-43g-linear-pcb-mount-switch
+- [x] hmx-sunset-gleam-v2 | HMX Sunset Gleam V2 | https://unikeyboards.com/products/hmx-sunset-gleam-v2-linear-switch-factory-lubed-10pcs
+- [x] hmx-sunset-gleam-50g | HMX Sunset Gleam 50g | https://mechanicalkeyboards.com/products/hmx-sunset-gleam-linear-pcb-mount-switch
+- [x] hmx-sunset-gleam-42g | HMX Sunset Gleam 42g | https://mechanicalkeyboards.com/products/hmx-sunset-gleam-linear-pcb-mount-switch
+- [x] hmx-sunset-gleam-37g | HMX Sunset Gleam 37g | https://mechanicalkeyboards.com/products/hmx-sunset-gleam-linear-pcb-mount-switch
+- [x] hmx-cloud-v2 | HMX Cloud V2 | https://lumekeebs.com/products/hmx-cloud-v2-linear-switches
+- [x] hmx-cloud-56g | HMX Cloud 56g | https://mechanicalkeyboards.com/products/hmx-cloud-linear-pcb-mount
+- [x] hmx-cloud-42g | HMX Cloud 42g | https://mechanicalkeyboards.com/products/hmx-cloud-linear-pcb-mount
+- [x] hmx-xinhai-55g | HMX Xinhai 55g | https://mechanicalkeyboards.com/products/hmx-xinhai-linear-pcb-mount
+- [x] hmx-xinhai-37g | HMX Xinhai 37g | https://divinikey.com/products/hmx-xinhai-linear-switches
 
 ## Huano (42)
 
-- [ ] huano-magnetic-red | Huano Magnetic Red | https://switchoddities.com/products/huano-magnetic-red
-- [ ] huano-omega-magnetic-he | Huano OMEGA Magnetic HE | https://mechkeys.com/collections/huano-switch
-- [ ] huano-blue | Huano Blue | https://keybumps.com/switches/huano-blue.html
+- [x] huano-magnetic-red | Huano Magnetic Red | https://switchoddities.com/products/huano-magnetic-red
+- [x] huano-omega-magnetic-he | Huano OMEGA Magnetic HE | https://mechkeys.com/collections/huano-switch
+- [x] huano-blue | Huano Blue | https://keybumps.com/switches/huano-blue.html
 - [ ] ajazz-x-huano-kiwi | Ajazz x Huano Kiwi | https://www.mechanicalkeyboards.co.id/products/detail/ajazz-x-huano-kiwi-switch-tactile-plate-mount
-- [ ] ajazz-x-huano-banana | Ajazz x Huano Banana | https://www.theremingoat.com/blog/ajazz-x-huano-banana-switch-review
+- [x] ajazz-x-huano-banana | Ajazz x Huano Banana | https://www.theremingoat.com/blog/ajazz-x-huano-banana-switch-review
 - [ ] huano-ice-blue | Huano Ice Blue | https://www.mechanicalkeyboards.co.id/products/detail/huano-ice-blue-switch-tactile-plate-mount
 - [ ] huano-peppermint | Huano Peppermint | https://drop.com/buy/huano-peppermint-tactile-mechanical-switches
-- [ ] huano-swirl-brown | Huano Swirl Brown | https://switchoddities.com/products/huano-swirl-brown
+- [x] huano-swirl-brown | Huano Swirl Brown | https://switchoddities.com/products/huano-swirl-brown
 - [ ] huano-dustproof-brown | Huano Dustproof Brown | https://joojakkeyboard.com/products/box-winter-tactile-key-switch-%E7%9A%84%E5%89%AF%E6%9C%AC-1
-- [ ] huano-brown | Huano Brown | https://keybumps.com/switches/huano-brown.html
-- [ ] huano-smoky-white | Huano Smoky White | https://kprepublic.com/products/huano-smoky-white-switch-rgb-smd-advance-tactile-65g-switches-for-mechanical-keyboard-mx-stem-3pin-black
-- [ ] huano-holy-tom-v2 | Huano Holy Tom V2 | https://keybumps.com/switches/huano-holytom-v2.html
-- [ ] huano-holy-tom-v1 | Huano Holy Tom V1 | https://keybumps.com/switches/huano-holy-tom.html
-- [ ] huano-populus-yellow | Huano Populus Yellow | https://milktooth.com/products/populus-yellow
+- [x] huano-brown | Huano Brown | https://keybumps.com/switches/huano-brown.html
+- [x] huano-smoky-white | Huano Smoky White | https://kprepublic.com/products/huano-smoky-white-switch-rgb-smd-advance-tactile-65g-switches-for-mechanical-keyboard-mx-stem-3pin-black
+- [x] huano-holy-tom-v2 | Huano Holy Tom V2 | https://keybumps.com/switches/huano-holytom-v2.html
+- [x] huano-holy-tom-v1 | Huano Holy Tom V1 | https://keybumps.com/switches/huano-holy-tom.html
+- [x] huano-populus-yellow | Huano Populus Yellow | https://milktooth.com/products/populus-yellow
 - [ ] ajazz-x-huano-blueberry | Ajazz x Huano Blueberry | https://www.mechanicalkeyboards.co.id/products/detail/ajazz-x-huano-blueberry-switch-linear-pcb-mount
 - [ ] ajazz-x-huano-peach | Ajazz x Huano Peach | https://www.mechanicalkeyboards.co.id/products/detail/ajazz-x-huano-peach-switch-linear-plate-mount
-- [ ] huano-holy-tom-jerry-v1 | Huano Holy Tom Jerry V1 | https://keybumps.com/switches/huano-holytom-jerry-v1.html
-- [ ] huano-hi | Huano Hi | https://www.theremingoat.com/blog/huano-fi-switch-review
-- [ ] huano-fi | Huano Fi | https://www.theremingoat.com/blog/huano-fi-switch-review
-- [ ] huano-dustproof-red | Huano Dustproof Red | https://switchoddities.com/products/huano-dustproof-red
-- [ ] huano-smoky-pink | Huano Smoky Pink | https://kprepublic.com/products/huano-smoky-pink-switch-rgb-smd-linear-80g-switches-for-mechanical-keyboard-mx-stem-3pin-black
-- [ ] huano-pink | Huano Pink | https://kprepublic.com/products/huano-pink-switch-rgb-smd-linear-60g-switches-for-mechanical-keyboard-mx-stem-3pin-pink-clear
-- [ ] huano-silver | Huano Silver | https://kprepublic.com/products/huano-silver-switch-rgb-smd-linear-60g-switches-for-mechanical-keyboard-mx-stem-3pin-silver-clear
-- [ ] huano-black | Huano Black | https://keybumps.com/switches/huano-black.html
-- [ ] huano-red | Huano Red | https://keybumps.com/switches/huano-red.html
-- [ ] huano-american-rose-garden | Huano American Rose Garden | https://kprepublic.com/products/huano-american-rose-garden-switch-rgb-linear-35g-switches-for-mechanical-keyboard-mx-stem-3pin-red-yellow-dustproof
-- [ ] huano-pineapple-v3 | Huano Pineapple V3 | https://switchoddities.com/products/huano-pineapple
+- [x] huano-holy-tom-jerry-v1 | Huano Holy Tom Jerry V1 | https://keybumps.com/switches/huano-holytom-jerry-v1.html
+- [x] huano-hi | Huano Hi | https://www.theremingoat.com/blog/huano-fi-switch-review
+- [x] huano-fi | Huano Fi | https://www.theremingoat.com/blog/huano-fi-switch-review
+- [x] huano-dustproof-red | Huano Dustproof Red | https://switchoddities.com/products/huano-dustproof-red
+- [x] huano-smoky-pink | Huano Smoky Pink | https://kprepublic.com/products/huano-smoky-pink-switch-rgb-smd-linear-80g-switches-for-mechanical-keyboard-mx-stem-3pin-black
+- [x] huano-pink | Huano Pink | https://kprepublic.com/products/huano-pink-switch-rgb-smd-linear-60g-switches-for-mechanical-keyboard-mx-stem-3pin-pink-clear
+- [x] huano-silver | Huano Silver | https://kprepublic.com/products/huano-silver-switch-rgb-smd-linear-60g-switches-for-mechanical-keyboard-mx-stem-3pin-silver-clear
+- [x] huano-black | Huano Black | https://keybumps.com/switches/huano-black.html
+- [x] huano-red | Huano Red | https://keybumps.com/switches/huano-red.html
+- [x] huano-american-rose-garden | Huano American Rose Garden | https://kprepublic.com/products/huano-american-rose-garden-switch-rgb-linear-35g-switches-for-mechanical-keyboard-mx-stem-3pin-red-yellow-dustproof
+- [x] huano-pineapple-v3 | Huano Pineapple V3 | https://switchoddities.com/products/huano-pineapple
 - [ ] huano-gift-milky-white | Huano Gift Milky White | https://joojakkeyboard.com/products/gift-milky-white-linear-key-switch
-- [ ] huano-raw | Huano Raw | https://divinikey.com/products/huano-raw-linear-switches
-- [ ] huano-frieren | Huano Frieren | https://pantheonkeys.com/products/huano-frieren-linear-switches
-- [ ] huano-elf | Huano Elf | https://milktooth.com/products/elf
+- [x] huano-raw | Huano Raw | https://divinikey.com/products/huano-raw-linear-switches
+- [x] huano-frieren | Huano Frieren | https://pantheonkeys.com/products/huano-frieren-linear-switches
+- [x] huano-elf | Huano Elf | https://milktooth.com/products/elf
 - [ ] huano-budapest | Huano Budapest | https://keeb-finder.com/switches/huano-budapest-linear-switch-10-pack
-- [ ] huano-grape-orange | Huano Grape Orange | https://milktooth.com/products/grape-orange
-- [ ] huano-acacia | Huano Acacia | https://milktooth.com/products/acacia
-- [ ] huano-arctic-latte-v2 | Huano Arctic Latte V2 | https://switchoddities.com/products/huano-arctic-latte-v2
-- [ ] huano-arctic-latte-v1 | Huano Arctic Latte V1 | https://switchoddities.com/products/huano-arctic-latte-v1
-- [ ] huano-iced-coffee | Huano Iced Coffee | https://milktooth.com/products/iced-coffee
-- [ ] huano-rose-latte | Huano Rose Latte | https://thoccexchange.com/products/huano-rose-latte-switch-10-pack
-- [ ] huano-strawberry-latte | Huano Strawberry Latte | https://milktooth.com/products/strawberry-latte
-- [ ] huano-matcha-latte-v2 | Huano Matcha Latte V2 | https://milktooth.com/products/matcha-latte-v2
-- [ ] huano-caramel-latte-v2 | Huano Caramel Latte V2 | https://milktooth.com/products/caramel-latte
-- [ ] huano-sakura-v2 | Huano Sakura V2 | https://milktooth.com/products/sakura
+- [x] huano-grape-orange | Huano Grape Orange | https://milktooth.com/products/grape-orange
+- [x] huano-acacia | Huano Acacia | https://milktooth.com/products/acacia
+- [x] huano-arctic-latte-v2 | Huano Arctic Latte V2 | https://switchoddities.com/products/huano-arctic-latte-v2
+- [x] huano-arctic-latte-v1 | Huano Arctic Latte V1 | https://switchoddities.com/products/huano-arctic-latte-v1
+- [x] huano-iced-coffee | Huano Iced Coffee | https://milktooth.com/products/iced-coffee
+- [x] huano-rose-latte | Huano Rose Latte | https://thoccexchange.com/products/huano-rose-latte-switch-10-pack
+- [x] huano-strawberry-latte | Huano Strawberry Latte | https://milktooth.com/products/strawberry-latte
+- [x] huano-matcha-latte-v2 | Huano Matcha Latte V2 | https://milktooth.com/products/matcha-latte-v2
+- [x] huano-caramel-latte-v2 | Huano Caramel Latte V2 | https://milktooth.com/products/caramel-latte
+- [x] huano-sakura-v2 | Huano Sakura V2 | https://milktooth.com/products/sakura
 
 ## JWK (99)
 
-- [ ] everglide-rice-pudding-he | Everglide Rice Pudding HE | https://milktooth.com/products/rice-pudding
-- [ ] everglide-sticky-rice-v2-he | Everglide Sticky Rice V2 HE | https://milktooth.com/products/sticky-rice
-- [ ] durock-rock-he-(spacebar) | Durock Rock HE (Spacebar) | https://lumekeebs.com/products/durock-rock-he-hall-effect-switches
-- [ ] durock-rock-he | Durock Rock HE | https://milktooth.com/products/rock-he
-- [ ] everglide-pansy-v2 | Everglide Pansy V2 | https://kprepublic.com/products/everglide-pansy-v2-switch-rgb-smd-pre-advanced-tactile-48g-switches-for-mechanical-keyboard-mx-stem-5pin-long-spring-pre-lubed
-- [ ] everglide-bamboo-green | Everglide Bamboo Green | https://kprepublic.com/products/everglide-bamboo-green-tactile-switch-4pin-5pin-rgb-62g-force-mx-clone-switch-for-mechanical-keyboard-50m-like-holy-panda
-- [ ] everglide-jade-green | Everglide Jade Green | https://kprepublic.com/products/everglide-switch-sakura-pink-jade-green-coral-red-amber-oran-mx-stem-with-transparent-clear-housing-for-mechanical-keyboard-5pin
+- [x] everglide-rice-pudding-he | Everglide Rice Pudding HE | https://milktooth.com/products/rice-pudding
+- [x] everglide-sticky-rice-v2-he | Everglide Sticky Rice V2 HE | https://milktooth.com/products/sticky-rice
+- [x] durock-rock-he-(spacebar) | Durock Rock HE (Spacebar) | https://lumekeebs.com/products/durock-rock-he-hall-effect-switches
+- [x] durock-rock-he | Durock Rock HE | https://milktooth.com/products/rock-he
+- [x] everglide-pansy-v2 | Everglide Pansy V2 | https://kprepublic.com/products/everglide-pansy-v2-switch-rgb-smd-pre-advanced-tactile-48g-switches-for-mechanical-keyboard-mx-stem-5pin-long-spring-pre-lubed
+- [x] everglide-bamboo-green | Everglide Bamboo Green | https://kprepublic.com/products/everglide-bamboo-green-tactile-switch-4pin-5pin-rgb-62g-force-mx-clone-switch-for-mechanical-keyboard-50m-like-holy-panda
+- [x] everglide-jade-green | Everglide Jade Green | https://kprepublic.com/products/everglide-switch-sakura-pink-jade-green-coral-red-amber-oran-mx-stem-with-transparent-clear-housing-for-mechanical-keyboard-5pin
 - [ ] everglide-oreo | Everglide Oreo | https://drop.com/buy/everglide-oreo-mechanical-switches
 - [ ] everglide-dark-jade-black | Everglide Dark Jade Black | https://everglide.co/products/everglide-dark-jade-black-tactile-switches
 - [ ] everglide-crystal-violet | Everglide Crystal Violet | https://everglide.co/products/everglide-crystal-violet-switches
-- [ ] c3-equalz-x-tkc-dragon-fruit | C3 Equalz x TKC Dragon Fruit | https://divinikey.com/products/c-equalz-x-tkc-dragon-fruit-tactile-switches
-- [ ] c3-equalz-x-tkc-kiwi | C3 Equalz x TKC Kiwi | https://ilumkb.com/products/c-equalz-x-tkc-kiwi-switches
+- [x] c3-equalz-x-tkc-dragon-fruit | C3 Equalz x TKC Dragon Fruit | https://divinikey.com/products/c-equalz-x-tkc-dragon-fruit-tactile-switches
+- [x] c3-equalz-x-tkc-kiwi | C3 Equalz x TKC Kiwi | https://ilumkb.com/products/c-equalz-x-tkc-kiwi-switches
 - [ ] durock-mocha-chocolate-t1 | Durock Mocha Chocolate T1 | https://lumekeebs.com/blogs/blog/durock-mocha-chocolate-t1-tactile-switch-review
-- [ ] durock-mocha-t1 | Durock Mocha T1 | https://mechanicalkeyboards.com/products/durock-mocha-t1-55g-tactile-plate-mount-switch
-- [ ] durock-ice-king-tactile-58g | Durock Ice King Tactile 58g | https://lumekeebs.com/blogs/blog/in-progress-durock-ice-king-linear-and-tactile-switch-review
-- [ ] durock-blue-lotus | Durock Blue Lotus | https://milktooth.com/products/blue-lotus
-- [ ] durock-white-lotus | Durock White Lotus | https://milktooth.com/products/white-lotus
-- [ ] durock-shrimp-silent-t1 | Durock Shrimp Silent T1 | https://divinikey.com/products/durock-shrimp-silent-tactile-switches
-- [ ] durock-sunflower-pom-t1 | Durock Sunflower POM T1 | https://divinikey.com/products/durock-sunflower-pom-t1-tactile-switches
-- [ ] durock-medium-tactile | Durock Medium Tactile | https://milktooth.com/comparisons/medium-tactile-vs-t1
-- [ ] durock-light-tactile | Durock Light Tactile | https://divinikey.com/products/durock-light-tactile-switches
-- [ ] durock-koala-67g | Durock Koala 67g | https://divinikey.com/products/koala-tactile-switches
-- [ ] durock-koala-62g | Durock Koala 62g | https://divinikey.com/products/koala-tactile-switches
-- [ ] durock-t1-67g | Durock T1 67g | https://divinikey.com/products/durock-t1-tactile-switch
-- [ ] penguin-v2 | Penguin V2 | https://kineticlabs.com/switches/kinetic/penguins
-- [ ] jwk-okomochi | JWK Okomochi | https://dailyclack.com/products/okomochi-pinoko-switches
-- [ ] jwk-ice-jade | JWK Ice Jade | https://kprepublic.com/products/jwick-ice-jade-pre-advanced-tactile-switch-5pin-rgb-smd-62g-mx-switch-for-mechanical-keyboard-50m-pom-nylon-long-spring-blue
-- [ ] jwick-taro | Jwick Taro | https://kineticlabs.com/switches/jwk/jwick-taro-tactile
-- [ ] jwick-t1-(black) | Jwick T1 (Black) | https://kineticlabs.com/switches/jwk/jwick-t1-tactile-switches
-- [ ] everglide-eg-peacock | Everglide EG Peacock | https://kprepublic.com/products/everglide-eg-peacock-linear-switch-long-stem-4pin-5pin-rgb-55g-67g-force-mx-clone-switch-for-mechanical-keyboard-50m-gold-sping
-- [ ] everglide-tourmaline-blue-v3-62g | Everglide Tourmaline Blue V3 62g | https://everglide.co/products/everglide-tourmaline-blue-cyan-switches-v3
-- [ ] everglide-tourmaline-blue-v3-55g | Everglide Tourmaline Blue V3 55g | https://everglide.co/products/everglide-tourmaline-blue-cyan-switches-v3
-- [ ] everglide-tourmaline-blue | Everglide Tourmaline Blue | https://kprepublic.com/products/everglide-switch-tourmaline-blue-cyan-mx-stem-5pin-45g-linear
-- [ ] everglide-amber-orange | Everglide Amber Orange | https://kprepublic.com/products/everglide-switch-sakura-pink-jade-green-coral-red-amber-oran-mx-stem-with-transparent-clear-housing-for-mechanical-keyboard-5pin
-- [ ] everglide-coral-red | Everglide Coral Red | https://kprepublic.com/products/everglide-switch-sakura-pink-jade-green-coral-red-amber-oran-mx-stem-with-transparent-clear-housing-for-mechanical-keyboard-5pin
-- [ ] everglide-sakura-pink | Everglide Sakura Pink | https://kprepublic.com/products/everglide-switch-sakura-pink-jade-green-coral-red-amber-oran-mx-stem-with-transparent-clear-housing-for-mechanical-keyboard-5pin
-- [ ] everglide-aqua-king-v3-67g | Everglide Aqua King V3 67g | https://everglide.co/products/everglide-aqua-king-water-king-switches-v3
-- [ ] everglide-aqua-king-v3-62g | Everglide Aqua King V3 62g | https://everglide.co/products/everglide-aqua-king-water-king-switches-v3
-- [ ] everglide-aqua-king-v3-55g | Everglide Aqua King V3 55g | https://everglide.co/products/everglide-aqua-king-water-king-switches-v3
-- [ ] nk-dry-black | NK Dry Black | https://1upkeyboards.com/shop/switches/set-packs/jwk-unlubed-linear-switches/
-- [ ] nk-dry-red | NK Dry Red | https://1upkeyboards.com/shop/switches/set-packs/jwk-unlubed-linear-switches/
-- [ ] nk-dry-yellow | NK Dry Yellow | https://1upkeyboards.com/shop/switches/set-packs/jwk-unlubed-linear-switches/
-- [ ] nk-silk-black | NK Silk Black | https://novelkeys.com/collections/switches
-- [ ] nk-silk-yellow | NK Silk Yellow | https://novelkeys.com/collections/switches
-- [ ] nk-silk-red | NK Silk Red | https://novelkeys.com/collections/switches
+- [x] durock-mocha-t1 | Durock Mocha T1 | https://mechanicalkeyboards.com/products/durock-mocha-t1-55g-tactile-plate-mount-switch
+- [x] durock-ice-king-tactile-58g | Durock Ice King Tactile 58g | https://lumekeebs.com/blogs/blog/in-progress-durock-ice-king-linear-and-tactile-switch-review
+- [x] durock-blue-lotus | Durock Blue Lotus | https://milktooth.com/products/blue-lotus
+- [x] durock-white-lotus | Durock White Lotus | https://milktooth.com/products/white-lotus
+- [x] durock-shrimp-silent-t1 | Durock Shrimp Silent T1 | https://divinikey.com/products/durock-shrimp-silent-tactile-switches
+- [x] durock-sunflower-pom-t1 | Durock Sunflower POM T1 | https://divinikey.com/products/durock-sunflower-pom-t1-tactile-switches
+- [x] durock-medium-tactile | Durock Medium Tactile | https://milktooth.com/comparisons/medium-tactile-vs-t1
+- [x] durock-light-tactile | Durock Light Tactile | https://divinikey.com/products/durock-light-tactile-switches
+- [x] durock-koala-67g | Durock Koala 67g | https://divinikey.com/products/koala-tactile-switches
+- [x] durock-koala-62g | Durock Koala 62g | https://divinikey.com/products/koala-tactile-switches
+- [x] durock-t1-67g | Durock T1 67g | https://divinikey.com/products/durock-t1-tactile-switch
+- [x] penguin-v2 | Penguin V2 | https://kineticlabs.com/switches/kinetic/penguins
+- [x] jwk-okomochi | JWK Okomochi | https://dailyclack.com/products/okomochi-pinoko-switches
+- [x] jwk-ice-jade | JWK Ice Jade | https://kprepublic.com/products/jwick-ice-jade-pre-advanced-tactile-switch-5pin-rgb-smd-62g-mx-switch-for-mechanical-keyboard-50m-pom-nylon-long-spring-blue
+- [x] jwick-taro | Jwick Taro | https://kineticlabs.com/switches/jwk/jwick-taro-tactile
+- [x] jwick-t1-(black) | Jwick T1 (Black) | https://kineticlabs.com/switches/jwk/jwick-t1-tactile-switches
+- [x] everglide-eg-peacock | Everglide EG Peacock | https://kprepublic.com/products/everglide-eg-peacock-linear-switch-long-stem-4pin-5pin-rgb-55g-67g-force-mx-clone-switch-for-mechanical-keyboard-50m-gold-sping
+- [x] everglide-tourmaline-blue-v3-62g | Everglide Tourmaline Blue V3 62g | https://everglide.co/products/everglide-tourmaline-blue-cyan-switches-v3
+- [x] everglide-tourmaline-blue-v3-55g | Everglide Tourmaline Blue V3 55g | https://everglide.co/products/everglide-tourmaline-blue-cyan-switches-v3
+- [x] everglide-tourmaline-blue | Everglide Tourmaline Blue | https://kprepublic.com/products/everglide-switch-tourmaline-blue-cyan-mx-stem-5pin-45g-linear
+- [x] everglide-amber-orange | Everglide Amber Orange | https://kprepublic.com/products/everglide-switch-sakura-pink-jade-green-coral-red-amber-oran-mx-stem-with-transparent-clear-housing-for-mechanical-keyboard-5pin
+- [x] everglide-coral-red | Everglide Coral Red | https://kprepublic.com/products/everglide-switch-sakura-pink-jade-green-coral-red-amber-oran-mx-stem-with-transparent-clear-housing-for-mechanical-keyboard-5pin
+- [x] everglide-sakura-pink | Everglide Sakura Pink | https://kprepublic.com/products/everglide-switch-sakura-pink-jade-green-coral-red-amber-oran-mx-stem-with-transparent-clear-housing-for-mechanical-keyboard-5pin
+- [x] everglide-aqua-king-v3-67g | Everglide Aqua King V3 67g | https://everglide.co/products/everglide-aqua-king-water-king-switches-v3
+- [x] everglide-aqua-king-v3-62g | Everglide Aqua King V3 62g | https://everglide.co/products/everglide-aqua-king-water-king-switches-v3
+- [x] everglide-aqua-king-v3-55g | Everglide Aqua King V3 55g | https://everglide.co/products/everglide-aqua-king-water-king-switches-v3
+- [x] nk-dry-black | NK Dry Black | https://1upkeyboards.com/shop/switches/set-packs/jwk-unlubed-linear-switches/
+- [x] nk-dry-red | NK Dry Red | https://1upkeyboards.com/shop/switches/set-packs/jwk-unlubed-linear-switches/
+- [x] nk-dry-yellow | NK Dry Yellow | https://1upkeyboards.com/shop/switches/set-packs/jwk-unlubed-linear-switches/
+- [x] nk-silk-black | NK Silk Black | https://novelkeys.com/collections/switches
+- [x] nk-silk-yellow | NK Silk Yellow | https://novelkeys.com/collections/switches
+- [x] nk-silk-red | NK Silk Red | https://novelkeys.com/collections/switches
 - [ ] quartz-v2 | Quartz V2 | https://dangkeebs.com/products/quartz
-- [ ] owlab-tungsten | OwLab Tungsten | https://divinikey.com/products/owlab-tungsten-linear-switches
-- [ ] wuque-studio-oa | Wuque Studio OA | https://cannonkeys.com/products/wuque-studio-original-aspiration-oa-switch
+- [x] owlab-tungsten | OwLab Tungsten | https://divinikey.com/products/owlab-tungsten-linear-switches
+- [x] wuque-studio-oa | Wuque Studio OA | https://cannonkeys.com/products/wuque-studio-original-aspiration-oa-switch
 - [ ] marshmallow | Marshmallow | https://thicthock.com/collections/switch/products/thicthock-marshmallow
-- [ ] ffff | FFFF | https://ilumkb.com/products/ffff-switch
-- [ ] fff | FFF | https://ilumkb.com/products/pre-order-fff-switch
-- [ ] moss-67g | Moss 67g | https://dailyclack.com/products/moss-linear-switches
-- [ ] moss-62g | Moss 62g | https://dailyclack.com/products/moss-linear-switches
-- [ ] seal | Seal | https://cannonkeys.com/products/seal-linear-switch-by-minterly
-- [ ] lilac | Lilac | https://cannonkeys.com/products/lilac-linear-switch
-- [ ] mauve | Mauve | https://cannonkeys.com/products/mauve-linear-switch-10
-- [ ] lavender | Lavender | https://cannonkeys.com/products/lavender-linear-switch
-- [ ] h1 | H1 | https://divinikey.com/products/hhhh-h1-linear-switches
-- [ ] c3-equalz-x-tkc-macho | C3 Equalz x TKC Macho | https://www.thockking.com/products/c3-equalz-tkc-banana-split-macho-linear-switches-62g
-- [ ] c3-equalz-x-tkc-banana-split | C3 Equalz x TKC Banana Split | https://lumekeebs.com/products/c-equalz-x-tkc-banana-split-switches-1
-- [ ] c3-equalz-x-tkc-tangerine-67g | C3 Equalz x TKC Tangerine 67g | https://www.thockking.com/products/c3-equalz-tkc-tangerine-67g-dark-green-switches
-- [ ] c3-equalz-x-tkc-tangerine-62g | C3 Equalz x TKC Tangerine 62g | https://www.thockking.com/products/c3-equalz-tkc-tangerine-62g-light-green-switches
-- [ ] alpaca-v2 | Alpaca V2 | https://www.primekb.com/products/alpaca-linears
-- [ ] durock-daybreak | Durock Daybreak | https://divinikey.com/products/durock-silent-linear-switches
-- [ ] durock-dolphin | Durock Dolphin | https://divinikey.com/products/durock-silent-linear-switches
-- [ ] durock-ice-king-linear-52g | Durock Ice King Linear 52g | https://mechanicalkeyboards.com/products/durock-ice-king-52g-linear-pcb-mount
-- [ ] durock-mocha-silk | Durock Mocha Silk | https://mechanicalkeyboards.com/products/durock-mocha-silk-48g-linear-plate-mount-switch
-- [ ] durock-splash-brothers | Durock Splash Brothers | https://mechanicalkeyboards.com/products/durock-splash-brothers-48g-speed-linear-pcb-mount
-- [ ] durock-mamba | Durock Mamba | https://kprepublic.com/products/durock-mamba-switch-linear-60g-mx-switch-for-mechanical-keyboard-60m-ly-nylon-pom-factory-lubed-purple-yellow-gold-plated-spring
-- [ ] durock-sea-glass | Durock Sea Glass | https://milktooth.com/products/sea-glass
-- [ ] durock-black-lotus | Durock Black Lotus | https://milktooth.com/products/black-lotus
-- [ ] durock-lupine | Durock Lupine | https://kineticlabs.com/switches/durock/durock-lupine-linear
-- [ ] durock-pom-piano | Durock POM Piano | https://divinikey.com/products/durock-pom-linear-switches
-- [ ] durock-l7-(ink-black)-78g | Durock L7 (Ink Black) 78g | https://kprepublic.com/products/durock-linear-switches-translucent-smokey-l7-switch-with-62g-67g-78g-gold-plated-spring-smooth-black-stem-5-pins-for-keyboard
-- [ ] durock-l7-(ink-black)-67g | Durock L7 (Ink Black) 67g | https://kprepublic.com/products/durock-linear-switches-translucent-smokey-l7-switch-with-62g-67g-78g-gold-plated-spring-smooth-black-stem-5-pins-for-keyboard
-- [ ] durock-l7-(ink-black)-62g | Durock L7 (Ink Black) 62g | https://kprepublic.com/products/durock-linear-switches-translucent-smokey-l7-switch-with-62g-67g-78g-gold-plated-spring-smooth-black-stem-5-pins-for-keyboard
-- [ ] durock-l5-(robin-blue) | Durock L5 (Robin Blue) | https://kineticlabs.com/switches/durock/smokey-l-series
-- [ ] durock-l4-(creamy-purple) | Durock L4 (Creamy Purple) | https://kineticlabs.com/switches/durock/smokey-l-series
-- [ ] durock-l3-(creamy-pink) | Durock L3 (Creamy Pink) | https://kineticlabs.com/switches/durock/smokey-l-series
-- [ ] durock-l2-(creamy-green) | Durock L2 (Creamy Green) | https://kineticlabs.com/switches/durock/smokey-l-series
-- [ ] durock-l1-(creamy-yellow) | Durock L1 (Creamy Yellow) | https://kineticlabs.com/switches/durock/smokey-l-series
-- [ ] jwk-pinoko | JWK Pinoko | https://dailyclack.com/products/okomochi-pinoko-switches
-- [ ] prevail-nebula-v2 | Prevail Nebula V2 | https://www.thockking.com/products/prevail-jwk-nebula-v2-linear-switches
-- [ ] prevail-epsilon-v2 | Prevail Epsilon V2 | https://www.thockking.com/products/prevail-epsilon-v2-linear-switches
-- [ ] jwk-epsilon | JWK Epsilon | https://keybumps.com/switches/jwk-epsilon.html
-- [ ] jwk-ice-pink | JWK Ice Pink | https://keybumps.com/switches/jwk-ice-pink.html
-- [ ] jwk-matcha | JWK Matcha | https://keybumps.com/switches/jwk-matcha.html
-- [ ] jwk-ms-piggy-als | JWK Ms. Piggy ALS | https://divinikey.com/products/jwk-ms-piggy-als-linear-switches
-- [ ] jwk-bluey | JWK Bluey | https://divinikey.com/products/jwk-bluey-linear-switches
-- [ ] jwick-jade-rabbit | Jwick Jade Rabbit | https://kprepublic.com/products/jwick-jwk-jade-rabbit-switch-linear-60g-5pin-smd-rgb-mx-stem-switch-for-mechanical-keyboard-pc-nylon-p3-60m-gold-plated-spring
-- [ ] jwick-dreamland | Jwick Dreamland | https://kprepublic.com/products/jwick-jwk-dreamland-switch-linear-53g-5pin-smd-rgb-mx-stem-switch-for-mechanical-keyboard-pc-nylon-ly-50m-gold-plated-spring
-- [ ] jwick-semi-silent | Jwick Semi-Silent | https://kineticlabs.com/switches/jwk/jwick-semi-silent-linear
-- [ ] jwick-ginger-milk | Jwick Ginger Milk | https://kineticlabs.com/switches/jwk/jwick-ginger-milk-linear
-- [ ] jwick-ultimate-black | Jwick Ultimate Black | https://www.thockking.com/products/jwk-jwick-ultimate-black-linear-switches
-- [ ] jwick-yellow | Jwick Yellow | https://divinikey.com/products/jwk-jwick-linear-switches
-- [ ] jwick-red | Jwick Red | https://divinikey.com/products/jwk-jwick-linear-switches
-- [ ] jwick-ice-white-v2 | Jwick Ice White V2 | https://divinikey.com/products/jwk-jwick-linear-switches
-- [ ] jwick-black-v2-635g | Jwick Black V2 63.5g | https://www.amazon.com/Linear-Switch-Mechanical-Keyboard-Factory/dp/B09ZBDDXK5
-- [ ] jwick-black-v2 | Jwick Black V2 | https://divinikey.com/products/jwk-jwick-linear-switches
+- [x] ffff | FFFF | https://ilumkb.com/products/ffff-switch
+- [x] fff | FFF | https://ilumkb.com/products/pre-order-fff-switch
+- [x] moss-67g | Moss 67g | https://dailyclack.com/products/moss-linear-switches
+- [x] moss-62g | Moss 62g | https://dailyclack.com/products/moss-linear-switches
+- [x] seal | Seal | https://cannonkeys.com/products/seal-linear-switch-by-minterly
+- [x] lilac | Lilac | https://cannonkeys.com/products/lilac-linear-switch
+- [x] mauve | Mauve | https://cannonkeys.com/products/mauve-linear-switch-10
+- [x] lavender | Lavender | https://cannonkeys.com/products/lavender-linear-switch
+- [x] h1 | H1 | https://divinikey.com/products/hhhh-h1-linear-switches
+- [x] c3-equalz-x-tkc-macho | C3 Equalz x TKC Macho | https://www.thockking.com/products/c3-equalz-tkc-banana-split-macho-linear-switches-62g
+- [x] c3-equalz-x-tkc-banana-split | C3 Equalz x TKC Banana Split | https://lumekeebs.com/products/c-equalz-x-tkc-banana-split-switches-1
+- [x] c3-equalz-x-tkc-tangerine-67g | C3 Equalz x TKC Tangerine 67g | https://www.thockking.com/products/c3-equalz-tkc-tangerine-67g-dark-green-switches
+- [x] c3-equalz-x-tkc-tangerine-62g | C3 Equalz x TKC Tangerine 62g | https://www.thockking.com/products/c3-equalz-tkc-tangerine-62g-light-green-switches
+- [x] alpaca-v2 | Alpaca V2 | https://www.primekb.com/products/alpaca-linears
+- [x] durock-daybreak | Durock Daybreak | https://divinikey.com/products/durock-silent-linear-switches
+- [x] durock-dolphin | Durock Dolphin | https://divinikey.com/products/durock-silent-linear-switches
+- [x] durock-ice-king-linear-52g | Durock Ice King Linear 52g | https://mechanicalkeyboards.com/products/durock-ice-king-52g-linear-pcb-mount
+- [x] durock-mocha-silk | Durock Mocha Silk | https://mechanicalkeyboards.com/products/durock-mocha-silk-48g-linear-plate-mount-switch
+- [x] durock-splash-brothers | Durock Splash Brothers | https://mechanicalkeyboards.com/products/durock-splash-brothers-48g-speed-linear-pcb-mount
+- [x] durock-mamba | Durock Mamba | https://kprepublic.com/products/durock-mamba-switch-linear-60g-mx-switch-for-mechanical-keyboard-60m-ly-nylon-pom-factory-lubed-purple-yellow-gold-plated-spring
+- [x] durock-sea-glass | Durock Sea Glass | https://milktooth.com/products/sea-glass
+- [x] durock-black-lotus | Durock Black Lotus | https://milktooth.com/products/black-lotus
+- [x] durock-lupine | Durock Lupine | https://kineticlabs.com/switches/durock/durock-lupine-linear
+- [x] durock-pom-piano | Durock POM Piano | https://divinikey.com/products/durock-pom-linear-switches
+- [x] durock-l7-(ink-black)-78g | Durock L7 (Ink Black) 78g | https://kprepublic.com/products/durock-linear-switches-translucent-smokey-l7-switch-with-62g-67g-78g-gold-plated-spring-smooth-black-stem-5-pins-for-keyboard
+- [x] durock-l7-(ink-black)-67g | Durock L7 (Ink Black) 67g | https://kprepublic.com/products/durock-linear-switches-translucent-smokey-l7-switch-with-62g-67g-78g-gold-plated-spring-smooth-black-stem-5-pins-for-keyboard
+- [x] durock-l7-(ink-black)-62g | Durock L7 (Ink Black) 62g | https://kprepublic.com/products/durock-linear-switches-translucent-smokey-l7-switch-with-62g-67g-78g-gold-plated-spring-smooth-black-stem-5-pins-for-keyboard
+- [x] durock-l5-(robin-blue) | Durock L5 (Robin Blue) | https://kineticlabs.com/switches/durock/smokey-l-series
+- [x] durock-l4-(creamy-purple) | Durock L4 (Creamy Purple) | https://kineticlabs.com/switches/durock/smokey-l-series
+- [x] durock-l3-(creamy-pink) | Durock L3 (Creamy Pink) | https://kineticlabs.com/switches/durock/smokey-l-series
+- [x] durock-l2-(creamy-green) | Durock L2 (Creamy Green) | https://kineticlabs.com/switches/durock/smokey-l-series
+- [x] durock-l1-(creamy-yellow) | Durock L1 (Creamy Yellow) | https://kineticlabs.com/switches/durock/smokey-l-series
+- [x] jwk-pinoko | JWK Pinoko | https://dailyclack.com/products/okomochi-pinoko-switches
+- [x] prevail-nebula-v2 | Prevail Nebula V2 | https://www.thockking.com/products/prevail-jwk-nebula-v2-linear-switches
+- [x] prevail-epsilon-v2 | Prevail Epsilon V2 | https://www.thockking.com/products/prevail-epsilon-v2-linear-switches
+- [x] jwk-epsilon | JWK Epsilon | https://keybumps.com/switches/jwk-epsilon.html
+- [x] jwk-ice-pink | JWK Ice Pink | https://keybumps.com/switches/jwk-ice-pink.html
+- [x] jwk-matcha | JWK Matcha | https://keybumps.com/switches/jwk-matcha.html
+- [x] jwk-ms-piggy-als | JWK Ms. Piggy ALS | https://divinikey.com/products/jwk-ms-piggy-als-linear-switches
+- [x] jwk-bluey | JWK Bluey | https://divinikey.com/products/jwk-bluey-linear-switches
+- [x] jwick-jade-rabbit | Jwick Jade Rabbit | https://kprepublic.com/products/jwick-jwk-jade-rabbit-switch-linear-60g-5pin-smd-rgb-mx-stem-switch-for-mechanical-keyboard-pc-nylon-p3-60m-gold-plated-spring
+- [x] jwick-dreamland | Jwick Dreamland | https://kprepublic.com/products/jwick-jwk-dreamland-switch-linear-53g-5pin-smd-rgb-mx-stem-switch-for-mechanical-keyboard-pc-nylon-ly-50m-gold-plated-spring
+- [x] jwick-semi-silent | Jwick Semi-Silent | https://kineticlabs.com/switches/jwk/jwick-semi-silent-linear
+- [x] jwick-ginger-milk | Jwick Ginger Milk | https://kineticlabs.com/switches/jwk/jwick-ginger-milk-linear
+- [x] jwick-ultimate-black | Jwick Ultimate Black | https://www.thockking.com/products/jwk-jwick-ultimate-black-linear-switches
+- [x] jwick-yellow | Jwick Yellow | https://divinikey.com/products/jwk-jwick-linear-switches
+- [x] jwick-red | Jwick Red | https://divinikey.com/products/jwk-jwick-linear-switches
+- [x] jwick-ice-white-v2 | Jwick Ice White V2 | https://divinikey.com/products/jwk-jwick-linear-switches
+- [x] jwick-black-v2-635g | Jwick Black V2 63.5g | https://www.amazon.com/Linear-Switch-Mechanical-Keyboard-Factory/dp/B09ZBDDXK5
+- [x] jwick-black-v2 | Jwick Black V2 | https://divinikey.com/products/jwk-jwick-linear-switches
 
 ## Jerrzi (39)
 

@@ -9,18 +9,11 @@
     "noInfo": "정보 없음",
     "anonymous": "익명",
     "viewAll": "전체 보기",
-    "home": "홈",
     "language": "언어",
     "save": "저장"
   },
   "nav": {
-    "home": "홈",
     "switches": "스위치 검색"
-  },
-  "hero": {
-    "title": "키보드 스위치 위키",
-    "subtitle": "모든 키보드 스위치 정보를 한 곳에서. 검색하고, 비교하고, 공유하세요.",
-    "searchPlaceholder": "스위치 이름으로 검색..."
   },
   "switch": {
     "type": "스위치 타입",
@@ -43,7 +36,6 @@
     "initialForce": "초기압",
     "bottomForce": "바닥압",
     "specs": "스펙",
-    "recentSwitches": "최근 등록된 스위치",
     "yes": "예",
     "no": "아니오",
     "all": "전체",
@@ -62,7 +54,8 @@
     "factoryLubed": "공장 윤활",
     "actuationForceRange": "입력압 범위",
     "travelRange": "트래블 범위",
-    "reset": "필터 초기화"
+    "reset": "필터 초기화",
+    "searchPlaceholder": "스위치 이름으로 검색..."
   },
   "comment": {
     "title": "댓글",

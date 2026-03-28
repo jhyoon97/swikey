@@ -9,18 +9,11 @@
     "noInfo": "N/A",
     "anonymous": "Anonymous",
     "viewAll": "View All",
-    "home": "Home",
     "language": "Language",
     "save": "Save"
   },
   "nav": {
-    "home": "Home",
     "switches": "Switches"
-  },
-  "hero": {
-    "title": "Keyboard Switch Wiki",
-    "subtitle": "All keyboard switch info in one place. Search, compare, and share.",
-    "searchPlaceholder": "Search by switch name..."
   },
   "switch": {
     "type": "Switch Type",
@@ -43,7 +36,6 @@
     "initialForce": "Initial Force",
     "bottomForce": "Bottom-out Force",
     "specs": "Specs",
-    "recentSwitches": "Recently Added Switches",
     "yes": "Yes",
     "no": "No",
     "all": "All",
@@ -62,7 +54,8 @@
     "factoryLubed": "Factory Lubed",
     "actuationForceRange": "Actuation Force Range",
     "travelRange": "Travel Range",
-    "reset": "Reset Filters"
+    "reset": "Reset Filters",
+    "searchPlaceholder": "Search by switch name..."
   },
   "comment": {
     "title": "Comments",
