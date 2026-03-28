@@ -181,7 +181,10 @@ const SwitchFilter = ({
       case 'type':
         return (
           <div className="flex flex-wrap gap-1.5">
-            <Tag selected={!draft.type} onClick={() => update({ type: undefined })}>
+            <Tag
+              selected={!draft.type}
+              onClick={() => update({ type: undefined })}
+            >
               {t('switch.all')}
             </Tag>
             {switchTypes.map((st) => (
@@ -189,7 +192,9 @@ const SwitchFilter = ({
                 key={st.value}
                 selected={draft.type === st.value}
                 onClick={() =>
-                  update({ type: draft.type === st.value ? undefined : st.value })
+                  update({
+                    type: draft.type === st.value ? undefined : st.value,
+                  })
                 }
               >
                 {t(st.labelKey)}
