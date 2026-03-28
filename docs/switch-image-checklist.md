@@ -623,33 +623,33 @@
 - [ ] kailh-aurora-magnetic-(translucent) | Kailh Aurora Magnetic (Translucent) | https://www.guru3d.com/story/kailh-aurora-magnetic-switches-debut-with-translucent-and-matte-rgb-variants
 - [ ] kailh-galaxy-series-star-magnetic-mini | Kailh Galaxy Series Star Magnetic Mini | https://www.kailhswitch.com/mechanical-keyboard-switches/low-profile-key-switches/kailh-galaxy-series-star-magnetic-mini-switch.html
 - [ ] kailh-galaxy-series-moon-magnetic | Kailh Galaxy Series Moon Magnetic | https://www.kailhswitch.com/mechanical-keyboard-switches/key-switches/kailh-moon-magnetic-switch.html
-- [ ] kailh-source-series-mist | Kailh Source Series Mist | https://kailhswitch.net/products/kailh-source-series-magnetic-switches
-- [ ] kailh-source-series-lava | Kailh Source Series Lava | https://kailhswitch.net/products/kailh-source-series-magnetic-switches
-- [ ] kailh-source-series-mistral | Kailh Source Series Mistral | https://switchoddities.com/products/kailh-mistral-hall-effect
-- [ ] kailh-source-series-flame | Kailh Source Series Flame | https://switchoddities.com/products/kailh-flame-hall-effect
-- [ ] kailh-hypermyth-magnetic | Kailh HyperMyth Magnetic | https://kailhswitch.net/products/kailh-hypermyth-magnetic-keyboard-switch-quick-trigger-gaming-and-esports-specific-rgb-linear-switches
+- [x] kailh-source-series-mist | Kailh Source Series Mist | https://kailhswitch.net/products/kailh-source-series-magnetic-switches
+- [x] kailh-source-series-lava | Kailh Source Series Lava | https://kailhswitch.net/products/kailh-source-series-magnetic-switches
+- [x] kailh-source-series-mistral | Kailh Source Series Mistral | https://switchoddities.com/products/kailh-mistral-hall-effect
+- [x] kailh-source-series-flame | Kailh Source Series Flame | https://switchoddities.com/products/kailh-flame-hall-effect
+- [x] kailh-hypermyth-magnetic | Kailh HyperMyth Magnetic | https://kailhswitch.net/products/kailh-hypermyth-magnetic-keyboard-switch-quick-trigger-gaming-and-esports-specific-rgb-linear-switches
 - [ ] kailh-magnetic-god | Kailh Magnetic God | https://kbd.news/switch/Kailh-Magnetic-God-switch-319.html
 - [ ] novelkeys-x-kailh-sherbet | NovelKeys x Kailh Sherbet | https://kprepublic.com/products/novelkeys-x-kailh-sherbet-switch-3pin-2pin-rgb-smd-clickbar-orange-45g-force-mx-stem-switch
-- [ ] kailh-pro-heavy-sage | Kailh Pro Heavy Sage | https://www.kailh.net/products/kailh-speed-pro-heavy-switch-set
+- [x] kailh-pro-heavy-sage | Kailh Pro Heavy Sage | https://www.kailh.net/products/kailh-speed-pro-heavy-switch-set
 - [ ] kailh-pro-light-green | Kailh Pro Light Green | https://www.kailhswitch.com/info/kailh-switches-introduction-list-27266403.html
-- [ ] kailh-super-speed-bronze | Kailh Super Speed Bronze | https://www.kailh.net/products/kailh-super-speed-switch-set
+- [x] kailh-super-speed-bronze | Kailh Super Speed Bronze | https://www.kailh.net/products/kailh-super-speed-switch-set
 - [ ] kailh-speed-navy | Kailh Speed Navy | https://mechbox.co.uk/products/novelkeys-x-kailh-speed-navy-thick-click-switch
-- [ ] kailh-speed-heavy-pale-blue | Kailh Speed Heavy Pale Blue | https://kprepublic.com/products/kailh-heavy-switch-dark-yellow-burnt-orange-pale-blue-rgb-smd-switches-for-mechanical-keyboard-mx-3pin
+- [x] kailh-speed-heavy-pale-blue | Kailh Speed Heavy Pale Blue | https://kprepublic.com/products/kailh-heavy-switch-dark-yellow-burnt-orange-pale-blue-rgb-smd-switches-for-mechanical-keyboard-mx-3pin
 - [ ] kailh-speed-bronze | Kailh Speed Bronze | https://www.kailhswitch.com/info/kailh-switches-introduction-list-27266403.html
 - [ ] kailh-speed-gold | Kailh Speed Gold | https://www.kailhswitch.com/info/kailh-switches-introduction-list-27266403.html
-- [ ] kailh-speed-pink | Kailh Speed Pink | https://mechanicalkeyboards.com/products/kailh-speed-pink-50g-clicky-plate-mount-switch
+- [x] kailh-speed-pink | Kailh Speed Pink | https://mechanicalkeyboards.com/products/kailh-speed-pink-50g-clicky-plate-mount-switch
 - [ ] kailh-box-mute-jade | Kailh Box Mute Jade | https://novelkeys.com/products/kailh-box-switches
-- [ ] kailh-box-jellyfish-pro-(bixia) | Kailh Box Jellyfish Pro (Bixia) | https://diykey.net/products/kailh-box-jellyfish-pro-full-transparent-rgb-bixia-clicky-switches
-- [ ] kailh-box-jellyfish-x | Kailh Box Jellyfish X | https://shop.keyboard.io/products/kailh-box-jellyfish-crystal-clicky-x10
-- [ ] kailh-box-crystal-pink | Kailh Box Crystal Pink | https://kprepublic.com/products/kailh-box-crystal-navy-jade-pink-royal-switch-smd-clear-mx-switches-for-mechanical-keyboard-5pin-50m-clear-housing
-- [ ] kailh-box-crystal-navy | Kailh Box Crystal Navy | https://kprepublic.com/products/kailh-box-crystal-navy-jade-pink-royal-switch-smd-clear-mx-switches-for-mechanical-keyboard-5pin-50m-clear-housing
-- [ ] kailh-box-crystal-jade | Kailh Box Crystal Jade | https://kprepublic.com/products/kailh-box-crystal-navy-jade-pink-royal-switch-smd-clear-mx-switches-for-mechanical-keyboard-5pin-50m-clear-housing
-- [ ] kailh-box-white-owl | Kailh Box White Owl | https://www.keychron.com/products/kailh-white-owl-box-switch
-- [ ] kailh-box-fireflies | Kailh Box Fireflies | https://mechkeys.com/products/kailh-box-fireflies-switches
-- [ ] kailh-box-sun | Kailh Box Sun | https://mechanicalkeyboards.com/products/kailh-box-sun-50g-clicky-plate-mount
-- [ ] kailh-box-autumn | Kailh Box Autumn | https://mechanicalkeyboards.com/products/kailh-box-autumn-50g-clicky-pcb-mount-switch
-- [ ] kailh-box-summer | Kailh Box Summer | https://www.thockking.com/products/kailh-box-summer-clicky-switches
-- [ ] kailh-box-v2-white | Kailh Box V2 White | https://divinikey.com/products/kailh-box-v2-white-clicky-switches
+- [x] kailh-box-jellyfish-pro-(bixia) | Kailh Box Jellyfish Pro (Bixia) | https://diykey.net/products/kailh-box-jellyfish-pro-full-transparent-rgb-bixia-clicky-switches
+- [x] kailh-box-jellyfish-x | Kailh Box Jellyfish X | https://shop.keyboard.io/products/kailh-box-jellyfish-crystal-clicky-x10
+- [x] kailh-box-crystal-pink | Kailh Box Crystal Pink | https://kprepublic.com/products/kailh-box-crystal-navy-jade-pink-royal-switch-smd-clear-mx-switches-for-mechanical-keyboard-5pin-50m-clear-housing
+- [x] kailh-box-crystal-navy | Kailh Box Crystal Navy | https://kprepublic.com/products/kailh-box-crystal-navy-jade-pink-royal-switch-smd-clear-mx-switches-for-mechanical-keyboard-5pin-50m-clear-housing
+- [x] kailh-box-crystal-jade | Kailh Box Crystal Jade | https://kprepublic.com/products/kailh-box-crystal-navy-jade-pink-royal-switch-smd-clear-mx-switches-for-mechanical-keyboard-5pin-50m-clear-housing
+- [x] kailh-box-white-owl | Kailh Box White Owl | https://www.keychron.com/products/kailh-white-owl-box-switch
+- [x] kailh-box-fireflies | Kailh Box Fireflies | https://mechkeys.com/products/kailh-box-fireflies-switches
+- [x] kailh-box-sun | Kailh Box Sun | https://mechanicalkeyboards.com/products/kailh-box-sun-50g-clicky-plate-mount
+- [x] kailh-box-autumn | Kailh Box Autumn | https://mechanicalkeyboards.com/products/kailh-box-autumn-50g-clicky-pcb-mount-switch
+- [x] kailh-box-summer | Kailh Box Summer | https://www.thockking.com/products/kailh-box-summer-clicky-switches
+- [x] kailh-box-v2-white | Kailh Box V2 White | https://divinikey.com/products/kailh-box-v2-white-clicky-switches
 - [ ] kailh-box-glazed-green | Kailh Box Glazed Green | https://www.amazon.com/Chinese-Dustproof-Mechanical-Keyboard-Waterproof/dp/B08CB9B6PY
 - [ ] kailh-box-noble-yellow | Kailh Box Noble Yellow | https://shop.keyboard.io/products/kailh-box-china-noble-yellow-keyswitches-x-10
 - [ ] kailh-box-pale-blue | Kailh Box Pale Blue | https://novelkeys.com/products/kailh-box-switches
@@ -658,71 +658,71 @@
 - [ ] kailh-box-pink | Kailh Box Pink | https://novelkeys.com/products/kailh-box-switches
 - [ ] kailh-box-white | Kailh Box White | https://novelkeys.com/products/kailh-box-switches
 - [ ] kailh-blue | Kailh Blue | https://www.kailhswitch.com/info/kailh-switches-introduction-list-27266403.html
-- [ ] kailh-midnight-pro-tactile | Kailh Midnight Pro Tactile | https://mechanicalkeyboards.com/products/kailh-midnight-pro-silent-45g-tactile-plate-mount
-- [ ] kailh-midnight-v1-tactile | Kailh Midnight V1 Tactile | https://kprepublic.com/products/kailh-midnight-switch-rgb-smd-linear-tactile-50g-switches-for-mechanical-keyboard-mx-stem-5pin-beige-grey-white
-- [ ] kailh-box-hush-pro-deep-sea-whale | Kailh Box Hush Pro Deep Sea Whale | https://mechanicalkeyboards.com/products/kailh-box-hush-pro-deep-sea-whale-40g-silent-tactile-plate-mount
-- [ ] kailh-box-silent-brown | Kailh Box Silent Brown | https://novelkeys.com/products/kailh-box-switches
-- [ ] kailh-midnight-jade | Kailh Midnight Jade | https://mechkeys.com/products/kailh-midnight-jade-switches
-- [ ] novelkeys-x-kailh-blueberry | NovelKeys x Kailh Blueberry | https://divinikey.com/products/novelkeys-x-kailh-blueberry-tactile-switches
-- [ ] novelkeys-x-kailh-cream-tactile | NovelKeys x Kailh Cream Tactile | https://kprepublic.com/products/novelkeys-x-kailh-cream-switch-4pin-5pin-rgb-smd-tactile-65g-75g-force-mx-stem-switch-for-backlit-mechanical-keyboard-pom-lubed
-- [ ] kailh-canary | Kailh Canary | https://www.keychron.com/products/kailh-canary-tactile-switch
-- [ ] kailh-polia | Kailh Polia | https://mechanicalkeyboards.com/products/kailh-polia-45g-tactile-plate-mount
-- [ ] kailh-pro-heavy-plum | Kailh Pro Heavy Plum | https://www.kailh.net/products/kailh-speed-pro-heavy-switch-set
+- [x] kailh-midnight-pro-tactile | Kailh Midnight Pro Tactile | https://mechanicalkeyboards.com/products/kailh-midnight-pro-silent-45g-tactile-plate-mount
+- [x] kailh-midnight-v1-tactile | Kailh Midnight V1 Tactile | https://kprepublic.com/products/kailh-midnight-switch-rgb-smd-linear-tactile-50g-switches-for-mechanical-keyboard-mx-stem-5pin-beige-grey-white
+- [x] kailh-box-hush-pro-deep-sea-whale | Kailh Box Hush Pro Deep Sea Whale | https://mechanicalkeyboards.com/products/kailh-box-hush-pro-deep-sea-whale-40g-silent-tactile-plate-mount
+- [x] kailh-box-silent-brown | Kailh Box Silent Brown | https://novelkeys.com/products/kailh-box-switches
+- [x] kailh-midnight-jade | Kailh Midnight Jade | https://mechkeys.com/products/kailh-midnight-jade-switches
+- [x] novelkeys-x-kailh-blueberry | NovelKeys x Kailh Blueberry | https://divinikey.com/products/novelkeys-x-kailh-blueberry-tactile-switches
+- [x] novelkeys-x-kailh-cream-tactile | NovelKeys x Kailh Cream Tactile | https://kprepublic.com/products/novelkeys-x-kailh-cream-switch-4pin-5pin-rgb-smd-tactile-65g-75g-force-mx-stem-switch-for-backlit-mechanical-keyboard-pom-lubed
+- [x] kailh-canary | Kailh Canary | https://www.keychron.com/products/kailh-canary-tactile-switch
+- [x] kailh-polia | Kailh Polia | https://mechanicalkeyboards.com/products/kailh-polia-45g-tactile-plate-mount
+- [x] kailh-pro-heavy-plum | Kailh Pro Heavy Plum | https://www.kailh.net/products/kailh-speed-pro-heavy-switch-set
 - [ ] kailh-pro-purple | Kailh Pro Purple | https://www.kailhswitch.com/info/kailh-switches-introduction-list-27266403.html
-- [ ] kailh-super-speed-copper | Kailh Super Speed Copper | https://www.kailh.net/products/kailh-super-speed-switch-set
-- [ ] kailh-speed-heavy-burnt-orange | Kailh Speed Heavy Burnt Orange | https://kprepublic.com/products/kailh-heavy-switch-dark-yellow-burnt-orange-pale-blue-rgb-smd-switches-for-mechanical-keyboard-mx-3pin
+- [x] kailh-super-speed-copper | Kailh Super Speed Copper | https://www.kailh.net/products/kailh-super-speed-switch-set
+- [x] kailh-speed-heavy-burnt-orange | Kailh Speed Heavy Burnt Orange | https://kprepublic.com/products/kailh-heavy-switch-dark-yellow-burnt-orange-pale-blue-rgb-smd-switches-for-mechanical-keyboard-mx-3pin
 - [ ] kailh-speed-copper | Kailh Speed Copper | https://www.kailhswitch.com/info/kailh-switches-introduction-list-27266403.html
-- [ ] kailh-box-ice-cream-brown | Kailh Box Ice Cream Brown | https://kprepublic.com/products/kailh-box-ice-cream-brown-switch-pre-advanced-tactile-5pin-rgb-smd-37g-mx-switch-for-mechanical-keyboard-50m-all-pom
-- [ ] kailh-crystal-pearlescent-purple | Kailh Crystal Pearlescent Purple | https://mechkeys.com/products/kailh-crystal-pearlescent-purple-mechanical-keyboard-switch
-- [ ] kailh-box-crystal-robin | Kailh Box Crystal Robin | https://www.keychron.com/products/kailh-crystal-robin-box-switch
-- [ ] kailh-box-crystal-royal | Kailh Box Crystal Royal | https://www.keychron.com/products/kailh-crystal-royal-box-tactile-switch
-- [ ] kailh-box-winter | Kailh Box Winter | https://www.keychron.com/products/kailh-box-winter-tactile-switch
-- [ ] kailh-box-v2-brown | Kailh Box V2 Brown | https://divinikey.com/products/kailh-box-v2-brown-tactile-switches
+- [x] kailh-box-ice-cream-brown | Kailh Box Ice Cream Brown | https://kprepublic.com/products/kailh-box-ice-cream-brown-switch-pre-advanced-tactile-5pin-rgb-smd-37g-mx-switch-for-mechanical-keyboard-50m-all-pom
+- [x] kailh-crystal-pearlescent-purple | Kailh Crystal Pearlescent Purple | https://mechkeys.com/products/kailh-crystal-pearlescent-purple-mechanical-keyboard-switch
+- [x] kailh-box-crystal-robin | Kailh Box Crystal Robin | https://www.keychron.com/products/kailh-crystal-robin-box-switch
+- [x] kailh-box-crystal-royal | Kailh Box Crystal Royal | https://www.keychron.com/products/kailh-crystal-royal-box-tactile-switch
+- [x] kailh-box-winter | Kailh Box Winter | https://www.keychron.com/products/kailh-box-winter-tactile-switch
+- [x] kailh-box-v2-brown | Kailh Box V2 Brown | https://divinikey.com/products/kailh-box-v2-brown-tactile-switches
 - [ ] kailh-box-royal | Kailh Box Royal | https://novelkeys.com/products/kailh-box-switches
 - [ ] kailh-box-burnt-orange | Kailh Box Burnt Orange | https://novelkeys.com/products/kailh-box-switches
 - [ ] kailh-box-brown | Kailh Box Brown | https://novelkeys.com/products/kailh-box-switches
 - [ ] kailh-brown | Kailh Brown | https://www.kailhswitch.com/info/kailh-switches-introduction-list-27266403.html
-- [ ] kailh-kt-grey-silent | Kailh KT Grey Silent | https://mechanicalkeyboards.com/products/kailh-kt-grey-silent-45g-linear-plate-mount
-- [ ] kailh-midnight-pro-linear | Kailh Midnight Pro Linear | https://mechanicalkeyboards.com/products/kailh-midnight-pro-silent-45g-tactile-plate-mount
-- [ ] kailh-midnight-v1-linear | Kailh Midnight V1 Linear | https://kprepublic.com/products/kailh-midnight-switch-rgb-smd-linear-tactile-50g-switches-for-mechanical-keyboard-mx-stem-5pin-beige-grey-white
-- [ ] kailh-box-hush-pro-deep-sea-island | Kailh Box Hush Pro Deep Sea Island | https://mechanicalkeyboards.com/products/kailh-box-hush-pro-deep-sea-island-45g-silent-linear-plate-mount
-- [ ] kailh-box-hush-v3-silent | Kailh Box Hush V3 Silent | https://mechanicalkeyboards.com/products/kailh-box-hush-v3-silent-50g-linear-plate-mount
-- [ ] kailh-box-silent-pink | Kailh Box Silent Pink | https://novelkeys.com/products/kailh-box-switches
-- [ ] kailh-fried-egg-v2 | Kailh Fried Egg V2 | https://kprepublic.com/products/kailh-fried-egg-v2-switch-rgb-smd-linear-60g-switches-for-mechanical-keyboard-mx-stem-5pin-pom-self-lubricating-yellow
-- [ ] kailh-fried-egg | Kailh Fried Egg | https://mechkeys.com/products/kailh-fried-egg-mechanical-keyboard-switch
+- [x] kailh-kt-grey-silent | Kailh KT Grey Silent | https://mechanicalkeyboards.com/products/kailh-kt-grey-silent-45g-linear-plate-mount
+- [x] kailh-midnight-pro-linear | Kailh Midnight Pro Linear | https://mechanicalkeyboards.com/products/kailh-midnight-pro-silent-45g-tactile-plate-mount
+- [x] kailh-midnight-v1-linear | Kailh Midnight V1 Linear | https://kprepublic.com/products/kailh-midnight-switch-rgb-smd-linear-tactile-50g-switches-for-mechanical-keyboard-mx-stem-5pin-beige-grey-white
+- [x] kailh-box-hush-pro-deep-sea-island | Kailh Box Hush Pro Deep Sea Island | https://mechanicalkeyboards.com/products/kailh-box-hush-pro-deep-sea-island-45g-silent-linear-plate-mount
+- [x] kailh-box-hush-v3-silent | Kailh Box Hush V3 Silent | https://mechanicalkeyboards.com/products/kailh-box-hush-v3-silent-50g-linear-plate-mount
+- [x] kailh-box-silent-pink | Kailh Box Silent Pink | https://novelkeys.com/products/kailh-box-switches
+- [x] kailh-fried-egg-v2 | Kailh Fried Egg V2 | https://kprepublic.com/products/kailh-fried-egg-v2-switch-rgb-smd-linear-60g-switches-for-mechanical-keyboard-mx-stem-5pin-pom-self-lubricating-yellow
+- [x] kailh-fried-egg | Kailh Fried Egg | https://mechkeys.com/products/kailh-fried-egg-mechanical-keyboard-switch
 - [ ] kailh-extreme-slippery | Kailh Extreme Slippery | https://unikeyboards.com/products/kailh-extreme-full-pom-linear-switch-10pcs
-- [ ] kailh-calligraphy | Kailh Calligraphy | https://divinikey.com/products/kailh-calligraphy-linear-switches
+- [x] kailh-calligraphy | Kailh Calligraphy | https://divinikey.com/products/kailh-calligraphy-linear-switches
 - [ ] kailh-cocoa | Kailh Cocoa | https://lumekeebs.com/blogs/blog/kailh-cocoa-linear-switch-review
-- [ ] novelkeys-x-kailh-cream | NovelKeys x Kailh Cream | https://divinikey.com/products/novelkeys-x-kailh-cream-switches
-- [ ] kailh-pro-heavy-berry | Kailh Pro Heavy Berry | https://www.kailh.net/products/kailh-speed-pro-heavy-switch-set
+- [x] novelkeys-x-kailh-cream | NovelKeys x Kailh Cream | https://divinikey.com/products/novelkeys-x-kailh-cream-switches
+- [x] kailh-pro-heavy-berry | Kailh Pro Heavy Berry | https://www.kailh.net/products/kailh-speed-pro-heavy-switch-set
 - [ ] kailh-pro-burgundy | Kailh Pro Burgundy | https://www.kailhswitch.com/info/kailh-switches-introduction-list-27266403.html
-- [ ] kailh-super-speed-red | Kailh Super Speed Red | https://www.kailh.net/products/kailh-super-speed-switch-set
-- [ ] kailh-super-speed-silver | Kailh Super Speed Silver | https://www.kailh.net/products/kailh-super-speed-switch-set
-- [ ] kailh-speed-heavy-dark-yellow | Kailh Speed Heavy Dark Yellow | https://kprepublic.com/products/kailh-box-heavy-switch-dark-yellow-burnt-orange-pale-blue-rgb-smd-switches-dustproof-switch-for-mechanical-keyboard-ip56-mx-1-px-48-switches
+- [x] kailh-super-speed-red | Kailh Super Speed Red | https://www.kailh.net/products/kailh-super-speed-switch-set
+- [x] kailh-super-speed-silver | Kailh Super Speed Silver | https://www.kailh.net/products/kailh-super-speed-switch-set
+- [x] kailh-speed-heavy-dark-yellow | Kailh Speed Heavy Dark Yellow | https://kprepublic.com/products/kailh-box-heavy-switch-dark-yellow-burnt-orange-pale-blue-rgb-smd-switches-dustproof-switch-for-mechanical-keyboard-ip56-mx-1-px-48-switches
 - [ ] kailh-speed-silver | Kailh Speed Silver | https://www.kailhswitch.com/info/kailh-switches-introduction-list-27266403.html
-- [ ] kailh-box-jellyfish-pro-(mengling) | Kailh Box Jellyfish Pro (Mengling) | https://diykey.net/products/kailh-box-jellyfish-pro-mechanical-keyboard-switch
-- [ ] kailh-box-jellyfish-v2 | Kailh Box Jellyfish V2 | https://kineticlabs.com/switches/kailh/kailh-jellyfish-v2
-- [ ] kailh-box-jellyfish-y | Kailh Box Jellyfish Y | https://mechanicalkeyboards.com/products/kailh-box-jellyfish-y-50g-linear-pcb-mount
-- [ ] kailh-box-avocado-ice-cream-pro | Kailh Box Avocado Ice Cream Pro | https://switchoddities.com/products/kailh-box-avocado-ice-cream-pro
-- [ ] kailh-box-ice-berry-cream-pro | Kailh Box Ice Berry Cream Pro | https://mechkeys.com/products/kailh-box-ice-berry-cream-pro-switches
-- [ ] kailh-box-blackberry-ice-cream-pro | Kailh Box Blackberry Ice Cream Pro | https://mechkeys.com/products/kailh-box-blackberry-ice-cream-pro-switches
-- [ ] kailh-box-blueberry-ice-cream-pro | Kailh Box Blueberry Ice Cream Pro | https://kprepublic.com/products/kailh-box-blueberry-ice-cream-pro-switch-linear-5pin-rgb-smd-40g-mx-switch-for-mechanical-keyboard-50m-pom-like-speed-silver
-- [ ] kailh-box-taro-ice-cream-pro | Kailh Box Taro Ice Cream Pro | https://kprepublic.com/products/kailh-box-taro-ice-cream-pro-switch-linear-switch-5pin-rgb-smd-37g-mx-switch-for-mechanical-keyboard-50m-pom-like-speed-silver
-- [ ] kailh-box-strawberry-ice-cream-pro | Kailh Box Strawberry Ice Cream Pro | https://kprepublic.com/products/kailh-box-strawberry-ice-cream-pro-switch-linear-5pin-rgb-smd-37g-mx-switch-for-mechanical-keyboard-50m-pom-like-speed-silver
-- [ ] kailh-box-strawberry-ice-cream | Kailh Box Strawberry Ice Cream | https://mechkeys.com/products/kailh-box-strawberry-ice-cream-switches
-- [ ] kailh-box-ice-cream-pro-max | Kailh Box Ice Cream Pro Max | https://kprepublic.com/products/kailh-box-ice-cream-pro-max-switch-linear5pin-rgb-smd-45g-mx-switch-for-mechanical-keyboard-50m-pre-lubed
+- [x] kailh-box-jellyfish-pro-(mengling) | Kailh Box Jellyfish Pro (Mengling) | https://diykey.net/products/kailh-box-jellyfish-pro-mechanical-keyboard-switch
+- [x] kailh-box-jellyfish-v2 | Kailh Box Jellyfish V2 | https://kineticlabs.com/switches/kailh/kailh-jellyfish-v2
+- [x] kailh-box-jellyfish-y | Kailh Box Jellyfish Y | https://mechanicalkeyboards.com/products/kailh-box-jellyfish-y-50g-linear-pcb-mount
+- [x] kailh-box-avocado-ice-cream-pro | Kailh Box Avocado Ice Cream Pro | https://switchoddities.com/products/kailh-box-avocado-ice-cream-pro
+- [x] kailh-box-ice-berry-cream-pro | Kailh Box Ice Berry Cream Pro | https://mechkeys.com/products/kailh-box-ice-berry-cream-pro-switches
+- [x] kailh-box-blackberry-ice-cream-pro | Kailh Box Blackberry Ice Cream Pro | https://mechkeys.com/products/kailh-box-blackberry-ice-cream-pro-switches
+- [x] kailh-box-blueberry-ice-cream-pro | Kailh Box Blueberry Ice Cream Pro | https://kprepublic.com/products/kailh-box-blueberry-ice-cream-pro-switch-linear-5pin-rgb-smd-40g-mx-switch-for-mechanical-keyboard-50m-pom-like-speed-silver
+- [x] kailh-box-taro-ice-cream-pro | Kailh Box Taro Ice Cream Pro | https://kprepublic.com/products/kailh-box-taro-ice-cream-pro-switch-linear-switch-5pin-rgb-smd-37g-mx-switch-for-mechanical-keyboard-50m-pom-like-speed-silver
+- [x] kailh-box-strawberry-ice-cream-pro | Kailh Box Strawberry Ice Cream Pro | https://kprepublic.com/products/kailh-box-strawberry-ice-cream-pro-switch-linear-5pin-rgb-smd-37g-mx-switch-for-mechanical-keyboard-50m-pom-like-speed-silver
+- [x] kailh-box-strawberry-ice-cream | Kailh Box Strawberry Ice Cream | https://mechkeys.com/products/kailh-box-strawberry-ice-cream-switches
+- [x] kailh-box-ice-cream-pro-max | Kailh Box Ice Cream Pro Max | https://kprepublic.com/products/kailh-box-ice-cream-pro-max-switch-linear5pin-rgb-smd-45g-mx-switch-for-mechanical-keyboard-50m-pre-lubed
 - [ ] kailh-box-cream-pro-v2 | Kailh Box Cream Pro V2 | https://www.amazon.com/Kailh%C3%97Novelkeys-Cream-Pro-V2-CPG1511F01S138/dp/B0BPSN164G
-- [ ] kailh-box-cream-pro | Kailh Box Cream Pro | https://www.thockking.com/products/kailh-box-cream-pro-linear-switches
+- [x] kailh-box-cream-pro | Kailh Box Cream Pro | https://www.thockking.com/products/kailh-box-cream-pro-linear-switches
 - [ ] kailh-box-cream | Kailh Box Cream | https://www.tomshardware.com/reviews/kailh-x-novelkeys-box-cream-mechanical-switches-review-soft-n-stable
-- [ ] kailh-box-ultimate-taichi | Kailh Box Ultimate Taichi | https://kprepublic.com/products/kailh-ultimate-taichi-switch-box-v2-speed-mechanical-keyboard-switch-rgb-smd-linear-handfeeling-5pins-fast-trigger
-- [ ] kailh-box-coco-pink-v2 | Kailh Box Coco Pink V2 | https://www.keychron.com/products/kailh-coco-pink-box-v2-switch
-- [ ] kailh-box-avocado | Kailh Box Avocado | https://mechkeys.com/products/kailh-box-avocado-switches
-- [ ] kailh-box-spring | Kailh Box Spring | https://mechanicalkeyboards.com/products/kailh-box-spring-40g-linear-pcb-mount
-- [ ] kailh-box-v2-red | Kailh Box V2 Red | https://divinikey.com/products/kailh-box-v2-white-clicky-switches
+- [x] kailh-box-ultimate-taichi | Kailh Box Ultimate Taichi | https://kprepublic.com/products/kailh-ultimate-taichi-switch-box-v2-speed-mechanical-keyboard-switch-rgb-smd-linear-handfeeling-5pins-fast-trigger
+- [x] kailh-box-coco-pink-v2 | Kailh Box Coco Pink V2 | https://www.keychron.com/products/kailh-coco-pink-box-v2-switch
+- [x] kailh-box-avocado | Kailh Box Avocado | https://mechkeys.com/products/kailh-box-avocado-switches
+- [x] kailh-box-spring | Kailh Box Spring | https://mechanicalkeyboards.com/products/kailh-box-spring-40g-linear-pcb-mount
+- [x] kailh-box-v2-red | Kailh Box V2 Red | https://divinikey.com/products/kailh-box-v2-white-clicky-switches
 - [ ] kailh-box-ancient-grey | Kailh Box Ancient Grey | https://keeb-finder.com/switches/kailh-box-ancient-grey-95g-linear-plate-mount-switch
-- [ ] kailh-box-chinese-red | Kailh Box Chinese Red | https://mechanicalkeyboards.com/products/kailh-box-chinese-red-45g-linear-plate-mount
+- [x] kailh-box-chinese-red | Kailh Box Chinese Red | https://mechanicalkeyboards.com/products/kailh-box-chinese-red-45g-linear-plate-mount
 - [ ] kailh-box-dark-yellow | Kailh Box Dark Yellow | https://novelkeys.com/products/kailh-box-switches
-- [ ] kailh-box-red-pro | Kailh Box Red Pro | https://kprepublic.com/products/kailh-box-red-pro-switch-35g-linear-rgb-smd-switches-dustproofip56-waterproof-mx
+- [x] kailh-box-red-pro | Kailh Box Red Pro | https://kprepublic.com/products/kailh-box-red-pro-switch-35g-linear-rgb-smd-switches-dustproofip56-waterproof-mx
 - [ ] kailh-box-black | Kailh Box Black | https://novelkeys.com/products/kailh-box-switches
 - [ ] kailh-box-red | Kailh Box Red | https://novelkeys.com/products/kailh-box-switches
 - [ ] kailh-black | Kailh Black | https://www.kailhswitch.com/info/kailh-switches-introduction-list-27266403.html
@@ -730,77 +730,77 @@
 
 ## Keygeek (71)
 
-- [ ] keygeek-intro | Keygeek Intro | https://bowlkeyboards.com/products/keygeek-intro-switches
+- [x] keygeek-intro | Keygeek Intro | https://bowlkeyboards.com/products/keygeek-intro-switches
 - [ ] keygeek-strawberry-bunny | Keygeek Strawberry Bunny | https://unikeyboards.com/products/keygeek-strawberry-bunny-linear-switch-factory-lubed-10pcs
-- [ ] keygeek-sunflower-50g | Keygeek Sunflower 50g | https://mechanicalkeyboards.com/products/keygeek-sunflower-linear-pcb-mount-switch
-- [ ] keygeek-sunflower-45g | Keygeek Sunflower 45g | https://mechanicalkeyboards.com/products/keygeek-sunflower-linear-pcb-mount-switch
-- [ ] keygeek-sunflower-30g | Keygeek Sunflower 30g | https://mechanicalkeyboards.com/products/keygeek-sunflower-linear-pcb-mount-switch
-- [ ] keygeek-iced-latte | Keygeek Iced Latte | https://mechanicalkeyboards.com/products/keygeek-iced-latte-42g-linear-pcb-mount-switch
-- [ ] keygeek-orange-boi-48g | Keygeek Orange Boi 48g | https://mechanicalkeyboards.com/products/keygeek-orange-boi-linear-switch
-- [ ] keygeek-orange-boi-45g | Keygeek Orange Boi 45g | https://mechanicalkeyboards.com/products/keygeek-orange-boi-linear-switch
-- [ ] keygeek-orange-boi-40g | Keygeek Orange Boi 40g | https://mechanicalkeyboards.com/products/keygeek-orange-boi-linear-switch
+- [x] keygeek-sunflower-50g | Keygeek Sunflower 50g | https://mechanicalkeyboards.com/products/keygeek-sunflower-linear-pcb-mount-switch
+- [x] keygeek-sunflower-45g | Keygeek Sunflower 45g | https://mechanicalkeyboards.com/products/keygeek-sunflower-linear-pcb-mount-switch
+- [x] keygeek-sunflower-30g | Keygeek Sunflower 30g | https://mechanicalkeyboards.com/products/keygeek-sunflower-linear-pcb-mount-switch
+- [x] keygeek-iced-latte | Keygeek Iced Latte | https://mechanicalkeyboards.com/products/keygeek-iced-latte-42g-linear-pcb-mount-switch
+- [x] keygeek-orange-boi-48g | Keygeek Orange Boi 48g | https://mechanicalkeyboards.com/products/keygeek-orange-boi-linear-switch
+- [x] keygeek-orange-boi-45g | Keygeek Orange Boi 45g | https://mechanicalkeyboards.com/products/keygeek-orange-boi-linear-switch
+- [x] keygeek-orange-boi-40g | Keygeek Orange Boi 40g | https://mechanicalkeyboards.com/products/keygeek-orange-boi-linear-switch
 - [ ] keygeek-ash | Keygeek Ash | https://qwertyqop.com/products/sw-x-keygeek-ash-switch
 - [ ] keygeek-tori | Keygeek Tori | https://qwertyqop.com/products/sw-x-keygeek-tori-switch
-- [ ] keygeek-treasure | Keygeek Treasure | https://milktooth.com/products/treasure
-- [ ] keygeek-peachy | Keygeek Peachy | https://milktooth.com/products/peachy
-- [ ] keygeek-dusk-horizon | Keygeek Dusk Horizon | https://milktooth.com/products/dusk-horizon
-- [ ] keygeek-dusk | Keygeek Dusk | https://milktooth.com/products/dusk
+- [x] keygeek-treasure | Keygeek Treasure | https://milktooth.com/products/treasure
+- [x] keygeek-peachy | Keygeek Peachy | https://milktooth.com/products/peachy
+- [x] keygeek-dusk-horizon | Keygeek Dusk Horizon | https://milktooth.com/products/dusk-horizon
+- [x] keygeek-dusk | Keygeek Dusk | https://milktooth.com/products/dusk
 - [ ] keygeek-pomkin | Keygeek Pomkin | https://unikeyboards.com/products/keygeek-x-sharkeys-pomkin-linear-switch-factory-lubed-10pcs
 - [ ] keygeek-vc | Keygeek VC | https://unikeyboards.com/products/keygeek-vc-linear-switch-factory-lubed-10pcs
-- [ ] keygeek-cyan | Keygeek Cyan | https://mechanicalkeyboards.com/products/keygeek-cyan-42g-linear-switch
-- [ ] keygeek-cera-x-48g | Keygeek Cera X 48g | https://divinikey.com/products/keygeek-cera-x-linear-switches
-- [ ] keygeek-cera-x-42g | Keygeek Cera X 42g | https://divinikey.com/products/keygeek-cera-x-linear-switches
-- [ ] keygeek-peach-cheesecake-48g | Keygeek Peach Cheesecake 48g | https://divinikey.com/products/keygeek-peach-cheesecake-linear-switches
-- [ ] keygeek-peach-cheesecake-40g | Keygeek Peach Cheesecake 40g | https://divinikey.com/products/keygeek-peach-cheesecake-linear-switches
+- [x] keygeek-cyan | Keygeek Cyan | https://mechanicalkeyboards.com/products/keygeek-cyan-42g-linear-switch
+- [x] keygeek-cera-x-48g | Keygeek Cera X 48g | https://divinikey.com/products/keygeek-cera-x-linear-switches
+- [x] keygeek-cera-x-42g | Keygeek Cera X 42g | https://divinikey.com/products/keygeek-cera-x-linear-switches
+- [x] keygeek-peach-cheesecake-48g | Keygeek Peach Cheesecake 48g | https://divinikey.com/products/keygeek-peach-cheesecake-linear-switches
+- [x] keygeek-peach-cheesecake-40g | Keygeek Peach Cheesecake 40g | https://divinikey.com/products/keygeek-peach-cheesecake-linear-switches
 - [ ] keygeek-matcha-pudding | Keygeek Matcha Pudding | https://unikeyboards.com/products/keygeek-matcha-pudding-linear-switch-factory-lubed-10pcs
-- [ ] keygeek-briny-52g | Keygeek Briny 52g | https://unikeyboards.com/products/keygeek-briny-linear-switch-factory-lubed-10pcs
-- [ ] keygeek-briny-42g | Keygeek Briny 42g | https://unikeyboards.com/products/keygeek-briny-linear-switch-factory-lubed-10pcs
-- [ ] keygeek-rye | Keygeek Rye | https://divinikey.com/products/keygeek-x-evoworks-rye-linear-switches
-- [ ] keygeek-athena-52g | Keygeek Athena 52g | https://divinikey.com/products/keygeek-athena-linear-switches
-- [ ] keygeek-athena-40g | Keygeek Athena 40g | https://divinikey.com/products/keygeek-athena-linear-switches
-- [ ] keygeek-mingding-55g | Keygeek Mingding 55g | https://divinikey.com/products/keygeek-mingding-linear-switches
-- [ ] keygeek-mingding-48g | Keygeek Mingding 48g | https://divinikey.com/products/keygeek-mingding-linear-switches
-- [ ] keygeek-sanglei | Keygeek Sanglei | https://divinikey.com/products/keygeek-sanglei-linear-switches
+- [x] keygeek-briny-52g | Keygeek Briny 52g | https://unikeyboards.com/products/keygeek-briny-linear-switch-factory-lubed-10pcs
+- [x] keygeek-briny-42g | Keygeek Briny 42g | https://unikeyboards.com/products/keygeek-briny-linear-switch-factory-lubed-10pcs
+- [x] keygeek-rye | Keygeek Rye | https://divinikey.com/products/keygeek-x-evoworks-rye-linear-switches
+- [x] keygeek-athena-52g | Keygeek Athena 52g | https://divinikey.com/products/keygeek-athena-linear-switches
+- [x] keygeek-athena-40g | Keygeek Athena 40g | https://divinikey.com/products/keygeek-athena-linear-switches
+- [x] keygeek-mingding-55g | Keygeek Mingding 55g | https://divinikey.com/products/keygeek-mingding-linear-switches
+- [x] keygeek-mingding-48g | Keygeek Mingding 48g | https://divinikey.com/products/keygeek-mingding-linear-switches
+- [x] keygeek-sanglei | Keygeek Sanglei | https://divinikey.com/products/keygeek-sanglei-linear-switches
 - [ ] keygeek-m3 | Keygeek M3 | https://keeb-finder.com/switches/keygeek-m3-linear-switch-factory-lubed-10pcs
-- [ ] keygeek-m1 | Keygeek M1 | https://divinikey.com/products/keygeek-m1-linear-switches
-- [ ] keygeek-muse-53g | Keygeek Muse 53g | https://divinikey.com/products/keygeek-muse-linear-switches
-- [ ] keygeek-muse-45g | Keygeek Muse 45g | https://divinikey.com/products/keygeek-muse-linear-switches
+- [x] keygeek-m1 | Keygeek M1 | https://divinikey.com/products/keygeek-m1-linear-switches
+- [x] keygeek-muse-53g | Keygeek Muse 53g | https://divinikey.com/products/keygeek-muse-linear-switches
+- [x] keygeek-muse-45g | Keygeek Muse 45g | https://divinikey.com/products/keygeek-muse-linear-switches
 - [ ] keygeek-lila-v2 | Keygeek Lila V2 | https://qwertyqop.com/products/lila-v2-switch
-- [ ] keygeek-lila | Keygeek Lila | https://milktooth.com/products/lila
-- [ ] keygeek-butterfly-48g | Keygeek Butterfly 48g | https://divinikey.com/products/keygeek-butterfly-linear-switches
-- [ ] keygeek-butterfly-40g | Keygeek Butterfly 40g | https://divinikey.com/products/keygeek-butterfly-linear-switches
-- [ ] keygeek-uni | Keygeek Uni | https://unikeyboards.com/products/unikeys-x-keygeek-uni-linear-switch-factory-lubed-edition-10pcs
-- [ ] keygeek-purple-dawn | Keygeek Purple Dawn | https://unikeyboards.com/products/keygeek-x-unikeys-purple-dawn-linear-switch-factory-lubed-edition-10pcs
-- [ ] keygeek-explosion | Keygeek Explosion | https://unikeyboards.com/products/keygeek-explosion-linear-switch-factory-lubed-10pcs
-- [ ] keygeek-b1 | Keygeek B1 | https://unikeyboards.com/products/keygeek-b1-linear-switch-factory-lubed-edition-10pcs
-- [ ] keygeek-pa | Keygeek PA | https://unikeyboards.com/products/keygeek-pa-linear-switch-factory-lubed-10pcs
-- [ ] keygeek-full-nylon | Keygeek Full Nylon | https://divinikey.com/products/keygeek-full-nylon-linear-switches
-- [ ] keygeek-little-elf | Keygeek Little Elf | https://mechanicalkeyboards.com/products/keygeek-little-elf-42g-linear-plate-mount-switch
-- [ ] keygeek-little-witch | Keygeek Little Witch | https://divinikey.com/products/keygeek-little-witch-linear-switches
+- [x] keygeek-lila | Keygeek Lila | https://milktooth.com/products/lila
+- [x] keygeek-butterfly-48g | Keygeek Butterfly 48g | https://divinikey.com/products/keygeek-butterfly-linear-switches
+- [x] keygeek-butterfly-40g | Keygeek Butterfly 40g | https://divinikey.com/products/keygeek-butterfly-linear-switches
+- [x] keygeek-uni | Keygeek Uni | https://unikeyboards.com/products/unikeys-x-keygeek-uni-linear-switch-factory-lubed-edition-10pcs
+- [x] keygeek-purple-dawn | Keygeek Purple Dawn | https://unikeyboards.com/products/keygeek-x-unikeys-purple-dawn-linear-switch-factory-lubed-edition-10pcs
+- [x] keygeek-explosion | Keygeek Explosion | https://unikeyboards.com/products/keygeek-explosion-linear-switch-factory-lubed-10pcs
+- [x] keygeek-b1 | Keygeek B1 | https://unikeyboards.com/products/keygeek-b1-linear-switch-factory-lubed-edition-10pcs
+- [x] keygeek-pa | Keygeek PA | https://unikeyboards.com/products/keygeek-pa-linear-switch-factory-lubed-10pcs
+- [x] keygeek-full-nylon | Keygeek Full Nylon | https://divinikey.com/products/keygeek-full-nylon-linear-switches
+- [x] keygeek-little-elf | Keygeek Little Elf | https://mechanicalkeyboards.com/products/keygeek-little-elf-42g-linear-plate-mount-switch
+- [x] keygeek-little-witch | Keygeek Little Witch | https://divinikey.com/products/keygeek-little-witch-linear-switches
 - [ ] keygeek-higanbana-v2 | Keygeek Higanbana V2 | https://unikeyboards.com/products/keygeek-higanbana-v2-linear-switch-factory-lubed-edition-10pcs
-- [ ] keygeek-higanbana | Keygeek Higanbana | https://pantheonkeys.com/products/keygeek-higanbana-linear-switches
+- [x] keygeek-higanbana | Keygeek Higanbana | https://pantheonkeys.com/products/keygeek-higanbana-linear-switches
 - [ ] keygeek-mirror-lake-v2 | Keygeek Mirror Lake V2 | https://unikeyboards.com/products/keygeek-mirror-lake-v2-linear-switch-factory-lubed-edition-10pcs
-- [ ] keygeek-mirror-lake | Keygeek Mirror Lake | https://milktooth.com/products/mirror-lake
-- [ ] keygeek-neo-oat | Keygeek Neo Oat | https://mechanicalkeyboards.com/products/keygeek-neo-oat-36g-linear-pcb-mount
-- [ ] keygeek-soda | Keygeek Soda | https://mechanicalkeyboards.com/products/keygeek-soda-45g-linear-pcb-mount-switch
-- [ ] keygeek-cheese-v2-48g | Keygeek Cheese V2 48g | https://mechanicalkeyboards.com/products/keygeek-cheese-v2-linear-pcb-mount-switch
-- [ ] keygeek-cheese-v2-40g | Keygeek Cheese V2 40g | https://mechanicalkeyboards.com/products/keygeek-cheese-v2-linear-pcb-mount-switch
-- [ ] keygeek-y3x-635g | Keygeek Y3X 63.5g | https://divinikey.com/products/keygeek-y3x-linear-switches
-- [ ] keygeek-y3x-53g | Keygeek Y3X 53g | https://divinikey.com/products/keygeek-y3x-linear-switches
-- [ ] keygeek-y3x-45g | Keygeek Y3X 45g | https://divinikey.com/products/keygeek-y3x-linear-switches
-- [ ] keygeek-y3x-37g | Keygeek Y3X 37g | https://divinikey.com/products/keygeek-y3x-linear-switches
-- [ ] keygeek-y3 | Keygeek Y3 | https://mechanicalkeyboards.com/products/keygeek-y3-48g-linear-pcb-mount-switch
-- [ ] keygeek-y2 | Keygeek Y2 | https://divinikey.com/products/keygeek-y2-linear-switches
-- [ ] keygeek-y1x | Keygeek Y1X | https://mechanicalkeyboards.com/products/keygeek-y1x-48g-linear-pcb-mount-switch
-- [ ] keygeek-y1 | Keygeek Y1 | https://mechanicalkeyboards.com/products/keygeek-y1-48g-linear-pcb-mount-switch
-- [ ] keygeek-luxury | Keygeek Luxury | https://cannonkeys.com/products/keygeek-luxury-linear-switch
-- [ ] keygeek-raw-flat-pole | Keygeek Raw Flat Pole | https://www.antipode.studio/products/keygeek-raw-flat-pole-linear
-- [ ] keygeek-raw | Keygeek Raw | https://divinikey.com/products/keygeek-raw-linear-switches
+- [x] keygeek-mirror-lake | Keygeek Mirror Lake | https://milktooth.com/products/mirror-lake
+- [x] keygeek-neo-oat | Keygeek Neo Oat | https://mechanicalkeyboards.com/products/keygeek-neo-oat-36g-linear-pcb-mount
+- [x] keygeek-soda | Keygeek Soda | https://mechanicalkeyboards.com/products/keygeek-soda-45g-linear-pcb-mount-switch
+- [x] keygeek-cheese-v2-48g | Keygeek Cheese V2 48g | https://mechanicalkeyboards.com/products/keygeek-cheese-v2-linear-pcb-mount-switch
+- [x] keygeek-cheese-v2-40g | Keygeek Cheese V2 40g | https://mechanicalkeyboards.com/products/keygeek-cheese-v2-linear-pcb-mount-switch
+- [x] keygeek-y3x-635g | Keygeek Y3X 63.5g | https://divinikey.com/products/keygeek-y3x-linear-switches
+- [x] keygeek-y3x-53g | Keygeek Y3X 53g | https://divinikey.com/products/keygeek-y3x-linear-switches
+- [x] keygeek-y3x-45g | Keygeek Y3X 45g | https://divinikey.com/products/keygeek-y3x-linear-switches
+- [x] keygeek-y3x-37g | Keygeek Y3X 37g | https://divinikey.com/products/keygeek-y3x-linear-switches
+- [x] keygeek-y3 | Keygeek Y3 | https://mechanicalkeyboards.com/products/keygeek-y3-48g-linear-pcb-mount-switch
+- [x] keygeek-y2 | Keygeek Y2 | https://divinikey.com/products/keygeek-y2-linear-switches
+- [x] keygeek-y1x | Keygeek Y1X | https://mechanicalkeyboards.com/products/keygeek-y1x-48g-linear-pcb-mount-switch
+- [x] keygeek-y1 | Keygeek Y1 | https://mechanicalkeyboards.com/products/keygeek-y1-48g-linear-pcb-mount-switch
+- [x] keygeek-luxury | Keygeek Luxury | https://cannonkeys.com/products/keygeek-luxury-linear-switch
+- [x] keygeek-raw-flat-pole | Keygeek Raw Flat Pole | https://www.antipode.studio/products/keygeek-raw-flat-pole-linear
+- [x] keygeek-raw | Keygeek Raw | https://divinikey.com/products/keygeek-raw-linear-switches
 - [ ] keygeek-keylin | Keygeek Keylin | https://divinikey.com/products/keygeek-keylin-linear-switches
-- [ ] keygeek-begonia | Keygeek Begonia | https://switchoddities.com/products/keygeek-begonia
-- [ ] keygeek-raspberry | Keygeek Raspberry | https://switchoddities.com/products/keygeek-raspberry
-- [ ] keygeek-avalon-35mm-(long-pole) | Keygeek Avalon 3.5mm (Long Pole) | https://qwertyqop.com/products/keygeek-avalon-linear-switch
-- [ ] keygeek-avalon-38mm | Keygeek Avalon 3.8mm | https://qwertyqop.com/products/keygeek-avalon-linear-switch
+- [x] keygeek-begonia | Keygeek Begonia | https://switchoddities.com/products/keygeek-begonia
+- [x] keygeek-raspberry | Keygeek Raspberry | https://switchoddities.com/products/keygeek-raspberry
+- [x] keygeek-avalon-35mm-(long-pole) | Keygeek Avalon 3.5mm (Long Pole) | https://qwertyqop.com/products/keygeek-avalon-linear-switch
+- [x] keygeek-avalon-38mm | Keygeek Avalon 3.8mm | https://qwertyqop.com/products/keygeek-avalon-linear-switch
 
 ## MMD (1)
 
