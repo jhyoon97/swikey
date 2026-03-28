@@ -8,7 +8,7 @@
 
 ## Hall Effect 스위치
 
-| 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
-|------|----------|--------|-----------|-----------|--------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
-| Glorious Panda HE Standard | 글로리어스 판다 HE 스탠다드 | Glorious | - | hall effect | No | PC | PC | POM | Yes | - | - | 4.0 | - | - | - | 65 | https://www.gloriousgaming.com/products/panda-he-switches |
-| Glorious Panda HE Silent | 글로리어스 판다 HE 사일런트 | Glorious | - | hall effect | Yes | PC | PC | POM | Yes | - | - | 4.0 | - | - | - | 65 | https://www.gloriousgaming.com/products/panda-he-switches |
+| 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 로우프로파일 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
+|------|----------|--------|-----------|-----------|--------|----------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
+| Glorious Panda HE Standard | 글로리어스 판다 HE 스탠다드 | Glorious | - | hall effect | No | No | PC | PC | POM | Yes | - | - | 4.0 | - | - | - | 65 | https://www.gloriousgaming.com/products/panda-he-switches |
+| Glorious Panda HE Silent | 글로리어스 판다 HE 사일런트 | Glorious | - | hall effect | Yes | No | PC | PC | POM | Yes | - | - | 4.0 | - | - | - | 65 | https://www.gloriousgaming.com/products/panda-he-switches |

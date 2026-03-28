@@ -104,6 +104,7 @@ export const mapPageToSwitch = (page: PageObjectResponse): KeyboardSwitch => {
     lowerHousingMaterial: getRichText(props['하부하우징재질']),
     stemMaterial: getRichText(props['스템재질']),
     silent: getCheckbox(props['저소음']),
+    lowProfile: getCheckbox(props['로우프로파일']),
     factoryLubed: getCheckbox(props['공장윤활']),
     springLength: getNumber(props['스프링길이']),
     mountPins,

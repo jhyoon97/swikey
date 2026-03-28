@@ -8,9 +8,9 @@
 
 ## Hall Effect 스위치
 
-| 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
-|------|----------|--------|-----------|-----------|--------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
-| Lekker Linear60 (L60) V1 | 레커 리니어60 V1 | Wooting | - | hall effect | No | PC | Nylon | POM | Yes | - | - | 4.0 | - | - | 40 | 60 | https://wooting.io/product/lekker-switch-linear60 |
-| Lekker Linear45 (L45) V2 | 레커 리니어45 V2 | Wooting | - | hall effect | No | PC | Nylon | POM | Yes | - | - | 4.0 | - | - | 30 | 45 | https://wooting.io/product/lekker-switch-l45-v2 |
-| Lekker Linear60 (L60) V2 | 레커 리니어60 V2 | Wooting | - | hall effect | No | PC | Nylon | POM | Yes | - | - | 4.0 | - | - | 40 | 60 | https://wooting.io/product/lekker-switch-l60-v2 |
-| Lekker Tikken Medium | 레커 틱켄 미디엄 | Wooting | - | hall effect | No | PC Blend | Nylon | POM | Yes | 22 | - | 4.0 | - | - | 42 | 54 | https://wooting.io/product/wooting-lekker-tikken-medium-switch |
+| 이름 | 한글이름 | 제조사 | 콜라보업체 | 스위치타입 | 저소음 | 로우프로파일 | 상부하우징재질 | 하부하우징재질 | 스템재질 | 공장윤활 | 스프링길이(mm) | 마운트핀 | 트래블(mm) | 입력지점(mm) | 입력압(g) | 초기압(g) | 바닥압(g) | 출처 |
+|------|----------|--------|-----------|-----------|--------|----------|-------------|-------------|---------|---------|--------------|---------|-----------|------------|----------|----------|----------|------|
+| Lekker Linear60 (L60) V1 | 레커 리니어60 V1 | Wooting | - | hall effect | No | No | PC | Nylon | POM | Yes | - | - | 4.0 | - | - | 40 | 60 | https://wooting.io/product/lekker-switch-linear60 |
+| Lekker Linear45 (L45) V2 | 레커 리니어45 V2 | Wooting | - | hall effect | No | No | PC | Nylon | POM | Yes | - | - | 4.0 | - | - | 30 | 45 | https://wooting.io/product/lekker-switch-l45-v2 |
+| Lekker Linear60 (L60) V2 | 레커 리니어60 V2 | Wooting | - | hall effect | No | No | PC | Nylon | POM | Yes | - | - | 4.0 | - | - | 40 | 60 | https://wooting.io/product/lekker-switch-l60-v2 |
+| Lekker Tikken Medium | 레커 틱켄 미디엄 | Wooting | - | hall effect | No | No | PC Blend | Nylon | POM | Yes | 22 | - | 4.0 | - | - | 42 | 54 | https://wooting.io/product/wooting-lekker-tikken-medium-switch |
