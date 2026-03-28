@@ -11,6 +11,12 @@ import { useTranslation } from '@/i18n/useTranslation';
 import { cn } from '@/lib/utils';
 import type { MountPins, SwitchFilters, SwitchType } from '@/types/switch';
 
+const toggleArrayItem = <T,>(arr: T[] | undefined, item: T): T[] | undefined => {
+  if (!arr) return [item];
+  const next = arr.includes(item) ? arr.filter((v) => v !== item) : [...arr, item];
+  return next.length > 0 ? next : undefined;
+};
+
 interface SwitchFilterProps {
   filters: SwitchFilters;
   onSubmit: (filters: SwitchFilters) => void;
@@ -90,8 +96,8 @@ const SwitchFilter = ({
   };
 
   const hasActiveFilters =
-    draft.type ||
-    draft.manufacturer ||
+    (draft.types && draft.types.length > 0) ||
+    (draft.manufacturers && draft.manufacturers.length > 0) ||
     draft.mountPins !== undefined ||
     draft.silent !== undefined ||
     draft.lowProfile !== undefined ||
@@ -112,7 +118,7 @@ const SwitchFilter = ({
   const hasFilterValue = (cat: FilterCategory): boolean => {
     switch (cat) {
       case 'type':
-        return !!draft.type;
+        return !!draft.types?.length;
       case 'mountPins':
         return draft.mountPins !== undefined;
       case 'silent':
@@ -122,7 +128,7 @@ const SwitchFilter = ({
       case 'factoryLubed':
         return draft.factoryLubed !== undefined;
       case 'manufacturer':
-        return !!draft.manufacturer;
+        return !!draft.manufacturers?.length;
       case 'actuation':
         return !!draft.actuationMin || !!draft.actuationMax;
       case 'initial':
@@ -182,19 +188,17 @@ const SwitchFilter = ({
         return (
           <div className="flex flex-wrap gap-1.5">
             <Tag
-              selected={!draft.type}
-              onClick={() => update({ type: undefined })}
+              selected={!draft.types?.length}
+              onClick={() => update({ types: undefined })}
             >
               {t('switch.all')}
             </Tag>
             {switchTypes.map((st) => (
               <Tag
                 key={st.value}
-                selected={draft.type === st.value}
+                selected={draft.types?.includes(st.value) ?? false}
                 onClick={() =>
-                  update({
-                    type: draft.type === st.value ? undefined : st.value,
-                  })
+                  update({ types: toggleArrayItem(draft.types, st.value) })
                 }
               >
                 {t(st.labelKey)}
@@ -285,18 +289,18 @@ const SwitchFilter = ({
         return (
           <div className="flex flex-wrap gap-1.5">
             <Tag
-              selected={!draft.manufacturer}
-              onClick={() => update({ manufacturer: undefined })}
+              selected={!draft.manufacturers?.length}
+              onClick={() => update({ manufacturers: undefined })}
             >
               {t('switch.all')}
             </Tag>
             {manufacturers.map((m) => (
               <Tag
                 key={m}
-                selected={draft.manufacturer === m}
+                selected={draft.manufacturers?.includes(m) ?? false}
                 onClick={() =>
                   update({
-                    manufacturer: draft.manufacturer === m ? undefined : m,
+                    manufacturers: toggleArrayItem(draft.manufacturers, m),
                   })
                 }
               >
@@ -465,19 +469,17 @@ const SwitchFilter = ({
             <td className="py-2">
               <div className="flex flex-wrap gap-1.5">
                 <Tag
-                  selected={!draft.type}
-                  onClick={() => update({ type: undefined })}
+                  selected={!draft.types?.length}
+                  onClick={() => update({ types: undefined })}
                 >
                   {t('switch.all')}
                 </Tag>
                 {switchTypes.map((st) => (
                   <Tag
                     key={st.value}
-                    selected={draft.type === st.value}
+                    selected={draft.types?.includes(st.value) ?? false}
                     onClick={() =>
-                      update({
-                        type: draft.type === st.value ? undefined : st.value,
-                      })
+                      update({ types: toggleArrayItem(draft.types, st.value) })
                     }
                   >
                     {t(st.labelKey)}
@@ -599,19 +601,18 @@ const SwitchFilter = ({
               <td className="py-2">
                 <div className="flex flex-wrap gap-1.5">
                   <Tag
-                    selected={!draft.manufacturer}
-                    onClick={() => update({ manufacturer: undefined })}
+                    selected={!draft.manufacturers?.length}
+                    onClick={() => update({ manufacturers: undefined })}
                   >
                     {t('switch.all')}
                   </Tag>
                   {manufacturers.map((m) => (
                     <Tag
                       key={m}
-                      selected={draft.manufacturer === m}
+                      selected={draft.manufacturers?.includes(m) ?? false}
                       onClick={() =>
                         update({
-                          manufacturer:
-                            draft.manufacturer === m ? undefined : m,
+                          manufacturers: toggleArrayItem(draft.manufacturers, m),
                         })
                       }
                     >

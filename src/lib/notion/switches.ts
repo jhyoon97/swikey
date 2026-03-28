@@ -93,18 +93,36 @@ export const searchSwitches = async (
     });
   }
 
-  if (filters.manufacturer) {
-    conditions.push({
-      property: '제조사',
-      rich_text: { equals: filters.manufacturer },
-    });
+  if (filters.manufacturers && filters.manufacturers.length > 0) {
+    if (filters.manufacturers.length === 1) {
+      conditions.push({
+        property: '제조사',
+        rich_text: { equals: filters.manufacturers[0] },
+      });
+    } else {
+      conditions.push({
+        or: filters.manufacturers.map((m) => ({
+          property: '제조사',
+          rich_text: { equals: m },
+        })),
+      });
+    }
   }
 
-  if (filters.type) {
-    conditions.push({
-      property: '스위치타입',
-      select: { equals: filters.type },
-    });
+  if (filters.types && filters.types.length > 0) {
+    if (filters.types.length === 1) {
+      conditions.push({
+        property: '스위치타입',
+        select: { equals: filters.types[0] },
+      });
+    } else {
+      conditions.push({
+        or: filters.types.map((t) => ({
+          property: '스위치타입',
+          select: { equals: t },
+        })),
+      });
+    }
   }
 
   if (filters.mountPins !== undefined) {

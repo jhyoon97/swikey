@@ -20,8 +20,8 @@ export const useSwitches = () => {
 export const useSearchSwitches = (filters: SwitchFilters) => {
   const params = new URLSearchParams();
   if (filters.query) params.set('q', filters.query);
-  if (filters.type) params.set('type', filters.type);
-  if (filters.manufacturer) params.set('manufacturer', filters.manufacturer);
+  if (filters.types?.length) params.set('types', filters.types.join(','));
+  if (filters.manufacturers?.length) params.set('manufacturers', filters.manufacturers.join(','));
   if (filters.mountPins !== undefined)
     params.set('mountPins', String(filters.mountPins));
   if (filters.silent !== undefined)

@@ -13,10 +13,13 @@ export interface KeyboardSwitch {
   upperHousingMaterial?: string;
   lowerHousingMaterial?: string;
   stemMaterial?: string;
+  stemPoleLength?: number;
+  stemPoleShape?: string;
   silent: boolean;
   lowProfile: boolean;
   factoryLubed: boolean;
   springLength?: number;
+  springType?: string;
   mountPins: MountPins;
   travel?: number;
   actuationPoint?: number;
@@ -47,8 +50,8 @@ export type SortDirection = 'ascending' | 'descending';
 
 export interface SwitchFilters {
   query?: string;
-  type?: SwitchType;
-  manufacturer?: string;
+  types?: SwitchType[];
+  manufacturers?: string[];
   mountPins?: MountPins;
   silent?: boolean;
   lowProfile?: boolean;
