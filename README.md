@@ -19,14 +19,6 @@
 
 - [ ] 스템 디자인 (`stemDesign`): `standard` / `box` / `dustproof` / `low-profile`
   - box: Kailh 박스 구조 (IP56 방진방수), dustproof: 먼지 차단 구조
-- [ ] 사운드 프로필 태그 (`soundTags`): clacky, thocky, creamy 등
-  - Divinikey, LumeKeebs에서 제공. 주관적이라 데이터 일관성 유지가 과제
-
-**낮은 우선순위**
-
-- [ ] LED 호환성 (`ledCompatibility`): `smd` / `through-hole` / `both` / `none`
-- [ ] 내구성 (`operatingLife`): 50M / 80M / 100M / unlimited (자석축)
-- [ ] 리셋 포인트 (`resetPoint`): 입력 해제 지점 (mm). 게이밍 더블탭 속도에 영향
 
 ### 기능
 

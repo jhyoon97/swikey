@@ -280,19 +280,31 @@ async function uploadSwitch(sw, index, total, { upsert = false } = {}) {
 async function main() {
   const args = process.argv.slice(2);
   const upsert = args.includes('--upsert');
+  const tactileOnly = args.includes('--tactile-only');
   const filePath = args.find(a => !a.startsWith('--'));
 
   if (!filePath) {
-    console.error('Usage: node scripts/upload-switches.mjs <markdown-file-path> [--upsert]');
+    console.error('Usage: node scripts/upload-switches.mjs <markdown-file-path> [--upsert] [--tactile-only]');
     console.error('Example: node scripts/upload-switches.mjs docs/hmx-switches-research.md');
     console.error('         node scripts/upload-switches.mjs docs/hmx-switches-research.md --upsert');
+    console.error('         node scripts/upload-switches.mjs docs/hmx-switches-research.md --upsert --tactile-only');
     console.error('\n--upsert: 이름이 같은 스위치가 있으면 업데이트, 없으면 생성');
+    console.error('--tactile-only: 택타일/클릭키 스위치만 처리 (리니어, hall effect 제외)');
     process.exit(1);
   }
 
   const resolvedPath = resolve(filePath);
   const content = readFileSync(resolvedPath, 'utf-8');
-  const switches = parseMarkdownTables(content);
+  let switches = parseMarkdownTables(content);
+
+  if (tactileOnly) {
+    const before = switches.length;
+    switches = switches.filter(sw => {
+      const type = parseSwitchType(sw.type);
+      return type === '택타일' || type === '클릭키';
+    });
+    console.log(`🔍 택타일/클릭키 필터: ${before}개 중 ${switches.length}개 선택`);
+  }
 
   if (switches.length === 0) {
     console.error('파싱된 스위치가 없습니다. 파일 포맷을 확인하세요.');
