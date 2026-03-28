@@ -522,7 +522,7 @@
 
 - [x] jerrzi-mx-blue | Jerrzi MX Blue | https://kprepublic.com/products/jerrzi-switch-3pin-smd-rgb-mx-stem-switch-for-mechanical-keyboard-brown-yellow-red-black-blue
 - [ ] ltc-jerrzi-similar-blue | LTC Jerrzi Similar Blue | https://ltcofficial.com/products/ltc-jerrzi-similar-blue-switches-for-mechanical-keyboard-diy70pcs
-- [ ] jerrzi-xcjz-lotus-stem | Jerrzi XCJZ Lotus Stem | https://kprepublic.com/products/jerrzi-xcjz-lotus-stem-switch-60g-rgb-smd-click-tactile-switches-for-mechanical-keyboard-mx-stem-5pin-pre-lubed-pom
+- [x] jerrzi-xcjz-lotus-stem | Jerrzi XCJZ Lotus Stem | https://kprepublic.com/products/jerrzi-xcjz-lotus-stem-switch-60g-rgb-smd-click-tactile-switches-for-mechanical-keyboard-mx-stem-5pin-pre-lubed-pom
 - [ ] jerrzi-mx-green | Jerrzi MX Green | https://en.jerrzi.com/Products_detail/21.html
 - [x] jerrzi-mx-brown | Jerrzi MX Brown | https://kprepublic.com/products/jerrzi-switch-3pin-smd-rgb-mx-stem-switch-for-mechanical-keyboard-brown-yellow-red-black-blue
 - [ ] ltc-jerrzi-lava-(similar-panda) | LTC Jerrzi Lava (Similar Panda) | https://ltcofficial.com/products/ltc-jerrzi-tactile-switches-for-mechanical-keyboard-70pcs
@@ -549,9 +549,9 @@
 - [x] jerrzi-kyria-red | Jerrzi Kyria Red | https://switchoddities.com/products/jerrzi-kyria-red
 - [x] jerrzi-sea-salt-mousse | Jerrzi Sea Salt Mousse | https://milktooth.com/products/sea-salt-mousse
 - [x] jerrzi-wind-rain | Jerrzi Wind Rain | https://thoccexchange.com/products/jerzzi-wind-rain
-- [ ] jerrzi-rainbow | Jerrzi Rainbow | https://thoccexchange.com/products/jerzzi-rainbow-switches-10-per-pack
+- [x] jerrzi-rainbow | Jerrzi Rainbow | https://thoccexchange.com/products/jerzzi-rainbow-switches-10-per-pack
 - [x] jerrzi-poseidon | Jerrzi Poseidon | https://milktooth.com/products/switches/poseidon
-- [ ] jerrzi-lotus-v2 | Jerrzi Lotus V2 | https://milktooth.com/comparisons/lotus-v2-vs-sunset-gleam
+- [x] jerrzi-lotus-v2 | Jerrzi Lotus V2 | https://milktooth.com/comparisons/lotus-v2-vs-sunset-gleam
 - [x] jerrzi-brownie | Jerrzi Brownie | https://thoccexchange.com/products/jerzzi-brownie-switch-10-pack
 - [x] jerrzi-wisteria-flower | Jerrzi Wisteria Flower | https://pantheonkeys.com/products/jerrzi-wisteria-flower-linear-switches
 - [x] jerrzi-orange | Jerrzi Orange | https://milktooth.com/products/switches/jerrzi-orange
@@ -812,100 +812,100 @@
 - [ ] outemu-amethyst-magnetic | Outemu Amethyst Magnetic | https://shop.yushakobo.jp/products/10316
 - [ ] outemu-magnetic-beige | Outemu Magnetic Beige | https://kprepublic.com/products/outemu-otm-magnetic-switch-beige-pink-switch-linear-no-pins-for-specific-magnetic-mechanical-keyboard-45g-150gs-2800gs
 - [ ] outemu-magnetic-brown | Outemu Magnetic Brown | https://kprepublic.com/products/outemu-otm-magnetic-switch-black-red-blue-brown-pink-switch-linear-tactile-no-pins-for-specific-magnetic-mechanical-keyboard
-- [ ] outemu-magnetic-pink | Outemu Magnetic Pink | https://switchoddities.com/products/outemu-magnetic-pink
-- [ ] outemu-phoenix-68g | Outemu Phoenix 68g | https://1upkeyboards.com/shop/switches/set-packs/outemu-phoenix-clicky-switches/
-- [ ] outemu-phoenix-62g | Outemu Phoenix 62g | https://milktooth.com/products/phoenix
+- [x] outemu-magnetic-pink | Outemu Magnetic Pink | https://switchoddities.com/products/outemu-magnetic-pink
+- [x] outemu-phoenix-68g | Outemu Phoenix 68g | https://1upkeyboards.com/shop/switches/set-packs/outemu-phoenix-clicky-switches/
+- [x] outemu-phoenix-62g | Outemu Phoenix 62g | https://milktooth.com/products/phoenix
 - [ ] outemu-blue-jade | Outemu Blue Jade | https://milktooth.com/products/switches/outemu-blue-jade
 - [ ] outemu-cream-blue | Outemu Cream Blue | https://milktooth.com/products/outemu-cream-blue
 - [ ] outemu-milk-blue | Outemu Milk Blue | https://milktooth.com/products/outemu-milk-blue
 - [ ] outemu-spring-breeze | Outemu Spring Breeze | https://milktooth.com/products/outemu-spring-breeze
-- [ ] outemu-gold | Outemu Gold | https://milktooth.com/products/outemu-gold
-- [ ] outemu-teal | Outemu Teal | https://keybumps.com/switch-type/outemu.html
-- [ ] outemu-dustproof-green | Outemu Dustproof Green | https://keybumps.com/switches/outemu-dustproof-green.html
+- [x] outemu-gold | Outemu Gold | https://milktooth.com/products/outemu-gold
+- [x] outemu-teal | Outemu Teal | https://keybumps.com/switch-type/outemu.html
+- [x] outemu-dustproof-green | Outemu Dustproof Green | https://keybumps.com/switches/outemu-dustproof-green.html
 - [ ] outemu-green | Outemu Green | https://milktooth.com/products/switches/outemu-green
-- [ ] outemu-dustproof-blue | Outemu Dustproof Blue | https://keybumps.com/switches/outemu-dustproof-blue.html
+- [x] outemu-dustproof-blue | Outemu Dustproof Blue | https://keybumps.com/switches/outemu-dustproof-blue.html
 - [ ] outemu-blue | Outemu Blue | https://milktooth.com/products/switches/outemu-blue
-- [ ] gazzew-boba-u4tx | Gazzew Boba U4Tx | https://rndkbd.com/products/gazzew-boba-u4tx-half-thock-tactile-switches
-- [ ] gazzew-boba-u4-68g | Gazzew Boba U4 68g | https://pantheonkeys.com/products/gazzews-boba-u4-silent-tactile-switches
-- [ ] gazzew-boba-u4-62g | Gazzew Boba U4 62g | https://milktooth.com/comparisons/u4-vs-u4t
-- [ ] gazzew-boba-u4t-68g | Gazzew Boba U4T 68g | https://milktooth.com/products/u4t
-- [ ] gazzew-boba-u4t-62g | Gazzew Boba U4T 62g | https://milktooth.com/products/u4t
-- [ ] outemu-silent-forest-68g | Outemu Silent Forest 68g | https://keybumps.com/switches/outemu-silent-forest.html
-- [ ] outemu-silent-forest-62g | Outemu Silent Forest 62g | https://keybumps.com/switches/outemu-silent-forest.html
-- [ ] outemu-silent-sky-68g | Outemu Silent Sky 68g | https://1upkeyboards.com/shop/switches/set-packs/outemu-silent-sky-tactile-switches/
-- [ ] outemu-silent-sky-62g | Outemu Silent Sky 62g | https://1upkeyboards.com/shop/switches/set-packs/outemu-silent-sky-tactile-switches/
-- [ ] outemu-sky-68g | Outemu Sky 68g | https://flashquark.com/product/outemu-sky-switches/
-- [ ] outemu-sky-62g | Outemu Sky 62g | https://flashquark.com/product/outemu-sky-switches/
-- [ ] outemu-ice-v2-grey-75g | Outemu Ice V2 Grey 75g | https://keybumps.com/switches/outemu-ice-grey.html
-- [ ] outemu-ice-v2-dark-purple-68g | Outemu Ice V2 Dark Purple 68g | https://keybumps.com/switches/outemu-ice-dark-purple.html
+- [x] gazzew-boba-u4tx | Gazzew Boba U4Tx | https://rndkbd.com/products/gazzew-boba-u4tx-half-thock-tactile-switches
+- [x] gazzew-boba-u4-68g | Gazzew Boba U4 68g | https://pantheonkeys.com/products/gazzews-boba-u4-silent-tactile-switches
+- [x] gazzew-boba-u4-62g | Gazzew Boba U4 62g | https://milktooth.com/comparisons/u4-vs-u4t
+- [x] gazzew-boba-u4t-68g | Gazzew Boba U4T 68g | https://milktooth.com/products/u4t
+- [x] gazzew-boba-u4t-62g | Gazzew Boba U4T 62g | https://milktooth.com/products/u4t
+- [x] outemu-silent-forest-68g | Outemu Silent Forest 68g | https://keybumps.com/switches/outemu-silent-forest.html
+- [x] outemu-silent-forest-62g | Outemu Silent Forest 62g | https://keybumps.com/switches/outemu-silent-forest.html
+- [x] outemu-silent-sky-68g | Outemu Silent Sky 68g | https://1upkeyboards.com/shop/switches/set-packs/outemu-silent-sky-tactile-switches/
+- [x] outemu-silent-sky-62g | Outemu Silent Sky 62g | https://1upkeyboards.com/shop/switches/set-packs/outemu-silent-sky-tactile-switches/
+- [x] outemu-sky-68g | Outemu Sky 68g | https://flashquark.com/product/outemu-sky-switches/
+- [x] outemu-sky-62g | Outemu Sky 62g | https://flashquark.com/product/outemu-sky-switches/
+- [x] outemu-ice-v2-grey-75g | Outemu Ice V2 Grey 75g | https://keybumps.com/switches/outemu-ice-grey.html
+- [x] outemu-ice-v2-dark-purple-68g | Outemu Ice V2 Dark Purple 68g | https://keybumps.com/switches/outemu-ice-dark-purple.html
 - [ ] outemu-ice-v2-clear-62g | Outemu Ice V2 Clear 62g | https://flashquark.com/product/outemu-ice-switches/
 - [ ] outemu-feather-silent-tactile | Outemu Feather Silent Tactile | https://kbd.news/switch/Outemu-Feather-switch-281.html
-- [ ] outemu-kitty-silent-tactile | Outemu Kitty Silent Tactile | https://lumekeebs.com/products/outemu-kitty-silent-tactile-switches
-- [ ] outemu-silent-yellow-jade | Outemu Silent Yellow Jade | https://milktooth.com/products/outemu-silent-yellow-jade
+- [x] outemu-kitty-silent-tactile | Outemu Kitty Silent Tactile | https://lumekeebs.com/products/outemu-kitty-silent-tactile-switches
+- [x] outemu-silent-yellow-jade | Outemu Silent Yellow Jade | https://milktooth.com/products/outemu-silent-yellow-jade
 - [ ] outemu-silent-lemon-v2 | Outemu Silent Lemon V2 | https://lumekeebs.com/products/outemu-silent-lemon-tactile-v2-switches
 - [ ] outemu-silent-lime-v3 | Outemu Silent Lime V3 | https://unikeyboards.com/products/outemu-silent-lime-v3-tactile-switch-factory-lubed-10pcs
 - [ ] outemu-silent-lemon-v3 | Outemu Silent Lemon V3 | https://chosfox.com/products/outemu-silent-lemon-switch
-- [ ] outemu-tom | Outemu Tom | https://milktooth.com/products/outemu-tom
-- [ ] outemu-silent-grey | Outemu Silent Grey | https://milktooth.com/products/outemu-silent-grey
+- [x] outemu-tom | Outemu Tom | https://milktooth.com/products/outemu-tom
+- [x] outemu-silent-grey | Outemu Silent Grey | https://milktooth.com/products/outemu-silent-grey
 - [ ] outemu-cream-yellow-pro-v2 | Outemu Cream Yellow Pro V2 | https://pullingkeys.com/products/outemu-cream-yellow-pro-silent-tactile-switch-1
 - [ ] outemu-cream-yellow-pro | Outemu Cream Yellow Pro | https://kbd.news/switch/Outemu-Cream-Yellow-Pro-Silent-Tactile-Switches-switch-173.html
 - [ ] outemu-milk-tea | Outemu Milk Tea | https://milktooth.com/products/switches/outemu-milk-tea
 - [ ] outemu-frosted-leaves | Outemu Frosted Leaves | https://www.amazon.com/Seasons-Mechanical-Switches-Pre-lubed-Keyboard/dp/B0F6NFM34L
-- [ ] outemu-maple-leaf | Outemu Maple Leaf | https://milktooth.com/products/switches/outemu-maple-leaf
+- [x] outemu-maple-leaf | Outemu Maple Leaf | https://milktooth.com/products/switches/outemu-maple-leaf
 - [ ] outemu-panda | Outemu Panda | https://chosfox.com/products/outemu-panda-switch
-- [ ] outemu-ocean | Outemu Ocean | https://milktooth.com/products/switches/outemu-ocean
+- [x] outemu-ocean | Outemu Ocean | https://milktooth.com/products/switches/outemu-ocean
 - [ ] outemu-orange | Outemu Orange | https://keebworks.com/outemu-orange/
-- [ ] outemu-dustproof-purple | Outemu Dustproof Purple | https://keybumps.com/switches/outemu-dustproof-purple.html
+- [x] outemu-dustproof-purple | Outemu Dustproof Purple | https://keybumps.com/switches/outemu-dustproof-purple.html
 - [ ] outemu-purple | Outemu Purple | https://milktooth.com/products/outemu-purple
-- [ ] outemu-dustproof-brown | Outemu Dustproof Brown | https://keybumps.com/switches/outemu-dustproof-brown.html
-- [ ] outemu-brown | Outemu Brown | https://mechanicalkeyboards.com/products/outemu-brown-55g-tactile-plate-mount
-- [ ] gazzew-boba-lt-65g | Gazzew Boba LT 65g | https://www.thockking.com/products/gazzew-linear-thock-lt-switches
-- [ ] gazzew-boba-lt-55g | Gazzew Boba LT 55g | https://www.thockking.com/products/gazzew-linear-thock-lt-switches
-- [ ] outemu-butterfly-silent-linear | Outemu Butterfly Silent Linear | https://divinikey.com/products/outemu-butterfly-silent-linear-switches
+- [x] outemu-dustproof-brown | Outemu Dustproof Brown | https://keybumps.com/switches/outemu-dustproof-brown.html
+- [x] outemu-brown | Outemu Brown | https://mechanicalkeyboards.com/products/outemu-brown-55g-tactile-plate-mount
+- [x] gazzew-boba-lt-65g | Gazzew Boba LT 65g | https://www.thockking.com/products/gazzew-linear-thock-lt-switches
+- [x] gazzew-boba-lt-55g | Gazzew Boba LT 55g | https://www.thockking.com/products/gazzew-linear-thock-lt-switches
+- [x] outemu-butterfly-silent-linear | Outemu Butterfly Silent Linear | https://divinikey.com/products/outemu-butterfly-silent-linear-switches
 - [ ] outemu-silent-honey-peach-v3 | Outemu Silent Honey Peach V3 | https://kbd.news/switch/Outemu-Silent-Honey-Peach-V3-switch-134.html
-- [ ] outemu-silent-peach-v3 | Outemu Silent Peach V3 | https://milktooth.com/products/outemu-peach
-- [ ] outemu-silent-ocean | Outemu Silent Ocean | https://milktooth.com/products/outemu-silent-ocean
-- [ ] outemu-silent-white | Outemu Silent White | https://milktooth.com/products/outemu-silent-white
-- [ ] outemu-milk-peach | Outemu Milk Peach | https://milktooth.com/products/switches/outemu-milk-peach
+- [x] outemu-silent-peach-v3 | Outemu Silent Peach V3 | https://milktooth.com/products/outemu-peach
+- [x] outemu-silent-ocean | Outemu Silent Ocean | https://milktooth.com/products/outemu-silent-ocean
+- [x] outemu-silent-white | Outemu Silent White | https://milktooth.com/products/outemu-silent-white
+- [x] outemu-milk-peach | Outemu Milk Peach | https://milktooth.com/products/switches/outemu-milk-peach
 - [ ] outemu-cream-pink-pro-v2 | Outemu Cream Pink Pro V2 | https://pullingkeys.com/products/outemu-cream-pink-pro-linear-switch
-- [ ] outemu-cream-pink-pro | Outemu Cream Pink Pro | https://milktooth.com/products/outemu-cream-pink
-- [ ] outemu-cream-pink | Outemu Cream Pink | https://milktooth.com/products/switches/outemu-cream-pink
+- [x] outemu-cream-pink-pro | Outemu Cream Pink Pro | https://milktooth.com/products/outemu-cream-pink
+- [x] outemu-cream-pink | Outemu Cream Pink | https://milktooth.com/products/switches/outemu-cream-pink
 - [ ] outemu-samuume | Outemu Samuume | https://keeb-finder.com/switches/filter/brand-Outemu
 - [ ] outemu-miami-pink | Outemu Miami Pink | https://keeb-finder.com/switches/outemu-miami-pink-linear-switch
 - [ ] outemu-jadeite | Outemu Jadeite | https://www.yunzii.com/products/yunzii-outemu-jadeite-switch
-- [ ] outemu-cold-plum | Outemu Cold Plum | https://milktooth.com/products/outemu-cold-plum
-- [ ] outemu-lotus | Outemu Lotus | https://milktooth.com/products/switches/outemu-lotus
+- [x] outemu-cold-plum | Outemu Cold Plum | https://milktooth.com/products/outemu-cold-plum
+- [x] outemu-lotus | Outemu Lotus | https://milktooth.com/products/switches/outemu-lotus
 - [ ] outemu-crystal | Outemu Crystal | https://milktooth.com/products/switches/crystal
 - [ ] outemu-speed-silver | Outemu Speed Silver | https://keebworks.com/outemu-silver/
-- [ ] outemu-dustproof-black | Outemu Dustproof Black | https://keybumps.com/switches/outemu-dustproof-black.html
-- [ ] outemu-dustproof-red | Outemu Dustproof Red | https://milktooth.com/comparisons/outemu-dustproof-red-vs-outemu-red
-- [ ] outemu-black | Outemu Black | https://milktooth.com/products/outemu-black
-- [ ] outemu-red | Outemu Red | https://milktooth.com/products/outemu-red
+- [x] outemu-dustproof-black | Outemu Dustproof Black | https://keybumps.com/switches/outemu-dustproof-black.html
+- [x] outemu-dustproof-red | Outemu Dustproof Red | https://milktooth.com/comparisons/outemu-dustproof-red-vs-outemu-red
+- [x] outemu-black | Outemu Black | https://milktooth.com/products/outemu-black
+- [x] outemu-red | Outemu Red | https://milktooth.com/products/outemu-red
 
 ## SWK (16)
 
-- [ ] gopolar-yin | GoPolar Yin | https://divinikey.com/products/gopolar-yin-yang-switches
-- [ ] swk-owlab-ti-he-50g | SWK Owlab Ti HE 50g | https://divinikey.com/products/owlab-ti-he-linear-switches
-- [ ] swk-owlab-ti-he-40g | SWK Owlab Ti HE 40g | https://divinikey.com/products/owlab-ti-he-linear-switches
+- [x] gopolar-yin | GoPolar Yin | https://divinikey.com/products/gopolar-yin-yang-switches
+- [x] swk-owlab-ti-he-50g | SWK Owlab Ti HE 50g | https://divinikey.com/products/owlab-ti-he-linear-switches
+- [x] swk-owlab-ti-he-40g | SWK Owlab Ti HE 40g | https://divinikey.com/products/owlab-ti-he-linear-switches
 - [ ] swk-peony-he | SWK Peony HE | https://swagkeys.com/products/swagkeys-x-swk-peony-he-magnetic-switch
-- [ ] gopolar-yang | GoPolar Yang | https://divinikey.com/products/gopolar-yin-yang-switches
+- [x] gopolar-yang | GoPolar Yang | https://divinikey.com/products/gopolar-yin-yang-switches
 - [ ] swk-blue-whale | SWK Blue Whale | https://pressplayid.com/products/swk-blue-whale-linear-switch-60g-pcb-mount
 - [ ] swk-owlab-latte | SWK Owlab Latte | https://divinikey.com/products/owlab-latte-linear-switches
 - [ ] swk-ghost-dragon | SWK Ghost Dragon | https://keeb-finder.com/switches/swagkeys-x-captainsterling-swk-ghost-dragon-linear-switches
 - [ ] swk-toucan | SWK Toucan | https://www.deskhero.ca/products/sw-x-swk-toucan-linear-switch
 - [ ] swk-mocha-v2 | SWK Mocha V2 | https://qwertyqop.com/products/swk-mocha-switches
-- [ ] swk-cheddar | SWK Cheddar | https://mechanicalkeyboards.com/products/swk-cheddar-linear-pcb-mount-switch
-- [ ] swk-catmint | SWK Catmint | https://mechanicalkeyboards.com/products/swk-catmint-linear-pcb-mount-switch
+- [x] swk-cheddar | SWK Cheddar | https://mechanicalkeyboards.com/products/swk-cheddar-linear-pcb-mount-switch
+- [x] swk-catmint | SWK Catmint | https://mechanicalkeyboards.com/products/swk-catmint-linear-pcb-mount-switch
 - [ ] swk-ripple | SWK Ripple | https://www.theremingoat.com/blog/swk-ripple-switch-review
-- [ ] swk-jieum-v2-635g | SWK Jieum V2 63.5g | https://mechanicalkeyboards.com/products/swk-jieum-v2-50g-linear-pcb-mount
-- [ ] swk-jieum-v2-50g | SWK Jieum V2 50g | https://divinikey.com/products/swk-jieum-v2-linear-switches
+- [x] swk-jieum-v2-635g | SWK Jieum V2 63.5g | https://mechanicalkeyboards.com/products/swk-jieum-v2-50g-linear-pcb-mount
+- [x] swk-jieum-v2-50g | SWK Jieum V2 50g | https://divinikey.com/products/swk-jieum-v2-linear-switches
 - [ ] swk-neon-linear | SWK Neon Linear | https://divinikey.com/products/owlab-neon-linear-switches
 
 ## TTC (69)
 
-- [ ] ttc-uranus-esports | TTC Uranus eSports | https://mechkeys.com/products/ttc-uranus-magnetic-switches
-- [ ] ttc-uranus-standard | TTC Uranus Standard | https://mechanicalkeyboards.com/products/TTC-Uranus-Standard-Plate-Mount-Magnetic-HE-Switch
-- [ ] ttc-uranus-se | TTC Uranus SE | https://mechkeys.com/products/ttc-uranus-magnetic-switches
+- [x] ttc-uranus-esports | TTC Uranus eSports | https://mechkeys.com/products/ttc-uranus-magnetic-switches
+- [x] ttc-uranus-standard | TTC Uranus Standard | https://mechanicalkeyboards.com/products/TTC-Uranus-Standard-Plate-Mount-Magnetic-HE-Switch
+- [x] ttc-uranus-se | TTC Uranus SE | https://mechkeys.com/products/ttc-uranus-magnetic-switches
 - [ ] ttc-magneto-purple | TTC Magneto Purple | https://mechkeys.com/blogs/news/ttc-and-melgeek-announce-magneto-purple-a-new-magnetic-switch-with-high-speed-rail-style-design
 - [ ] ttc-gold-magnetic-he | TTC Gold Magnetic HE | https://mechkeys.com/products/ttc-gold-magnetic-switches
 - [ ] ttc-elf-king-he | TTC Elf King HE | https://mechanicalkeyboards.com/products/ttc-elf-king-plate-mount-magnetic-he-switch
@@ -915,145 +915,145 @@
 - [ ] ttc-pom-magneto-king | TTC POM Magneto King | https://mechanicalkeyboards.com/products/ttc-pom-king-plate-mount-magnetic-he-switch
 - [ ] ttc-rgb-magneto-king | TTC RGB Magneto King | https://kprepublic.com/products/ttc-magneto-rgb-switch-king-of-magnetic-switch-linear-for-magnetic-mechanical-keyboard-35g-100m-3-4mm
 - [ ] ttc-magneto-(king-of-magnetic) | TTC Magneto (King of Magnetic) | https://lumekeebs.com/products/ttc-king-magnetic-switch-hall-effect-linear-switches
-- [ ] ttc-x-helix-lab-skylar | TTC x Helix Lab Skylar | https://keybumps.com/switches/ttc-x-helix-lab-skylar.html
+- [x] ttc-x-helix-lab-skylar | TTC x Helix Lab Skylar | https://keybumps.com/switches/ttc-x-helix-lab-skylar.html
 - [ ] ttc-gold-blue-(brother) | TTC Gold Blue (Brother) | https://keebworks.com/ttc-gold-blue/
 - [ ] ttc-holy-panda | TTC Holy Panda | https://en.ttc9.com/product/177.html
-- [ ] ttc-heroic-panda | TTC Heroic Panda | https://keybumps.com/switches/ttc-heroic-panda.html
-- [ ] ttc-chaotic-panda | TTC Chaotic Panda | https://keybumps.com/switches/ttc-chaotic-panda.html
-- [ ] ttc-cyber-panda | TTC Cyber Panda | https://keybumps.com/switches/ttc-cyber-panda.html
+- [x] ttc-heroic-panda | TTC Heroic Panda | https://keybumps.com/switches/ttc-heroic-panda.html
+- [x] ttc-chaotic-panda | TTC Chaotic Panda | https://keybumps.com/switches/ttc-chaotic-panda.html
+- [x] ttc-cyber-panda | TTC Cyber Panda | https://keybumps.com/switches/ttc-cyber-panda.html
 - [ ] ttc-watermelon-milkshake | TTC Watermelon Milkshake | https://dangkeebs.com/products/ttc-watermelon-milkshake
 - [ ] ttc-silent-brown-v3 | TTC Silent Brown V3 | https://ttcswitches.com/products/ttc-silent-brown-keyswitch-v2-mechanical-keyboard-switches-linear-factory-pre-lubed-dust-proof-keyboard-switches
 - [ ] ttc-silent-brown-v2 | TTC Silent Brown V2 | https://chosfox.com/products/ttc-silent-brown-switch
-- [ ] ttc-bluish-white-v2-(silent) | TTC Bluish White V2 (Silent) | https://milktooth.com/products/switches/silent-bluish-white
+- [x] ttc-bluish-white-v2-(silent) | TTC Bluish White V2 (Silent) | https://milktooth.com/products/switches/silent-bluish-white
 - [ ] ttc-bluish-white-v1 | TTC Bluish White V1 | https://milktooth.com/products/bluish-white
-- [ ] ttc-gold-brown-pro | TTC Gold Brown Pro | https://milktooth.com/products/gold-brown-pro
-- [ ] ttc-gold-brown-v3 | TTC Gold Brown V3 | https://mechanicalkeyboards.com/products/ttc-golden-brown-v3-55g-tactile-plate-mount
+- [x] ttc-gold-brown-pro | TTC Gold Brown Pro | https://milktooth.com/products/gold-brown-pro
+- [x] ttc-gold-brown-v3 | TTC Gold Brown V3 | https://mechanicalkeyboards.com/products/ttc-golden-brown-v3-55g-tactile-plate-mount
 - [ ] ttc-gold-brown-v2 | TTC Gold Brown V2 | https://keebworks.com/ttc-gold-v2-brown/
 - [ ] ttc-gold-brown-v1 | TTC Gold Brown V1 | https://kprepublic.com/products/ttc-gold-brown-switch-3pin-rgb-smd-tactile-45g-force-mx-clone-switch-backlit
-- [ ] rk-x-ttc-colorful-yellow | RK x TTC Colorful Yellow | https://keybumps.com/switches/rk-x-ttc-colorful-yellow.html
-- [ ] rk-x-ttc-colorful-green | RK x TTC Colorful Green | https://keybumps.com/switches/rk-x-ttc-colorful-green.html
-- [ ] rk-x-ttc-colorful-red | RK x TTC Colorful Red | https://keybumps.com/switches/rk-x-ttc-colorful-red.html
+- [x] rk-x-ttc-colorful-yellow | RK x TTC Colorful Yellow | https://keybumps.com/switches/rk-x-ttc-colorful-yellow.html
+- [x] rk-x-ttc-colorful-green | RK x TTC Colorful Green | https://keybumps.com/switches/rk-x-ttc-colorful-green.html
+- [x] rk-x-ttc-colorful-red | RK x TTC Colorful Red | https://keybumps.com/switches/rk-x-ttc-colorful-red.html
 - [ ] ttc-rabbit-rgb | TTC Rabbit RGB | https://chosfox.com/products/ttc-rabbit-rgb-mechanical-switches
 - [ ] ttc-rabbit-og | TTC Rabbit OG | https://switchoddities.com/products/ttc-rabbit-og
 - [ ] ttc-silent-red-v3 | TTC Silent Red V3 | https://chosfox.com/products/ttc-silent-red-switch-v3
-- [ ] ttc-frozen-silent-v2 | TTC Frozen Silent V2 | https://milktooth.com/products/switches/silent-frozen
+- [x] ttc-frozen-silent-v2 | TTC Frozen Silent V2 | https://milktooth.com/products/switches/silent-frozen
 - [ ] ttc-frozen-silent-v1 | TTC Frozen Silent V1 | https://mechanicalkeyboards.com/products/ttc-frozen-silent-39g-linear-plate-mount
-- [ ] ttc-light-cloud-v2 | TTC Light Cloud V2 | https://lumekeebs.com/products/ttc-light-cloud-v2-silent-linear-switches
-- [ ] ttc-venus | TTC Venus | https://mechanicalkeyboards.com/products/ttc-venus-45g-linear-pcb-mount
-- [ ] ttc-neptune | TTC Neptune | https://mechanicalkeyboards.com/products/ttc-neptune-41g-linear-pcb-mount-switch
+- [x] ttc-light-cloud-v2 | TTC Light Cloud V2 | https://lumekeebs.com/products/ttc-light-cloud-v2-silent-linear-switches
+- [x] ttc-venus | TTC Venus | https://mechanicalkeyboards.com/products/ttc-venus-45g-linear-pcb-mount
+- [x] ttc-neptune | TTC Neptune | https://mechanicalkeyboards.com/products/ttc-neptune-41g-linear-pcb-mount-switch
 - [ ] ttc-new-moon | TTC New Moon | https://ttcswitches.com/products/ttc-new-moon-mechanical-keyboard-switches-factory-pre-lubed-dust-proof-keyboard-switches
 - [ ] ttc-iron-v2 | TTC Iron V2 | https://www.ttcswitches.com/products/ttc-iron-keyswitch-v2-modified-pom-mechanical-keyboard-switch-red-color-dustproof
-- [ ] ttc-tiger | TTC Tiger | https://mechanicalkeyboards.com/products/ttc-tiger-standard-45g-linear-pcb-mount
+- [x] ttc-tiger | TTC Tiger | https://mechanicalkeyboards.com/products/ttc-tiger-standard-45g-linear-pcb-mount
 - [ ] ttc-titan-heart | TTC Titan Heart | https://mechkeys.com/products/ttc-new-titan-heart-linear-mechanical-switches
-- [ ] ttc-heart | TTC Heart | https://mechanicalkeyboards.com/products/ttc-heart-42g-linear-plate-mount
+- [x] ttc-heart | TTC Heart | https://mechanicalkeyboards.com/products/ttc-heart-42g-linear-plate-mount
 - [ ] ttc-honey-v2 | TTC Honey V2 | https://mechkeys.com/products/ttc-honey-v2-switches
 - [ ] ttc-honey-v1 | TTC Honey V1 | https://milktooth.nu/products/switches/honey
 - [ ] ttc-wild-55g | TTC Wild 55g | https://www.theremingoat.com/blog/ttc-wild-switch-review
 - [ ] ttc-wild-42g | TTC Wild 42g | https://www.theremingoat.com/blog/ttc-wild-switch-review
-- [ ] ttc-hey | TTC HEY | https://divinikey.com/products/ttc-hey-linear-switches
-- [ ] ttc-ncr-v2 | TTC NCR V2 | https://keybumps.com/switches/ttc-ncr-v2.html
-- [ ] ttc-ace | TTC ACE | https://mechanicalkeyboards.com/products/ttc-ace-60g-linear-pcb-mount
+- [x] ttc-hey | TTC HEY | https://divinikey.com/products/ttc-hey-linear-switches
+- [x] ttc-ncr-v2 | TTC NCR V2 | https://keybumps.com/switches/ttc-ncr-v2.html
+- [x] ttc-ace | TTC ACE | https://mechanicalkeyboards.com/products/ttc-ace-60g-linear-pcb-mount
 - [ ] ttc-blaze-silver | TTC Blaze Silver | https://ttcswitches.com/products/ttc-blaze-silver-switch-dual-spring-linear-5pin-fast-factory-pre-lube-mechanical-keyboard-switch-hifi-style
-- [ ] ttc-fast-silver-hifi | TTC Fast Silver HiFi | https://lumekeebs.com/products/ttc-fast-silver-hifi-linear-switches
+- [x] ttc-fast-silver-hifi | TTC Fast Silver HiFi | https://lumekeebs.com/products/ttc-fast-silver-hifi-linear-switches
 - [ ] ttc-speed-gold-v3 | TTC Speed Gold V3 | https://ttcswitches.com/products/ttc-speed-gold-v3-mechanical-switch-hifi-style-new-arrival
 - [ ] ttc-speed-gold-v2 | TTC Speed Gold V2 | https://switchoddities.com/products/ttc-speed-gold-v2
-- [ ] ttc-speed-silver-v2 | TTC Speed Silver V2 | https://keybumps.com/switches/ttc-speed-silver.html
-- [ ] ttc-speed-silver-v1 | TTC Speed Silver V1 | https://milktooth.com/products/speed-silver
+- [x] ttc-speed-silver-v2 | TTC Speed Silver V2 | https://keybumps.com/switches/ttc-speed-silver.html
+- [x] ttc-speed-silver-v1 | TTC Speed Silver V1 | https://milktooth.com/products/speed-silver
 - [ ] ttc-flaming-orange | TTC Flaming Orange | https://mechkeys.com/blogs/news/ttc-introduces-all-new-flaming-orange-pom-material-switches
-- [ ] ttc-flaming-pink | TTC Flaming Pink | https://milktooth.com/products/flaming-pink
+- [x] ttc-flaming-pink | TTC Flaming Pink | https://milktooth.com/products/flaming-pink
 - [ ] ttc-flaming-snow-v2 | TTC Flaming Snow V2 | https://mechkeys.com/products/ttc-flaming-snow-v2-flaming-purple-v2-switch
-- [ ] ttc-flaming-purple-v2 | TTC Flaming Purple V2 | https://mechanicalkeyboards.com/products/ttc-flaming-purple-42g-linear-pcb-mount
+- [x] ttc-flaming-purple-v2 | TTC Flaming Purple V2 | https://mechanicalkeyboards.com/products/ttc-flaming-purple-42g-linear-pcb-mount
 - [ ] ttc-flaming-red-v2 | TTC Flaming Red V2 | https://ttcswitches.com/products/ttc-flaming-red-v2-linear-high-quality-elastic-and-rgb-gaming-soft-smooth-mechanical-gaming-keyboard
-- [ ] ttc-flame-red | TTC Flame Red | https://mechanicalkeyboards.com/products/ttc-flame-red-45g-linear-plate-mount
-- [ ] ttc-gold-silver | TTC Gold Silver | https://milktooth.com/products/gold-silver
-- [ ] ttc-gold-red-pro | TTC Gold Red Pro | https://milktooth.com/products/gold-red-pro
-- [ ] ttc-gold-red-v3 | TTC Gold Red V3 | https://mechanicalkeyboards.com/products/ttc-golden-red-v3-43g-linear-plate-mount
-- [ ] ttc-gold-red | TTC Gold Red | https://milktooth.com/products/switches/gold-red
+- [x] ttc-flame-red | TTC Flame Red | https://mechanicalkeyboards.com/products/ttc-flame-red-45g-linear-plate-mount
+- [x] ttc-gold-silver | TTC Gold Silver | https://milktooth.com/products/gold-silver
+- [x] ttc-gold-red-pro | TTC Gold Red Pro | https://milktooth.com/products/gold-red-pro
+- [x] ttc-gold-red-v3 | TTC Gold Red V3 | https://mechanicalkeyboards.com/products/ttc-golden-red-v3-43g-linear-plate-mount
+- [x] ttc-gold-red | TTC Gold Red | https://milktooth.com/products/switches/gold-red
 - [ ] ttc-gold-pink-v3 | TTC Gold Pink V3 | https://ttcswitches.com/products/ttc-5-pins-37gf-hifi-keyswitch-anti-oxidation-durability-v3-version-gold-pink-mechanical-keyswitch
 - [ ] ttc-gold-pink-v2 | TTC Gold Pink V2 | https://keybumps.com/switches/ttc-gold-pink-v2.html
-- [ ] ttc-gold-pink-v1 | TTC Gold Pink V1 | https://milktooth.com/products/switches/gold-pink
+- [x] ttc-gold-pink-v1 | TTC Gold Pink V1 | https://milktooth.com/products/switches/gold-pink
 
 ## Tecsee (34)
 
 - [ ] tecsee-magnetic-gel-pad | Tecsee Magnetic Gel Pad | https://tecseekeys.store/products/tecsee-gel-pad-noise-reduction-free-setting-pre-travel-electro-capacitive-ec-2-in-1-mechanical-keyboard-magnetic-mute-switches
 - [ ] tecsee-salmon | Tecsee Salmon | https://kineticlabs.com/switches/tecsee/tecsee-salmon-switches
-- [ ] tecsee-medium-tactile | Tecsee Medium Tactile | https://divinikey.com/products/tecsee-medium-switches
-- [ ] tecsee-blue-sky-tactile | Tecsee Blue Sky Tactile | https://keeb-finder.com/switches/tecsee-blue-sky-tactile
-- [ ] tecsee-ice-milk | Tecsee Ice Milk | https://divinikey.com/products/tecsee-ice-milk-tactile-switches
-- [ ] tecsee-mango-ice | Tecsee Mango Ice | https://divinikey.com/products/tecsee-mango-ice-tactile-switches
-- [ ] tecsee-sapphire-v2 | Tecsee Sapphire V2 | https://divinikey.com/products/tecsee-sapphire-v2-tactile-switches
+- [x] tecsee-medium-tactile | Tecsee Medium Tactile | https://divinikey.com/products/tecsee-medium-switches
+- [x] tecsee-blue-sky-tactile | Tecsee Blue Sky Tactile | https://keeb-finder.com/switches/tecsee-blue-sky-tactile
+- [x] tecsee-ice-milk | Tecsee Ice Milk | https://divinikey.com/products/tecsee-ice-milk-tactile-switches
+- [x] tecsee-mango-ice | Tecsee Mango Ice | https://divinikey.com/products/tecsee-mango-ice-tactile-switches
+- [x] tecsee-sapphire-v2 | Tecsee Sapphire V2 | https://divinikey.com/products/tecsee-sapphire-v2-tactile-switches
 - [ ] tecsee-sapphire-(tactile) | Tecsee Sapphire (Tactile) | https://thocstock.com/switches/tecsee-sapphire
-- [ ] tecsee-purple-panda | Tecsee Purple Panda | https://divinikey.com/products/tecsee-purple-panda-tactile-switches
-- [ ] tecsee-coral | Tecsee Coral | https://divinikey.com/products/tecsee-coral-tactile-switches
-- [ ] tecsee-medium-linear | Tecsee Medium Linear | https://divinikey.com/products/tecsee-medium-switches
-- [ ] tecsee-blue-sky-linear | Tecsee Blue Sky Linear | https://kprepublic.com/products/tecsee-blue-sky-bluesky-linear-tactile-switch-5pin-rgb-smd-63-5g-mx-switch-for-mechanical-keyboard-60m-gold-sping-pom-hpe
+- [x] tecsee-purple-panda | Tecsee Purple Panda | https://divinikey.com/products/tecsee-purple-panda-tactile-switches
+- [x] tecsee-coral | Tecsee Coral | https://divinikey.com/products/tecsee-coral-tactile-switches
+- [x] tecsee-medium-linear | Tecsee Medium Linear | https://divinikey.com/products/tecsee-medium-switches
+- [x] tecsee-blue-sky-linear | Tecsee Blue Sky Linear | https://kprepublic.com/products/tecsee-blue-sky-bluesky-linear-tactile-switch-5pin-rgb-smd-63-5g-mx-switch-for-mechanical-keyboard-60m-gold-sping-pom-hpe
 - [ ] tecsee-safety | Tecsee Safety | https://keeb-finder.com/switches/goju-works-x-tecsee-safety-linear
 - [ ] tecsee-marshmallow | Tecsee Marshmallow | https://keeb-finder.com/switches/tecsee-marshmallow-linear
 - [ ] tecsee-christmas-dolphin | Tecsee Christmas Dolphin | https://keeb-finder.com/switches/tecsee-christmas-dolphin-linear
 - [ ] tecsee-christmas-rabbit | Tecsee Christmas Rabbit | https://keeb-finder.com/switches/tecsee-christmas-rabbit-linear
 - [ ] tecsee-blue-balloon | Tecsee Blue Balloon | https://keeb-finder.com/switches/tecsee-blue-balloon-linear
-- [ ] tecsee-eminence | Tecsee Eminence | https://kprepublic.com/products/tecsee-eminence-linear-switch-5pin-rgb-smd-45g-60g-mx-switch-for-gaming-mechanical-keyboard-pom-hpe-slightly-lubed
-- [ ] tecsee-loong-50g | Tecsee Loong 50g | https://kprepublic.com/products/tecsee-loong-switch-linear-switch-mx-stem-for-gaming-mechanical-keyboard-pa666-nylon-pa66-hpe-long-spring-42g-50g
-- [ ] tecsee-loong-42g | Tecsee Loong 42g | https://kprepublic.com/products/tecsee-loong-switch-linear-switch-mx-stem-for-gaming-mechanical-keyboard-pa666-nylon-pa66-hpe-long-spring-42g-50g
-- [ ] tecsee-lake-blue | Tecsee Lake Blue | https://divinikey.com/products/tecsee-lake-blue-switches
-- [ ] tecsee-raw | Tecsee Raw | https://divinikey.com/products/tecsee-raw-linear-switches
-- [ ] tecsee-oreo | Tecsee Oreo | https://divinikey.com/products/tecsee-oreo-linear-switches
-- [ ] tecsee-carrot | Tecsee Carrot | https://divinikey.com/products/tecsee-carrot-linear-switches
+- [x] tecsee-eminence | Tecsee Eminence | https://kprepublic.com/products/tecsee-eminence-linear-switch-5pin-rgb-smd-45g-60g-mx-switch-for-gaming-mechanical-keyboard-pom-hpe-slightly-lubed
+- [x] tecsee-loong-50g | Tecsee Loong 50g | https://kprepublic.com/products/tecsee-loong-switch-linear-switch-mx-stem-for-gaming-mechanical-keyboard-pa666-nylon-pa66-hpe-long-spring-42g-50g
+- [x] tecsee-loong-42g | Tecsee Loong 42g | https://kprepublic.com/products/tecsee-loong-switch-linear-switch-mx-stem-for-gaming-mechanical-keyboard-pa666-nylon-pa66-hpe-long-spring-42g-50g
+- [x] tecsee-lake-blue | Tecsee Lake Blue | https://divinikey.com/products/tecsee-lake-blue-switches
+- [x] tecsee-raw | Tecsee Raw | https://divinikey.com/products/tecsee-raw-linear-switches
+- [x] tecsee-oreo | Tecsee Oreo | https://divinikey.com/products/tecsee-oreo-linear-switches
+- [x] tecsee-carrot | Tecsee Carrot | https://divinikey.com/products/tecsee-carrot-linear-switches
 - [ ] tecsee-sapphire | Tecsee Sapphire | https://keeb-finder.com/switches/tecsee-sapphire-linear
-- [ ] tecsee-ruby-v2 | Tecsee Ruby V2 | https://divinikey.com/products/tecsee-ruby-v2-linear-switches
+- [x] tecsee-ruby-v2 | Tecsee Ruby V2 | https://divinikey.com/products/tecsee-ruby-v2-linear-switches
 - [ ] tecsee-ruby | Tecsee Ruby | https://keeb-finder.com/switches/tecsee-ruby-linear
-- [ ] tecsee-diamond-(jadeite) | Tecsee Diamond (Jadeite) | https://divinikey.com/products/tecsee-diamond-linear-switches
-- [ ] tecsee-ice-strawberry | Tecsee Ice Strawberry | https://divinikey.com/products/tecsee-strawberry-ice-linear-switches
-- [ ] tecsee-ice-grass | Tecsee Ice Grass | https://divinikey.com/products/tecsee-ice-grass-linear-switches
-- [ ] tecsee-ice-mint | Tecsee Ice Mint | https://divinikey.com/products/tecsee-ice-mint-linear-switches
-- [ ] tecsee-ice-grape | Tecsee Ice Grape | https://kprepublic.com/products/tecsee-ice-grape-linear-switch-5pin-rgb-smd-63-5g-force-mx-switch-for-mechanical-keyboard-60m-gold-sping-pc-housing-uhmwpe
-- [ ] tecsee-ice-candy-(uhmwpe) | Tecsee Ice Candy (UHMWPE) | https://divinikey.com/products/tecsee-ice-candy-linear-switches
-- [ ] tecsee-ice-candy-(nylon) | Tecsee Ice Candy (Nylon) | https://divinikey.com/products/tecsee-ice-candy-linear-switches
+- [x] tecsee-diamond-(jadeite) | Tecsee Diamond (Jadeite) | https://divinikey.com/products/tecsee-diamond-linear-switches
+- [x] tecsee-ice-strawberry | Tecsee Ice Strawberry | https://divinikey.com/products/tecsee-strawberry-ice-linear-switches
+- [x] tecsee-ice-grass | Tecsee Ice Grass | https://divinikey.com/products/tecsee-ice-grass-linear-switches
+- [x] tecsee-ice-mint | Tecsee Ice Mint | https://divinikey.com/products/tecsee-ice-mint-linear-switches
+- [x] tecsee-ice-grape | Tecsee Ice Grape | https://kprepublic.com/products/tecsee-ice-grape-linear-switch-5pin-rgb-smd-63-5g-force-mx-switch-for-mechanical-keyboard-60m-gold-sping-pc-housing-uhmwpe
+- [x] tecsee-ice-candy-(uhmwpe) | Tecsee Ice Candy (UHMWPE) | https://divinikey.com/products/tecsee-ice-candy-linear-switches
+- [x] tecsee-ice-candy-(nylon) | Tecsee Ice Candy (Nylon) | https://divinikey.com/products/tecsee-ice-candy-linear-switches
 
 ## WEKT (9)
 
-- [ ] wekt-initial-rise | WEKT Initial Rise | https://switchoddities.com/products/wekt-initial-rise
-- [ ] wekt-xcjz-green-mustard-w | WEKT XCJZ Green Mustard W | https://unikeyboards.com/products/wekt-xcjz-green-mustard-w-linear-switch-10-pcs
-- [ ] wekt-wasabi | WEKT Wasabi | https://kprepublic.com/products/wekt-wasabi-switch-linear-rgb-smd-5pin-42g-55g-for-mechanical-keyboard-p1-mixed-pa-pom-hifi-factory-pre-lubed-15mm
-- [ ] wekt-wild-gardenia | WEKT Wild Gardenia | https://mechanicalkeyboards.com/products/wekt-wild-gardenia-linear-45g-plate-mount-switch
+- [x] wekt-initial-rise | WEKT Initial Rise | https://switchoddities.com/products/wekt-initial-rise
+- [x] wekt-xcjz-green-mustard-w | WEKT XCJZ Green Mustard W | https://unikeyboards.com/products/wekt-xcjz-green-mustard-w-linear-switch-10-pcs
+- [x] wekt-wasabi | WEKT Wasabi | https://kprepublic.com/products/wekt-wasabi-switch-linear-rgb-smd-5pin-42g-55g-for-mechanical-keyboard-p1-mixed-pa-pom-hifi-factory-pre-lubed-15mm
+- [x] wekt-wild-gardenia | WEKT Wild Gardenia | https://mechanicalkeyboards.com/products/wekt-wild-gardenia-linear-45g-plate-mount-switch
 - [ ] sw-kunzite | SW Kunzite | https://swagkeys.com/products/sw-kunzite-silent
-- [ ] wekt-nafu | WEKT Nafu | https://divinikey.com/products/wekt-nafu-silent-linear-switches
+- [x] wekt-nafu | WEKT Nafu | https://divinikey.com/products/wekt-nafu-silent-linear-switches
 - [ ] xcjz-x-wekt-lucy-r5 | XCJZ x WEKT Lucy R5 | https://keeb-finder.com/switches/xcjz-lucy-v3-silent-linear-switches
-- [ ] wekt-lucy-r5 | WEKT Lucy R5 | https://unikeyboards.com/products/wekt-lucy-r5-silent-linear-switch-factory-lubed-10pcs
-- [ ] wekt-lucy-v5-(gentle-lucy-v5) | WEKT Lucy V5 (Gentle Lucy V5) | https://divinikey.com/products/lichicx-lucy-silent-linear-switches
+- [x] wekt-lucy-r5 | WEKT Lucy R5 | https://unikeyboards.com/products/wekt-lucy-r5-silent-linear-switch-factory-lubed-10pcs
+- [x] wekt-lucy-v5-(gentle-lucy-v5) | WEKT Lucy V5 (Gentle Lucy V5) | https://divinikey.com/products/lichicx-lucy-silent-linear-switches
 
 ## Wingtree (30)
 
-- [ ] wingtree-x-lichicx-yamatake-silent-53g | Wingtree x Lichicx Yamatake Silent 53g | https://unikeyboards.com/collections/wingtree
-- [ ] wingtree-x-lichicx-yamatake-silent-42g | Wingtree x Lichicx Yamatake Silent 42g | https://unikeyboards.com/collections/wingtree
-- [ ] wingtree-puer-tea-58g | Wingtree Puer Tea 58g | https://unikeyboards.com/products/wingtree-puer-tea-light-tactile-switch-factory-lubed-10pcs
-- [ ] wingtree-puer-tea-52g | Wingtree Puer Tea 52g | https://unikeyboards.com/products/wingtree-puer-tea-light-tactile-switch-factory-lubed-10pcs
-- [ ] wingtree-puer-tea-48g | Wingtree Puer Tea 48g | https://unikeyboards.com/products/wingtree-puer-tea-light-tactile-switch-factory-lubed-10pcs
-- [ ] wingtree-bm11 | Wingtree BM11 | https://divinikey.com/products/wingtree-bm-11-tactile-switches
-- [ ] wingtree-bm10 | Wingtree BM10 | https://unikeyboards.com/products/wingtree-bm10-tactile-switch-factory-lubed-10pcs
-- [ ] wingtree-qingyan | Wingtree Qingyan | https://divinikey.com/products/wingtree-qingyan-tactile-switches
-- [ ] wingtree-yunie-tactile-635g | Wingtree Yunie Tactile 63.5g | https://unikeyboards.com/products/wingtree-yunie-tactile-switch-factory-lubed-10pcs
-- [ ] wingtree-yunie-tactile-60g | Wingtree Yunie Tactile 60g | https://unikeyboards.com/products/wingtree-yunie-tactile-switch-factory-lubed-10pcs
-- [ ] wingtree-yuying-light-tactile | Wingtree Yuying Light Tactile | https://unikeyboards.com/products/wingtree-yuying-light-tactile-switch-factory-lubed-10pcs
+- [x] wingtree-x-lichicx-yamatake-silent-53g | Wingtree x Lichicx Yamatake Silent 53g | https://unikeyboards.com/collections/wingtree
+- [x] wingtree-x-lichicx-yamatake-silent-42g | Wingtree x Lichicx Yamatake Silent 42g | https://unikeyboards.com/collections/wingtree
+- [x] wingtree-puer-tea-58g | Wingtree Puer Tea 58g | https://unikeyboards.com/products/wingtree-puer-tea-light-tactile-switch-factory-lubed-10pcs
+- [x] wingtree-puer-tea-52g | Wingtree Puer Tea 52g | https://unikeyboards.com/products/wingtree-puer-tea-light-tactile-switch-factory-lubed-10pcs
+- [x] wingtree-puer-tea-48g | Wingtree Puer Tea 48g | https://unikeyboards.com/products/wingtree-puer-tea-light-tactile-switch-factory-lubed-10pcs
+- [x] wingtree-bm11 | Wingtree BM11 | https://divinikey.com/products/wingtree-bm-11-tactile-switches
+- [x] wingtree-bm10 | Wingtree BM10 | https://unikeyboards.com/products/wingtree-bm10-tactile-switch-factory-lubed-10pcs
+- [x] wingtree-qingyan | Wingtree Qingyan | https://divinikey.com/products/wingtree-qingyan-tactile-switches
+- [x] wingtree-yunie-tactile-635g | Wingtree Yunie Tactile 63.5g | https://unikeyboards.com/products/wingtree-yunie-tactile-switch-factory-lubed-10pcs
+- [x] wingtree-yunie-tactile-60g | Wingtree Yunie Tactile 60g | https://unikeyboards.com/products/wingtree-yunie-tactile-switch-factory-lubed-10pcs
+- [x] wingtree-yuying-light-tactile | Wingtree Yuying Light Tactile | https://unikeyboards.com/products/wingtree-yuying-light-tactile-switch-factory-lubed-10pcs
 - [ ] wingtree-yuci-he | Wingtree Yuci HE | https://keeb-finder.com/switches/wingtree-yuci-he-magnetic-gaming-switch-factory-lubed-10pcs
-- [ ] wingtree-x-lichicx-pink-pink-45g | Wingtree x Lichicx Pink Pink 45g | https://divinikey.com/products/wingtree-pink-pink-silent-linear-switches
-- [ ] wingtree-x-lichicx-pink-pink-40g | Wingtree x Lichicx Pink Pink 40g | https://divinikey.com/products/wingtree-pink-pink-silent-linear-switches
-- [ ] wingtree-x-lichicx-yogurt-silent-53g | Wingtree x Lichicx Yogurt Silent 53g | https://unikeyboards.com/products/wingtree-x-lichicx-yogurt-silent-linear-switch-factory-lubed-edition-10pcs
-- [ ] wingtree-x-lichicx-yogurt-silent-42g | Wingtree x Lichicx Yogurt Silent 42g | https://unikeyboards.com/products/wingtree-x-lichicx-yogurt-silent-linear-switch-factory-lubed-edition-10pcs
-- [ ] wingtree-camellia-58g | Wingtree Camellia 58g | https://unikeyboards.com/products/wingtree-camellia-linear-switch-factory-lubed-10pcs
-- [ ] wingtree-camellia-52g | Wingtree Camellia 52g | https://unikeyboards.com/products/wingtree-camellia-linear-switch-factory-lubed-10pcs
-- [ ] wingtree-camellia-48g | Wingtree Camellia 48g | https://unikeyboards.com/products/wingtree-camellia-linear-switch-factory-lubed-10pcs
-- [ ] wingtree-g-one-55g | Wingtree G One 55g | https://unikeyboards.com/products/wingtree-g-one-linear-switch-factory-lubed-10pcs
-- [ ] wingtree-g-one-47g | Wingtree G One 47g | https://unikeyboards.com/products/wingtree-g-one-linear-switch-factory-lubed-10pcs
-- [ ] wingtree-g-one-42g | Wingtree G One 42g | https://unikeyboards.com/products/wingtree-g-one-linear-switch-factory-lubed-10pcs
-- [ ] wingtree-km17 | Wingtree KM17 | https://unikeyboards.com/products/wingtree-km16-linear-switch-factory-lubed-10pcs
-- [ ] wingtree-km16 | Wingtree KM16 | https://monacokeys.de/en/products/wingtree-km16-linear-switches
+- [x] wingtree-x-lichicx-pink-pink-45g | Wingtree x Lichicx Pink Pink 45g | https://divinikey.com/products/wingtree-pink-pink-silent-linear-switches
+- [x] wingtree-x-lichicx-pink-pink-40g | Wingtree x Lichicx Pink Pink 40g | https://divinikey.com/products/wingtree-pink-pink-silent-linear-switches
+- [x] wingtree-x-lichicx-yogurt-silent-53g | Wingtree x Lichicx Yogurt Silent 53g | https://unikeyboards.com/products/wingtree-x-lichicx-yogurt-silent-linear-switch-factory-lubed-edition-10pcs
+- [x] wingtree-x-lichicx-yogurt-silent-42g | Wingtree x Lichicx Yogurt Silent 42g | https://unikeyboards.com/products/wingtree-x-lichicx-yogurt-silent-linear-switch-factory-lubed-edition-10pcs
+- [x] wingtree-camellia-58g | Wingtree Camellia 58g | https://unikeyboards.com/products/wingtree-camellia-linear-switch-factory-lubed-10pcs
+- [x] wingtree-camellia-52g | Wingtree Camellia 52g | https://unikeyboards.com/products/wingtree-camellia-linear-switch-factory-lubed-10pcs
+- [x] wingtree-camellia-48g | Wingtree Camellia 48g | https://unikeyboards.com/products/wingtree-camellia-linear-switch-factory-lubed-10pcs
+- [x] wingtree-g-one-55g | Wingtree G One 55g | https://unikeyboards.com/products/wingtree-g-one-linear-switch-factory-lubed-10pcs
+- [x] wingtree-g-one-47g | Wingtree G One 47g | https://unikeyboards.com/products/wingtree-g-one-linear-switch-factory-lubed-10pcs
+- [x] wingtree-g-one-42g | Wingtree G One 42g | https://unikeyboards.com/products/wingtree-g-one-linear-switch-factory-lubed-10pcs
+- [x] wingtree-km17 | Wingtree KM17 | https://unikeyboards.com/products/wingtree-km16-linear-switch-factory-lubed-10pcs
+- [x] wingtree-km16 | Wingtree KM16 | https://monacokeys.de/en/products/wingtree-km16-linear-switches
 - [ ] wingtree-vdv | Wingtree VDV | https://keeb-finder.com/switches/wingtree-vdv-linear-switches
 - [ ] wingtree-coral | Wingtree Coral | https://keeb-finder.com/switches/wingtree-coral-linear-switches
-- [ ] wingtree-277 | Wingtree 277 | https://milktooth.com/products/277
-- [ ] wingtree-yunie-linear-60g | Wingtree Yunie Linear 60g | https://unikeyboards.com/products/wingtree-yunie-linear-switch-factory-lubed-10pcs
-- [ ] wingtree-yunie-linear-50g | Wingtree Yunie Linear 50g | https://thoccexchange.com/products/wingtree-yunie-linear-switch-10-pack
-- [ ] wingtree-yuying-linear | Wingtree Yuying Linear | https://keeb-finder.com/switches/wingtree-yuying-40g-linear-pcb-mount-switch
+- [x] wingtree-277 | Wingtree 277 | https://milktooth.com/products/277
+- [x] wingtree-yunie-linear-60g | Wingtree Yunie Linear 60g | https://unikeyboards.com/products/wingtree-yunie-linear-switch-factory-lubed-10pcs
+- [x] wingtree-yunie-linear-50g | Wingtree Yunie Linear 50g | https://thoccexchange.com/products/wingtree-yunie-linear-switch-10-pack
+- [x] wingtree-yuying-linear | Wingtree Yuying Linear | https://keeb-finder.com/switches/wingtree-yuying-40g-linear-pcb-mount-switch
 
 ## Wooting (4)
 
@@ -1064,5 +1064,5 @@
 
 ## Wuque Studio (1)
 
-- [ ] ws-dash-he | WS Dash HE | https://divinikey.com/products/wuque-dash-he-switches
+- [x] ws-dash-he | WS Dash HE | https://divinikey.com/products/wuque-dash-he-switches
 
