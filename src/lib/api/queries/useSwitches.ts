@@ -32,6 +32,14 @@ export const useSearchSwitches = (filters: SwitchFilters) => {
     params.set('actuationMin', String(filters.actuationMin));
   if (filters.actuationMax !== undefined)
     params.set('actuationMax', String(filters.actuationMax));
+  if (filters.initialMin !== undefined)
+    params.set('initialMin', String(filters.initialMin));
+  if (filters.initialMax !== undefined)
+    params.set('initialMax', String(filters.initialMax));
+  if (filters.bottomMin !== undefined)
+    params.set('bottomMin', String(filters.bottomMin));
+  if (filters.bottomMax !== undefined)
+    params.set('bottomMax', String(filters.bottomMax));
   if (filters.travelMin !== undefined)
     params.set('travelMin', String(filters.travelMin));
   if (filters.travelMax !== undefined)

@@ -53,6 +53,8 @@
     "silent": "저소음",
     "factoryLubed": "공장 윤활",
     "actuationForceRange": "입력압 범위",
+    "initialForceRange": "초기압 범위",
+    "bottomForceRange": "바닥압 범위",
     "travelRange": "트래블 범위",
     "reset": "필터 초기화",
     "searchPlaceholder": "스위치 이름으로 검색..."

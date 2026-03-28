@@ -29,6 +29,18 @@ export const GET = async (request: NextRequest) => {
       actuationMax: searchParams.get('actuationMax')
         ? Number(searchParams.get('actuationMax'))
         : undefined,
+      initialMin: searchParams.get('initialMin')
+        ? Number(searchParams.get('initialMin'))
+        : undefined,
+      initialMax: searchParams.get('initialMax')
+        ? Number(searchParams.get('initialMax'))
+        : undefined,
+      bottomMin: searchParams.get('bottomMin')
+        ? Number(searchParams.get('bottomMin'))
+        : undefined,
+      bottomMax: searchParams.get('bottomMax')
+        ? Number(searchParams.get('bottomMax'))
+        : undefined,
       travelMin: searchParams.get('travelMin')
         ? Number(searchParams.get('travelMin'))
         : undefined,

@@ -37,6 +37,18 @@ const parseFiltersFromParams = (
   actuationMax: searchParams.get('actuationMax')
     ? Number(searchParams.get('actuationMax'))
     : undefined,
+  initialMin: searchParams.get('initialMin')
+    ? Number(searchParams.get('initialMin'))
+    : undefined,
+  initialMax: searchParams.get('initialMax')
+    ? Number(searchParams.get('initialMax'))
+    : undefined,
+  bottomMin: searchParams.get('bottomMin')
+    ? Number(searchParams.get('bottomMin'))
+    : undefined,
+  bottomMax: searchParams.get('bottomMax')
+    ? Number(searchParams.get('bottomMax'))
+    : undefined,
   travelMin: searchParams.get('travelMin')
     ? Number(searchParams.get('travelMin'))
     : undefined,
@@ -60,6 +72,14 @@ const filtersToParams = (filters: SwitchFilters): string => {
     params.set('actuationMin', String(filters.actuationMin));
   if (filters.actuationMax !== undefined)
     params.set('actuationMax', String(filters.actuationMax));
+  if (filters.initialMin !== undefined)
+    params.set('initialMin', String(filters.initialMin));
+  if (filters.initialMax !== undefined)
+    params.set('initialMax', String(filters.initialMax));
+  if (filters.bottomMin !== undefined)
+    params.set('bottomMin', String(filters.bottomMin));
+  if (filters.bottomMax !== undefined)
+    params.set('bottomMax', String(filters.bottomMax));
   if (filters.travelMin !== undefined)
     params.set('travelMin', String(filters.travelMin));
   if (filters.travelMax !== undefined)

@@ -49,6 +49,10 @@ export interface SwitchFilters {
   factoryLubed?: boolean;
   actuationMin?: number;
   actuationMax?: number;
+  initialMin?: number;
+  initialMax?: number;
+  bottomMin?: number;
+  bottomMax?: number;
   travelMin?: number;
   travelMax?: number;
 }

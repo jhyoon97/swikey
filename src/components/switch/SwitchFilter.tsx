@@ -61,6 +61,8 @@ type FilterCategory =
   | 'factoryLubed'
   | 'manufacturer'
   | 'actuation'
+  | 'initial'
+  | 'bottom'
   | 'travel';
 
 const SwitchFilter = ({
@@ -94,6 +96,10 @@ const SwitchFilter = ({
     draft.factoryLubed !== undefined ||
     draft.actuationMin ||
     draft.actuationMax ||
+    draft.initialMin ||
+    draft.initialMax ||
+    draft.bottomMin ||
+    draft.bottomMax ||
     draft.travelMin ||
     draft.travelMax;
 
@@ -115,6 +121,10 @@ const SwitchFilter = ({
         return !!draft.manufacturer;
       case 'actuation':
         return !!draft.actuationMin || !!draft.actuationMax;
+      case 'initial':
+        return !!draft.initialMin || !!draft.initialMax;
+      case 'bottom':
+        return !!draft.bottomMin || !!draft.bottomMax;
       case 'travel':
         return !!draft.travelMin || !!draft.travelMax;
       default:
@@ -136,6 +146,10 @@ const SwitchFilter = ({
         return t('filter.manufacturer');
       case 'actuation':
         return t('filter.actuationForceRange');
+      case 'initial':
+        return t('filter.initialForceRange');
+      case 'bottom':
+        return t('filter.bottomForceRange');
       case 'travel':
         return t('filter.travelRange');
       default:
@@ -150,6 +164,8 @@ const SwitchFilter = ({
     'factoryLubed',
     ...(manufacturers.length > 0 ? (['manufacturer'] as const) : []),
     'actuation',
+    'initial',
+    'bottom',
     'travel',
   ];
 
@@ -279,6 +295,54 @@ const SwitchFilter = ({
             </div>
             <span className="text-sm text-muted-foreground shrink-0">
               {draft.actuationMin ?? 0}~{draft.actuationMax ?? 100}
+              {t('switch.g')}
+            </span>
+          </div>
+        );
+      case 'initial':
+        return (
+          <div className="flex items-center gap-3">
+            <div className="flex-1">
+              <Slider
+                min={0}
+                max={100}
+                step={5}
+                value={[draft.initialMin ?? 0, draft.initialMax ?? 100]}
+                onValueChange={(value) => {
+                  const v = value as number[];
+                  update({
+                    initialMin: v[0] > 0 ? v[0] : undefined,
+                    initialMax: v[1] < 100 ? v[1] : undefined,
+                  });
+                }}
+              />
+            </div>
+            <span className="text-sm text-muted-foreground shrink-0">
+              {draft.initialMin ?? 0}~{draft.initialMax ?? 100}
+              {t('switch.g')}
+            </span>
+          </div>
+        );
+      case 'bottom':
+        return (
+          <div className="flex items-center gap-3">
+            <div className="flex-1">
+              <Slider
+                min={0}
+                max={100}
+                step={5}
+                value={[draft.bottomMin ?? 0, draft.bottomMax ?? 100]}
+                onValueChange={(value) => {
+                  const v = value as number[];
+                  update({
+                    bottomMin: v[0] > 0 ? v[0] : undefined,
+                    bottomMax: v[1] < 100 ? v[1] : undefined,
+                  });
+                }}
+              />
+            </div>
+            <span className="text-sm text-muted-foreground shrink-0">
+              {draft.bottomMin ?? 0}~{draft.bottomMax ?? 100}
               {t('switch.g')}
             </span>
           </div>
@@ -529,6 +593,66 @@ const SwitchFilter = ({
                 </div>
                 <span className="text-sm text-muted-foreground">
                   {draft.actuationMin ?? 0}~{draft.actuationMax ?? 100}
+                  {t('switch.g')}
+                </span>
+              </div>
+            </td>
+          </tr>
+
+          {/* 초기압 범위 */}
+          <tr>
+            <td className="text-sm font-medium text-muted-foreground py-2 pr-4 align-top whitespace-nowrap">
+              {t('filter.initialForceRange')}
+            </td>
+            <td className="py-2">
+              <div className="flex items-center gap-3">
+                <div className="w-48">
+                  <Slider
+                    min={0}
+                    max={100}
+                    step={5}
+                    value={[draft.initialMin ?? 0, draft.initialMax ?? 100]}
+                    onValueChange={(value) => {
+                      const v = value as number[];
+                      update({
+                        initialMin: v[0] > 0 ? v[0] : undefined,
+                        initialMax: v[1] < 100 ? v[1] : undefined,
+                      });
+                    }}
+                  />
+                </div>
+                <span className="text-sm text-muted-foreground">
+                  {draft.initialMin ?? 0}~{draft.initialMax ?? 100}
+                  {t('switch.g')}
+                </span>
+              </div>
+            </td>
+          </tr>
+
+          {/* 바닥압 범위 */}
+          <tr>
+            <td className="text-sm font-medium text-muted-foreground py-2 pr-4 align-top whitespace-nowrap">
+              {t('filter.bottomForceRange')}
+            </td>
+            <td className="py-2">
+              <div className="flex items-center gap-3">
+                <div className="w-48">
+                  <Slider
+                    min={0}
+                    max={100}
+                    step={5}
+                    value={[draft.bottomMin ?? 0, draft.bottomMax ?? 100]}
+                    onValueChange={(value) => {
+                      const v = value as number[];
+                      update({
+                        bottomMin: v[0] > 0 ? v[0] : undefined,
+                        bottomMax: v[1] < 100 ? v[1] : undefined,
+                      });
+                    }}
+                  />
+                </div>
+                <span className="text-sm text-muted-foreground">
+                  {draft.bottomMin ?? 0}~{draft.bottomMax ?? 100}
                   {t('switch.g')}
                 </span>
               </div>

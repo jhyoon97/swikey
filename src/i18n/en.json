@@ -53,6 +53,8 @@
     "silent": "Silent",
     "factoryLubed": "Factory Lubed",
     "actuationForceRange": "Actuation Force Range",
+    "initialForceRange": "Initial Force Range",
+    "bottomForceRange": "Bottom-out Force Range",
     "travelRange": "Travel Range",
     "reset": "Reset Filters",
     "searchPlaceholder": "Search by switch name..."

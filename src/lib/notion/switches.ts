@@ -144,6 +144,34 @@ export const searchSwitches = async (
     });
   }
 
+  if (filters.initialMin !== undefined) {
+    conditions.push({
+      property: '초기압',
+      number: { greater_than_or_equal_to: filters.initialMin },
+    });
+  }
+
+  if (filters.initialMax !== undefined) {
+    conditions.push({
+      property: '초기압',
+      number: { less_than_or_equal_to: filters.initialMax },
+    });
+  }
+
+  if (filters.bottomMin !== undefined) {
+    conditions.push({
+      property: '바닥압',
+      number: { greater_than_or_equal_to: filters.bottomMin },
+    });
+  }
+
+  if (filters.bottomMax !== undefined) {
+    conditions.push({
+      property: '바닥압',
+      number: { less_than_or_equal_to: filters.bottomMax },
+    });
+  }
+
   if (filters.travelMin !== undefined) {
     conditions.push({
       property: '트래블',
