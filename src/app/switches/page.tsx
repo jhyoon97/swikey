@@ -2,7 +2,7 @@
 
 import { Suspense, useCallback, useMemo, useState } from 'react';
 
-import { ChevronDown, ChevronUp } from 'lucide-react';
+import { ArrowDownUp, ChevronDown, ChevronUp, Loader2 } from 'lucide-react';
 import { useRouter, useSearchParams } from 'next/navigation';
 
 import SwitchCardGrid from '@/components/switch/SwitchCardGrid';
@@ -11,8 +11,14 @@ import SwitchFilter from '@/components/switch/SwitchFilter';
 import { Button } from '@/components/ui/button';
 import { useTranslation } from '@/i18n/useTranslation';
 import { useSearchSwitches } from '@/lib/api/queries/useSwitches';
-import { MANUFACTURERS } from '@/lib/utils';
-import type { MountPins, SwitchFilters, SwitchType } from '@/types/switch';
+import { cn, MANUFACTURERS } from '@/lib/utils';
+import type {
+  MountPins,
+  SortBy,
+  SortDirection,
+  SwitchFilters,
+  SwitchType,
+} from '@/types/switch';
 
 const parseFiltersFromParams = (
   searchParams: URLSearchParams,
@@ -55,6 +61,9 @@ const parseFiltersFromParams = (
   travelMax: searchParams.get('travelMax')
     ? Number(searchParams.get('travelMax'))
     : undefined,
+  sortBy: (searchParams.get('sortBy') as SortBy) || undefined,
+  sortDirection:
+    (searchParams.get('sortDirection') as SortDirection) || undefined,
 });
 
 const filtersToParams = (filters: SwitchFilters): string => {
@@ -84,6 +93,8 @@ const filtersToParams = (filters: SwitchFilters): string => {
     params.set('travelMin', String(filters.travelMin));
   if (filters.travelMax !== undefined)
     params.set('travelMax', String(filters.travelMax));
+  if (filters.sortBy) params.set('sortBy', filters.sortBy);
+  if (filters.sortDirection) params.set('sortDirection', filters.sortDirection);
   return params.toString();
 };
 
@@ -97,7 +108,7 @@ const SwitchesPageContent = () => {
     parseFiltersFromParams(searchParams),
   );
 
-  const { data, isLoading, hasNextPage, isFetchingNextPage, fetchNextPage } =
+  const { data, isLoading, isFetching, hasNextPage, isFetchingNextPage, fetchNextPage } =
     useSearchSwitches(filters);
   const manufacturers = MANUFACTURERS as unknown as string[];
 
@@ -108,17 +119,39 @@ const SwitchesPageContent = () => {
 
   const handleSubmit = useCallback(
     (newFilters: SwitchFilters) => {
-      setFilters(newFilters);
-      const qs = filtersToParams(newFilters);
+      const merged = {
+        ...newFilters,
+        sortBy: filters.sortBy,
+        sortDirection: filters.sortDirection,
+      };
+      setFilters(merged);
+      const qs = filtersToParams(merged);
       router.push(qs ? `/switches?${qs}` : '/switches', { scroll: false });
     },
-    [router],
+    [filters.sortBy, filters.sortDirection, router],
   );
 
   const handleReset = useCallback(() => {
     setFilters({});
     router.push('/switches', { scroll: false });
   }, [router]);
+
+  const handleSort = useCallback(
+    (sortBy: SortBy | undefined, sortDirection?: SortDirection) => {
+      const newFilters = { ...filters, sortBy, sortDirection };
+      setFilters(newFilters);
+      const qs = filtersToParams(newFilters);
+      router.push(qs ? `/switches?${qs}` : '/switches', { scroll: false });
+    },
+    [filters, router],
+  );
+
+  const sortByOptions: { value: SortBy; label: string }[] = [
+    { value: '이름', label: t('filter.sortName') },
+    { value: '입력압', label: t('filter.sortActuation') },
+    { value: '초기압', label: t('filter.sortInitial') },
+    { value: '바닥압', label: t('filter.sortBottom') },
+  ];
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
@@ -152,10 +185,61 @@ const SwitchesPageContent = () => {
         </div>
       )}
 
-      <div>
+      <div className="flex items-center gap-2 mb-3 flex-wrap">
+        <span className="text-xs text-muted-foreground flex items-center gap-1">
+          <ArrowDownUp className="h-3 w-3" />
+          {t('filter.sort')}
+        </span>
+        {sortByOptions.map((opt) => (
+          <button
+            key={opt.value}
+            type="button"
+            onClick={() => {
+              if (filters.sortBy === opt.value) {
+                const nextDir =
+                  filters.sortDirection === 'ascending'
+                    ? 'descending'
+                    : 'ascending';
+                handleSort(opt.value, nextDir);
+              } else {
+                handleSort(opt.value, 'ascending');
+              }
+            }}
+            className={cn(
+              'inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs border transition-colors cursor-pointer',
+              filters.sortBy === opt.value
+                ? 'bg-primary text-primary-foreground border-primary'
+                : 'bg-background text-foreground border-border hover:bg-muted',
+            )}
+          >
+            {opt.label}
+            {filters.sortBy === opt.value && (
+              <span className="text-[10px]">
+                {filters.sortDirection === 'descending' ? '↓' : '↑'}
+              </span>
+            )}
+          </button>
+        ))}
+        {filters.sortBy && (
+          <button
+            type="button"
+            onClick={() => handleSort(undefined)}
+            className="text-xs text-muted-foreground hover:text-foreground transition-colors cursor-pointer"
+          >
+            {t('filter.sortDefault')}
+          </button>
+        )}
+      </div>
+
+      <div className="relative">
+        {isFetching && !isFetchingNextPage && (
+          <div className="absolute inset-0 z-10 flex items-center justify-center rounded-lg bg-background/60 backdrop-blur-[1px]" style={{ minHeight: '8rem' }}>
+            <Loader2 className="h-6 w-6 animate-spin text-muted-foreground" />
+          </div>
+        )}
         {isLoading ? (
-          <div className="text-center py-16 text-muted-foreground">
-            {t('common.loading')}
+          <div className="flex justify-center py-16">
+            <Loader2 className="h-6 w-6 animate-spin text-muted-foreground" />
           </div>
         ) : (
           <SwitchCardGrid

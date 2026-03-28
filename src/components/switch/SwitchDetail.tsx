@@ -5,10 +5,19 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { useTranslation } from '@/i18n/useTranslation';
 import { switchTypeColor, switchTypeLabelKey } from '@/lib/utils';
 import type { KeyboardSwitch } from '@/types/switch';
+import { useState } from 'react';
+import { Copy, Check } from 'lucide-react';
 
 const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
   const { t, locale } = useTranslation();
   const displayName = locale === 'ko' && sw.nameKo ? sw.nameKo : sw.name;
+  const [copied, setCopied] = useState(false);
+
+  const handleCopy = () => {
+    navigator.clipboard.writeText(sw.name);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
   const typeLabel = t(switchTypeLabelKey[sw.type]);
 
   const na = t('common.noInfo');
@@ -81,6 +90,13 @@ const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
       <div>
         <div className="mb-4">
           <div className="flex items-center gap-3">
+            <button
+              onClick={handleCopy}
+              className="text-muted-foreground hover:text-foreground transition-colors cursor-pointer"
+              aria-label="Copy name"
+            >
+              {copied ? <Check size={18} /> : <Copy size={18} />}
+            </button>
             <h1 className="text-3xl font-bold">{displayName}</h1>
             <Badge className={switchTypeColor[sw.type]}>{typeLabel}</Badge>
           </div>
@@ -112,23 +128,6 @@ const SwitchDetail = ({ sw }: { sw: KeyboardSwitch }) => {
         </CardContent>
       </Card>
 
-      {sw.source && (
-        <Card>
-          <CardHeader>
-            <CardTitle>{t('switch.source')}</CardTitle>
-          </CardHeader>
-          <CardContent>
-            <a
-              href={sw.source}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-sm text-blue-500 hover:underline break-all"
-            >
-              {sw.source}
-            </a>
-          </CardContent>
-        </Card>
-      )}
     </div>
   );
 };

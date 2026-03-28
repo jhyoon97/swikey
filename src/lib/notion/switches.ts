@@ -1,6 +1,6 @@
 import type { PageObjectResponse } from '@notionhq/client/build/src/api-endpoints';
 
-import type { KeyboardSwitch, SwitchFilters } from '@/types/switch';
+import type { KeyboardSwitch, SortBy, SwitchFilters } from '@/types/switch';
 
 import { SWITCHES_DB_ID, getNotionClient } from './client';
 import { mapPageToSwitch } from './types';
@@ -193,13 +193,30 @@ export const searchSwitches = async (
     });
   }
 
+  const notionPropertyMap: Record<SortBy, string> = {
+    이름: '이름',
+    입력압: '입력압',
+    초기압: '초기압',
+    바닥압: '바닥압',
+  };
+
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const sorts: any[] = filters.sortBy
+    ? [
+        {
+          property: notionPropertyMap[filters.sortBy],
+          direction: filters.sortDirection ?? 'ascending',
+        },
+      ]
+    : [{ timestamp: 'created_time', direction: 'descending' }];
+
   const response = await notion.databases.query({
     database_id: SWITCHES_DB_ID,
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     filter: (conditions.length > 1
       ? { and: conditions }
       : conditions[0]) as any,
-    sorts: [{ timestamp: 'created_time', direction: 'descending' }],
+    sorts,
     page_size: pageSize,
     ...(cursor ? { start_cursor: cursor } : {}),
   });

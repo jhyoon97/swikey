@@ -1,6 +1,6 @@
 'use client';
 
-import { useInfiniteQuery, useQuery } from '@tanstack/react-query';
+import { keepPreviousData, useInfiniteQuery, useQuery } from '@tanstack/react-query';
 
 import type { PaginatedSwitches } from '@/lib/notion/switches';
 import type { KeyboardSwitch, SwitchFilters } from '@/types/switch';
@@ -46,6 +46,9 @@ export const useSearchSwitches = (filters: SwitchFilters) => {
     params.set('travelMin', String(filters.travelMin));
   if (filters.travelMax !== undefined)
     params.set('travelMax', String(filters.travelMax));
+  if (filters.sortBy) params.set('sortBy', filters.sortBy);
+  if (filters.sortDirection)
+    params.set('sortDirection', filters.sortDirection);
 
   const filterString = params.toString();
 
@@ -62,5 +65,6 @@ export const useSearchSwitches = (filters: SwitchFilters) => {
     initialPageParam: undefined as string | undefined,
     getNextPageParam: (lastPage) =>
       lastPage.hasMore ? lastPage.nextCursor : undefined,
+    placeholderData: keepPreviousData,
   });
 };

@@ -60,7 +60,15 @@
     "bottomForceRange": "바닥압 범위",
     "travelRange": "트래블 범위",
     "reset": "필터 초기화",
-    "searchPlaceholder": "스위치 이름으로 검색..."
+    "searchPlaceholder": "스위치 이름으로 검색...",
+    "sort": "정렬",
+    "sortDefault": "기본",
+    "sortName": "이름순",
+    "sortActuation": "입력압",
+    "sortInitial": "초기압",
+    "sortBottom": "바닥압",
+    "sortAscending": "오름차순",
+    "sortDescending": "내림차순"
   },
   "comment": {
     "title": "댓글",

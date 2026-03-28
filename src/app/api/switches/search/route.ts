@@ -2,7 +2,7 @@ import type { NextRequest } from 'next/server';
 import { NextResponse } from 'next/server';
 
 import { searchSwitches } from '@/lib/notion/switches';
-import type { MountPins, SwitchType } from '@/types/switch';
+import type { MountPins, SortBy, SortDirection, SwitchType } from '@/types/switch';
 
 export const GET = async (request: NextRequest) => {
   try {
@@ -51,6 +51,9 @@ export const GET = async (request: NextRequest) => {
       travelMax: searchParams.get('travelMax')
         ? Number(searchParams.get('travelMax'))
         : undefined,
+      sortBy: (searchParams.get('sortBy') as SortBy) || undefined,
+      sortDirection:
+        (searchParams.get('sortDirection') as SortDirection) || undefined,
     };
 
     const cursor = searchParams.get('cursor') || undefined;

@@ -41,6 +41,9 @@ export interface SwitchComment {
   createdAt: string;
 }
 
+export type SortBy = '이름' | '입력압' | '초기압' | '바닥압';
+export type SortDirection = 'ascending' | 'descending';
+
 export interface SwitchFilters {
   query?: string;
   type?: SwitchType;
@@ -57,5 +60,7 @@ export interface SwitchFilters {
   bottomMax?: number;
   travelMin?: number;
   travelMax?: number;
+  sortBy?: SortBy;
+  sortDirection?: SortDirection;
 }
 

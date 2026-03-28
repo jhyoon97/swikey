@@ -60,7 +60,15 @@
     "bottomForceRange": "Bottom-out Force Range",
     "travelRange": "Travel Range",
     "reset": "Reset Filters",
-    "searchPlaceholder": "Search by switch name..."
+    "searchPlaceholder": "Search by switch name...",
+    "sort": "Sort",
+    "sortDefault": "Default",
+    "sortName": "Name",
+    "sortActuation": "Actuation",
+    "sortInitial": "Initial",
+    "sortBottom": "Bottom-out",
+    "sortAscending": "Ascending",
+    "sortDescending": "Descending"
   },
   "comment": {
     "title": "Comments",
